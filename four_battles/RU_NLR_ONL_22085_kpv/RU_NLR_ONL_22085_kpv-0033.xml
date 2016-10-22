@@ -1,16 +1,31 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
-<Description>
-<MeasurementUnit>pixel</MeasurementUnit>
-<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-10-20</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
-</Description>
-<Styles>
-<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-</Styles>
-<Layout>
-<Page ID="Page1" PHYSICAL_IMG_NR="1">
-<PrintSpace HEIGHT="2426" WIDTH="2025" VPOS="0" HPOS="0"><Illustration ID="BlockId-AD7E24AC-E650-4615-8F7A-972BFAFC3B7E-" HEIGHT="2426" WIDTH="2025" VPOS="0" HPOS="0"/><GraphicalElement ID="BlockId-9182B81F-82F1-48B3-95C5-E2D083EA0EF1-" HEIGHT="311" WIDTH="16" VPOS="1724" HPOS="81"/><GraphicalElement ID="BlockId-6FE4F3BF-C094-4474-B158-57DC1DC41CA6-" HEIGHT="580" WIDTH="21" VPOS="1144" HPOS="90"/><GraphicalElement ID="BlockId-71853352-0127-4415-80F9-49CB2A015D92-" HEIGHT="787" WIDTH="25" VPOS="357" HPOS="102"/><GraphicalElement ID="BlockId-F38704C3-9143-44B2-A91F-718985575467-" HEIGHT="1242" WIDTH="21" VPOS="1114" HPOS="1978"/><GraphicalElement ID="BlockId-4489FE16-F8D2-484E-8930-95586112D6FC-" HEIGHT="1045" WIDTH="12" VPOS="69" HPOS="1979"/>
-</PrintSpace>
-</Page>
-</Layout>
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2016-10-20</processingDateTime>
+        <processingSoftware>
+          <softwareCreator>ABBYY</softwareCreator>
+          <softwareName>ABBYY Recognition Server</softwareName>
+          <softwareVersion>4.0</softwareVersion>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+  </Styles>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1">
+      <PrintSpace HEIGHT="2426" WIDTH="2025" VPOS="0" HPOS="0">
+        <Illustration ID="BlockId-AD7E24AC-E650-4615-8F7A-972BFAFC3B7E-" HEIGHT="2426" WIDTH="2025" VPOS="0" HPOS="0"/>
+        <GraphicalElement ID="BlockId-9182B81F-82F1-48B3-95C5-E2D083EA0EF1-" HEIGHT="311" WIDTH="16" VPOS="1724" HPOS="81"/>
+        <GraphicalElement ID="BlockId-6FE4F3BF-C094-4474-B158-57DC1DC41CA6-" HEIGHT="580" WIDTH="21" VPOS="1144" HPOS="90"/>
+        <GraphicalElement ID="BlockId-71853352-0127-4415-80F9-49CB2A015D92-" HEIGHT="787" WIDTH="25" VPOS="357" HPOS="102"/>
+        <GraphicalElement ID="BlockId-F38704C3-9143-44B2-A91F-718985575467-" HEIGHT="1242" WIDTH="21" VPOS="1114" HPOS="1978"/>
+        <GraphicalElement ID="BlockId-4489FE16-F8D2-484E-8930-95586112D6FC-" HEIGHT="1045" WIDTH="12" VPOS="69" HPOS="1979"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
 </alto>

@@ -1,39 +1,95 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
-<Description>
-<MeasurementUnit>pixel</MeasurementUnit>
-<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-10-18</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
-</Description>
-<Styles><TextStyle ID="font0" FONTFAMILY="Arial" FONTSIZE="7"/><TextStyle ID="font1" FONTFAMILY="Arial" FONTSIZE="9"/><TextStyle ID="font2" FONTFAMILY="Arial" FONTSIZE="11"/><TextStyle ID="font3" FONTFAMILY="Arial" FONTSIZE="13"/><TextStyle ID="font4" FONTFAMILY="Arial" FONTSIZE="24"/>
-<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-<ParagraphStyle ID="StyleId-98E7BBCE-127C-4DBE-ADD9-39514F07F0B8-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-<ParagraphStyle ID="StyleId-A84EA10E-C68F-4126-A4E2-4BBAFF3BE1EF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-<ParagraphStyle ID="StyleId-99A39598-B615-4B64-AF32-088ADD438A6A-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="22" LINESPACE="10"/>
-<ParagraphStyle ID="StyleId-E960594D-4E19-40AD-86DE-8A9B06BD7957-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-<ParagraphStyle ID="StyleId-BCEFC8CF-5624-4E9D-8BB3-5DC1C0AC9A44-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-<ParagraphStyle ID="StyleId-4F800008-6BAB-4153-A11A-8746ED584E3F-" ALIGN="Right" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-</Styles>
-<Layout>
-<Page ID="Page1" PHYSICAL_IMG_NR="1">
-<PrintSpace HEIGHT="2660" WIDTH="1760" VPOS="0" HPOS="0">
-<TextBlock ID="BlockId-4E27C13B-E0B2-4FE4-8440-60B7E0A3B958-" HEIGHT="171" WIDTH="876" VPOS="100" HPOS="219" STYLEREFS="StyleId-E960594D-4E19-40AD-86DE-8A9B06BD7957- font1">
-<TextLine HEIGHT="61" WIDTH="187" VPOS="105" HPOS="236" STYLEREFS="StyleId-A84EA10E-C68F-4126-A4E2-4BBAFF3BE1EF- font3"><String CONTENT="К-Перм," HEIGHT="61" WIDTH="187" VPOS="105" HPOS="236"/></TextLine>
-<TextLine HEIGHT="17" WIDTH="215" VPOS="167" HPOS="223"><String STYLE="bold" CONTENT="—..—^" HEIGHT="17" WIDTH="215" VPOS="167" HPOS="223"/></TextLine>
-<TextLine HEIGHT="78" WIDTH="870" VPOS="190" HPOS="219" STYLEREFS="StyleId-BCEFC8CF-5624-4E9D-8BB3-5DC1C0AC9A44- font3"><String CONTENT="13^20-" HEIGHT="78" WIDTH="271" VPOS="190" HPOS="219"/><SP WIDTH="156" VPOS="215" HPOS="491"/><String CONTENT="Л." HEIGHT="39" WIDTH="44" VPOS="215" HPOS="648"/><SP WIDTH="32" VPOS="215" HPOS="693"/><String CONTENT="УСПЕНСКИЙ" HEIGHT="49" WIDTH="363" VPOS="206" HPOS="726"/></TextLine>
-</TextBlock>
-<TextBlock ID="BlockId-88F25C26-5459-431E-8C69-F8C9A9F5BADB-" HEIGHT="114" WIDTH="1315" VPOS="680" HPOS="206" STYLEREFS="StyleId-98E7BBCE-127C-4DBE-ADD9-39514F07F0B8- font4">
-<TextLine HEIGHT="102" WIDTH="1302" VPOS="686" HPOS="213"><String CONTENT="НЁЛЬ" HEIGHT="91" WIDTH="283" VPOS="696" HPOS="213"/><SP WIDTH="64" VPOS="711" HPOS="497"/><String CONTENT="БОЕВОЙ" HEIGHT="102" WIDTH="451" VPOS="686" HPOS="562"/><SP WIDTH="65" VPOS="686" HPOS="1014"/><String CONTENT="СЛУЧАЙ" HEIGHT="100" WIDTH="435" VPOS="687" HPOS="1080"/></TextLine>
-</TextBlock><Illustration ID="BlockId-71D33D34-08C7-4A7E-A6B2-12B030863D45-" HEIGHT="436" WIDTH="745" VPOS="1269" HPOS="503"/>
-<ComposedBlock ID="BlockId-584E93B4-74FB-4FE0-ACAF-C46C6C8A5D94-" HEIGHT="222" WIDTH="1262" VPOS="2292" HPOS="416" TYPE="container">
-<TextBlock ID="BlockId-53EE6269-6F61-4D38-A394-195F2AF34CF7-" HEIGHT="64" WIDTH="910" VPOS="2346" HPOS="416" STYLEREFS="StyleId-4F800008-6BAB-4153-A11A-8746ED584E3F- font2">
-<TextLine HEIGHT="48" WIDTH="879" VPOS="2358" HPOS="431"><String CONTENT="КОМИПЕРМГИЗ" HEIGHT="40" WIDTH="389" VPOS="2358" HPOS="431"/><SP WIDTH="47" VPOS="2362" HPOS="821"/><String CONTENT="1944" HEIGHT="34" WIDTH="102" VPOS="2363" HPOS="869"/><SP WIDTH="49" VPOS="2363" HPOS="972"/><String CONTENT="КУДЫМКАР" HEIGHT="44" WIDTH="288" VPOS="2362" HPOS="1022"/></TextLine>
-</TextBlock>
-<TextBlock ID="BlockId-54CB4FA6-7773-42FC-B2F7-DE01CA40EB10-" HEIGHT="222" WIDTH="262" VPOS="2292" HPOS="1416" STYLEREFS="StyleId-99A39598-B615-4B64-AF32-088ADD438A6A- font0"><Shape><Polygon POINTS="1512,2292 1678,2292 1678,2343 1663,2343 1663,2410 1666,2410 1666,2419 1665,2419 1665,2429 1664,2429 1664,2433 1666,2433 1666,2514 1416,2514 1416,2412 1422,2412 1422,2396 1454,2396 1454,2386 1458,2386 1458,2342 1512,2342 1512,2292"/></Shape>
-<TextLine HEIGHT="29" WIDTH="58" VPOS="2300" HPOS="1529"><String STYLEREFS="font1" CONTENT="Гос." HEIGHT="29" WIDTH="58" VPOS="2300" HPOS="1529"/></TextLine>
-<TextLine HEIGHT="35" WIDTH="155" VPOS="2344" HPOS="1474"><String STYLE="bold" CONTENT="Публичная" HEIGHT="35" WIDTH="155" VPOS="2344" HPOS="1474"/></TextLine>
-<TextLine HEIGHT="31" WIDTH="206" VPOS="2389" HPOS="1437"><String STYLE="bold" CONTENT="і\" HEIGHT="24" WIDTH="13" VPOS="2396" HPOS="1437"/><SP WIDTH="17" VPOS="2389" HPOS="1451"/><String STYLE="bold" CONTENT="Ги&lt;йао»еиг." HEIGHT="27" WIDTH="174" VPOS="2389" HPOS="1469"/></TextLine>
-</TextBlock></ComposedBlock><GraphicalElement ID="BlockId-2A9165D9-5BAF-4B21-A941-95822FD23A3B-" HEIGHT="14" WIDTH="215" VPOS="170" HPOS="223"/><GraphicalElement ID="BlockId-11E0E48C-B163-4A16-B2CC-7378A4F0A3C9-" HEIGHT="5" WIDTH="124" VPOS="1296" HPOS="1078"/><GraphicalElement ID="BlockId-DE1C1C12-4563-483B-BBFE-A7AA300F3057-" HEIGHT="4" WIDTH="113" VPOS="1304" HPOS="1080"/><GraphicalElement ID="BlockId-969D1BDE-88DF-4AA5-A54B-81B6F9832DA8-" HEIGHT="8" WIDTH="169" VPOS="1313" HPOS="1059"/><GraphicalElement ID="BlockId-38F0B4D2-EAD4-425A-AD28-6BE50B720524-" HEIGHT="4" WIDTH="124" VPOS="1428" HPOS="1097"/><GraphicalElement ID="BlockId-6ABCAF3D-89F9-432C-A75C-F60B3AA8CAF5-" HEIGHT="4" WIDTH="83" VPOS="1619" HPOS="719"/><GraphicalElement ID="BlockId-DF9E29D0-BC0D-4585-BE4A-2A3A5ECCAC3C-" HEIGHT="162" WIDTH="11" VPOS="107" HPOS="213"/>
-</PrintSpace>
-</Page>
-</Layout>
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2016-10-18</processingDateTime>
+        <processingSoftware>
+          <softwareCreator>ABBYY</softwareCreator>
+          <softwareName>ABBYY Recognition Server</softwareName>
+          <softwareVersion>4.0</softwareVersion>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="font0" FONTFAMILY="Arial" FONTSIZE="7"/>
+    <TextStyle ID="font1" FONTFAMILY="Arial" FONTSIZE="9"/>
+    <TextStyle ID="font2" FONTFAMILY="Arial" FONTSIZE="11"/>
+    <TextStyle ID="font3" FONTFAMILY="Arial" FONTSIZE="13"/>
+    <TextStyle ID="font4" FONTFAMILY="Arial" FONTSIZE="24"/>
+    <ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+    <ParagraphStyle ID="StyleId-98E7BBCE-127C-4DBE-ADD9-39514F07F0B8-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+    <ParagraphStyle ID="StyleId-A84EA10E-C68F-4126-A4E2-4BBAFF3BE1EF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+    <ParagraphStyle ID="StyleId-99A39598-B615-4B64-AF32-088ADD438A6A-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="22" LINESPACE="10"/>
+    <ParagraphStyle ID="StyleId-E960594D-4E19-40AD-86DE-8A9B06BD7957-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+    <ParagraphStyle ID="StyleId-BCEFC8CF-5624-4E9D-8BB3-5DC1C0AC9A44-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+    <ParagraphStyle ID="StyleId-4F800008-6BAB-4153-A11A-8746ED584E3F-" ALIGN="Right" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+  </Styles>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1">
+      <PrintSpace HEIGHT="2660" WIDTH="1760" VPOS="0" HPOS="0">
+        <TextBlock ID="BlockId-4E27C13B-E0B2-4FE4-8440-60B7E0A3B958-" HEIGHT="171" WIDTH="876" VPOS="100" HPOS="219" STYLEREFS="StyleId-E960594D-4E19-40AD-86DE-8A9B06BD7957- font1">
+          <TextLine HEIGHT="61" WIDTH="187" VPOS="105" HPOS="236" STYLEREFS="StyleId-A84EA10E-C68F-4126-A4E2-4BBAFF3BE1EF- font3">
+            <String CONTENT="К-Перм," HEIGHT="61" WIDTH="187" VPOS="105" HPOS="236"/>
+          </TextLine>
+          <TextLine HEIGHT="17" WIDTH="215" VPOS="167" HPOS="223">
+            <String STYLE="bold" CONTENT="—..—^" HEIGHT="17" WIDTH="215" VPOS="167" HPOS="223"/>
+          </TextLine>
+          <TextLine HEIGHT="78" WIDTH="870" VPOS="190" HPOS="219" STYLEREFS="StyleId-BCEFC8CF-5624-4E9D-8BB3-5DC1C0AC9A44- font3">
+            <String CONTENT="13^20-" HEIGHT="78" WIDTH="271" VPOS="190" HPOS="219"/>
+            <SP WIDTH="156" VPOS="215" HPOS="491"/>
+            <String CONTENT="Л." HEIGHT="39" WIDTH="44" VPOS="215" HPOS="648"/>
+            <SP WIDTH="32" VPOS="215" HPOS="693"/>
+            <String CONTENT="УСПЕНСКИЙ" HEIGHT="49" WIDTH="363" VPOS="206" HPOS="726"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="BlockId-88F25C26-5459-431E-8C69-F8C9A9F5BADB-" HEIGHT="114" WIDTH="1315" VPOS="680" HPOS="206" STYLEREFS="StyleId-98E7BBCE-127C-4DBE-ADD9-39514F07F0B8- font4">
+          <TextLine HEIGHT="102" WIDTH="1302" VPOS="686" HPOS="213">
+            <String CONTENT="НЁЛЬ" HEIGHT="91" WIDTH="283" VPOS="696" HPOS="213"/>
+            <SP WIDTH="64" VPOS="711" HPOS="497"/>
+            <String CONTENT="БОЕВОЙ" HEIGHT="102" WIDTH="451" VPOS="686" HPOS="562"/>
+            <SP WIDTH="65" VPOS="686" HPOS="1014"/>
+            <String CONTENT="СЛУЧАЙ" HEIGHT="100" WIDTH="435" VPOS="687" HPOS="1080"/>
+          </TextLine>
+        </TextBlock>
+        <Illustration ID="BlockId-71D33D34-08C7-4A7E-A6B2-12B030863D45-" HEIGHT="436" WIDTH="745" VPOS="1269" HPOS="503"/>
+        <ComposedBlock ID="BlockId-584E93B4-74FB-4FE0-ACAF-C46C6C8A5D94-" HEIGHT="222" WIDTH="1262" VPOS="2292" HPOS="416" TYPE="container">
+          <TextBlock ID="BlockId-53EE6269-6F61-4D38-A394-195F2AF34CF7-" HEIGHT="64" WIDTH="910" VPOS="2346" HPOS="416" STYLEREFS="StyleId-4F800008-6BAB-4153-A11A-8746ED584E3F- font2">
+            <TextLine HEIGHT="48" WIDTH="879" VPOS="2358" HPOS="431">
+              <String CONTENT="КОМИПЕРМГИЗ" HEIGHT="40" WIDTH="389" VPOS="2358" HPOS="431"/>
+              <SP WIDTH="47" VPOS="2362" HPOS="821"/>
+              <String CONTENT="1944" HEIGHT="34" WIDTH="102" VPOS="2363" HPOS="869"/>
+              <SP WIDTH="49" VPOS="2363" HPOS="972"/>
+              <String CONTENT="КУДЫМКАР" HEIGHT="44" WIDTH="288" VPOS="2362" HPOS="1022"/>
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="BlockId-54CB4FA6-7773-42FC-B2F7-DE01CA40EB10-" HEIGHT="222" WIDTH="262" VPOS="2292" HPOS="1416" STYLEREFS="StyleId-99A39598-B615-4B64-AF32-088ADD438A6A- font0">
+            <Shape>
+              <Polygon POINTS="1512,2292 1678,2292 1678,2343 1663,2343 1663,2410 1666,2410 1666,2419 1665,2419 1665,2429 1664,2429 1664,2433 1666,2433 1666,2514 1416,2514 1416,2412 1422,2412 1422,2396 1454,2396 1454,2386 1458,2386 1458,2342 1512,2342 1512,2292"/>
+            </Shape>
+            <TextLine HEIGHT="29" WIDTH="58" VPOS="2300" HPOS="1529">
+              <String STYLEREFS="font1" CONTENT="Гос." HEIGHT="29" WIDTH="58" VPOS="2300" HPOS="1529"/>
+            </TextLine>
+            <TextLine HEIGHT="35" WIDTH="155" VPOS="2344" HPOS="1474">
+              <String STYLE="bold" CONTENT="Публичная" HEIGHT="35" WIDTH="155" VPOS="2344" HPOS="1474"/>
+            </TextLine>
+            <TextLine HEIGHT="31" WIDTH="206" VPOS="2389" HPOS="1437">
+              <String STYLE="bold" CONTENT="і\" HEIGHT="24" WIDTH="13" VPOS="2396" HPOS="1437"/>
+              <SP WIDTH="17" VPOS="2389" HPOS="1451"/>
+              <String STYLE="bold" CONTENT="Ги&lt;йао»еиг." HEIGHT="27" WIDTH="174" VPOS="2389" HPOS="1469"/>
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <GraphicalElement ID="BlockId-2A9165D9-5BAF-4B21-A941-95822FD23A3B-" HEIGHT="14" WIDTH="215" VPOS="170" HPOS="223"/>
+        <GraphicalElement ID="BlockId-11E0E48C-B163-4A16-B2CC-7378A4F0A3C9-" HEIGHT="5" WIDTH="124" VPOS="1296" HPOS="1078"/>
+        <GraphicalElement ID="BlockId-DE1C1C12-4563-483B-BBFE-A7AA300F3057-" HEIGHT="4" WIDTH="113" VPOS="1304" HPOS="1080"/>
+        <GraphicalElement ID="BlockId-969D1BDE-88DF-4AA5-A54B-81B6F9832DA8-" HEIGHT="8" WIDTH="169" VPOS="1313" HPOS="1059"/>
+        <GraphicalElement ID="BlockId-38F0B4D2-EAD4-425A-AD28-6BE50B720524-" HEIGHT="4" WIDTH="124" VPOS="1428" HPOS="1097"/>
+        <GraphicalElement ID="BlockId-6ABCAF3D-89F9-432C-A75C-F60B3AA8CAF5-" HEIGHT="4" WIDTH="83" VPOS="1619" HPOS="719"/>
+        <GraphicalElement ID="BlockId-DF9E29D0-BC0D-4585-BE4A-2A3A5ECCAC3C-" HEIGHT="162" WIDTH="11" VPOS="107" HPOS="213"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
 </alto>

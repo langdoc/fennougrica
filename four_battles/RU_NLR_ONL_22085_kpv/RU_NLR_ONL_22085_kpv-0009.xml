@@ -1,20 +1,46 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
-<Description>
-<MeasurementUnit>pixel</MeasurementUnit>
-<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-10-20</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
-</Description>
-<Styles><TextStyle ID="font0" FONTFAMILY="Arial" FONTSIZE="11"/>
-<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-<ParagraphStyle ID="StyleId-7FC43C3C-F351-48FA-9FD7-4FD3E2AEB7D7-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-</Styles>
-<Layout>
-<Page ID="Page1" PHYSICAL_IMG_NR="1">
-<PrintSpace HEIGHT="2421" WIDTH="2019" VPOS="0" HPOS="0">
-<TextBlock ID="BlockId-63704F77-078D-42E7-819E-C18EA5929EC2-" HEIGHT="64" WIDTH="1393" VPOS="1950" HPOS="284" STYLEREFS="StyleId-7FC43C3C-F351-48FA-9FD7-4FD3E2AEB7D7- font0">
-<TextLine HEIGHT="51" WIDTH="1380" VPOS="1956" HPOS="290"><String CONTENT="Фронт" HEIGHT="42" WIDTH="136" VPOS="1956" HPOS="290"/><SP WIDTH="24" VPOS="1966" HPOS="427"/><String CONTENT="вылын" HEIGHT="25" WIDTH="136" VPOS="1967" HPOS="452"/><SP WIDTH="21" VPOS="1958" HPOS="589"/><String CONTENT="Сталин" HEIGHT="36" WIDTH="150" VPOS="1958" HPOS="611"/><SP WIDTH="23" VPOS="1969" HPOS="762"/><String CONTENT="да" HEIGHT="29" WIDTH="48" VPOS="1969" HPOS="786"/><SP WIDTH="23" VPOS="1962" HPOS="835"/><String CONTENT="Ворошилов" HEIGHT="43" WIDTH="246" VPOS="1962" HPOS="859"/><SP WIDTH="24" VPOS="1965" HPOS="1106"/><String CONTENT="ёртъяс" HEIGHT="41" WIDTH="144" VPOS="1965" HPOS="1131"/><SP WIDTH="16" VPOS="1966" HPOS="1276"/><String CONTENT="Царицын" HEIGHT="41" WIDTH="190" VPOS="1966" HPOS="1293"/><SP WIDTH="17" VPOS="1965" HPOS="1484"/><String CONTENT="бердын." HEIGHT="42" WIDTH="168" VPOS="1965" HPOS="1502"/></TextLine>
-</TextBlock>
-</PrintSpace>
-</Page>
-</Layout>
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2016-10-20</processingDateTime>
+        <processingSoftware>
+          <softwareCreator>ABBYY</softwareCreator>
+          <softwareName>ABBYY Recognition Server</softwareName>
+          <softwareVersion>4.0</softwareVersion>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="font0" FONTFAMILY="Arial" FONTSIZE="11"/>
+    <ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+    <ParagraphStyle ID="StyleId-7FC43C3C-F351-48FA-9FD7-4FD3E2AEB7D7-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+  </Styles>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1">
+      <PrintSpace HEIGHT="2421" WIDTH="2019" VPOS="0" HPOS="0">
+        <TextBlock ID="BlockId-63704F77-078D-42E7-819E-C18EA5929EC2-" HEIGHT="64" WIDTH="1393" VPOS="1950" HPOS="284" STYLEREFS="StyleId-7FC43C3C-F351-48FA-9FD7-4FD3E2AEB7D7- font0">
+          <TextLine HEIGHT="51" WIDTH="1380" VPOS="1956" HPOS="290">
+            <String CONTENT="Фронт" HEIGHT="42" WIDTH="136" VPOS="1956" HPOS="290"/>
+            <SP WIDTH="24" VPOS="1966" HPOS="427"/>
+            <String CONTENT="вылын" HEIGHT="25" WIDTH="136" VPOS="1967" HPOS="452"/>
+            <SP WIDTH="21" VPOS="1958" HPOS="589"/>
+            <String CONTENT="Сталин" HEIGHT="36" WIDTH="150" VPOS="1958" HPOS="611"/>
+            <SP WIDTH="23" VPOS="1969" HPOS="762"/>
+            <String CONTENT="да" HEIGHT="29" WIDTH="48" VPOS="1969" HPOS="786"/>
+            <SP WIDTH="23" VPOS="1962" HPOS="835"/>
+            <String CONTENT="Ворошилов" HEIGHT="43" WIDTH="246" VPOS="1962" HPOS="859"/>
+            <SP WIDTH="24" VPOS="1965" HPOS="1106"/>
+            <String CONTENT="ёртъяс" HEIGHT="41" WIDTH="144" VPOS="1965" HPOS="1131"/>
+            <SP WIDTH="16" VPOS="1966" HPOS="1276"/>
+            <String CONTENT="Царицын" HEIGHT="41" WIDTH="190" VPOS="1966" HPOS="1293"/>
+            <SP WIDTH="17" VPOS="1965" HPOS="1484"/>
+            <String CONTENT="бердын." HEIGHT="42" WIDTH="168" VPOS="1965" HPOS="1502"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
 </alto>

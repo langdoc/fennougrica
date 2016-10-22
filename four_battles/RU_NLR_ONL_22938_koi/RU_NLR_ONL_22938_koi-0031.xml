@@ -1,52 +1,240 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
-<Description>
-<MeasurementUnit>pixel</MeasurementUnit>
-<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-10-18</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
-</Description>
-<Styles><TextStyle ID="font0" FONTFAMILY="Arial" FONTSIZE="7"/><TextStyle ID="font1" FONTFAMILY="Arial" FONTSIZE="8"/><TextStyle ID="font2" FONTFAMILY="Arial" FONTSIZE="11"/><TextStyle ID="font3" FONTFAMILY="Arial" FONTSIZE="12"/><TextStyle ID="font4" FONTFAMILY="Arial" FONTSIZE="13"/>
-<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-<ParagraphStyle ID="StyleId-070B5E1C-47F3-4695-9AFA-78DF549E7A74-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-<ParagraphStyle ID="StyleId-DC710C4A-D207-4F14-9B1B-F397D1FF766A-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="-79" LINESPACE="8"/>
-<ParagraphStyle ID="StyleId-F521D588-F8F6-4CEC-9060-0637DAD04A3B-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-<ParagraphStyle ID="StyleId-B62DBC7C-3671-4BBC-93D8-F1900796F580-" ALIGN="Block" LEFT="0" RIGHT="0" FIRSTLINE="0" LINESPACE="17"/>
-<ParagraphStyle ID="StyleId-532FE7BA-8452-4198-A06B-D16D52DDB9BC-" ALIGN="Block" LEFT="0" RIGHT="0" FIRSTLINE="0" LINESPACE="10"/>
-</Styles>
-<Layout>
-<Page ID="Page1" PHYSICAL_IMG_NR="1">
-<PrintSpace HEIGHT="2660" WIDTH="1760" VPOS="0" HPOS="0">
-<TextBlock ID="BlockId-199910B7-14F9-4663-B08A-B31613846CAC-" HEIGHT="378" WIDTH="1322" VPOS="528" HPOS="240" STYLEREFS="StyleId-B62DBC7C-3671-4BBC-93D8-F1900796F580- font3">
-<TextLine HEIGHT="33" WIDTH="243" VPOS="536" HPOS="675" STYLEREFS="StyleId-070B5E1C-47F3-4695-9AFA-78DF549E7A74- font4"><String CONTENT="пытшкос" HEIGHT="33" WIDTH="243" VPOS="536" HPOS="675"/></TextLine>
-<TextLine HEIGHT="44" WIDTH="1292" VPOS="636" HPOS="257"><String CONTENT="Станица" HEIGHT="44" WIDTH="197" VPOS="636" HPOS="257"/><SP WIDTH="31" VPOS="636" HPOS="455"/><String CONTENT="Пятиизбеннӧй" HEIGHT="39" WIDTH="336" VPOS="636" HPOS="487"/><SP WIDTH="652" VPOS="642" HPOS="874"/><String CONTENT="О" HEIGHT="35" WIDTH="22" VPOS="642" HPOS="1527"/></TextLine>
-<TextLine HEIGHT="50" WIDTH="1294" VPOS="708" HPOS="255"><String CONTENT="Смелой" HEIGHT="40" WIDTH="175" VPOS="708" HPOS="255"/><SP WIDTH="28" VPOS="712" HPOS="431"/><String CONTENT="разведка" HEIGHT="38" WIDTH="207" VPOS="720" HPOS="460"/><SP WIDTH="494" VPOS="739" HPOS="710"/><String CONTENT="ѵ" HEIGHT="15" WIDTH="14" VPOS="732" HPOS="1247"/><SP WIDTH="10" VPOS="732" HPOS="1262"/><String CONTENT="," HEIGHT="11" WIDTH="8" VPOS="742" HPOS="1273"/><SP WIDTH="21" VPOS="740" HPOS="1282"/><String CONTENT="." HEIGHT="9" WIDTH="9" VPOS="740" HPOS="1304"/><SP WIDTH="44" VPOS="740" HPOS="1314"/><String CONTENT="." HEIGHT="7" WIDTH="9" VPOS="741" HPOS="1359"/><SP WIDTH="44" VPOS="740" HPOS="1369"/><String CONTENT="." HEIGHT="8" WIDTH="8" VPOS="740" HPOS="1414"/><SP WIDTH="80" VPOS="716" HPOS="1423"/><String CONTENT="13" HEIGHT="34" WIDTH="45" VPOS="716" HPOS="1504"/></TextLine>
-<TextLine HEIGHT="49" WIDTH="1295" VPOS="781" HPOS="256"><String CONTENT="Пулемёт" HEIGHT="49" WIDTH="200" VPOS="781" HPOS="256"/><SP WIDTH="22" VPOS="793" HPOS="457"/><String CONTENT="дынын" HEIGHT="34" WIDTH="157" VPOS="792" HPOS="480"/><SP WIDTH="766" VPOS="811" HPOS="661"/><String CONTENT="20" HEIGHT="35" WIDTH="51" VPOS="789" HPOS="1500"/></TextLine>
-<TextLine HEIGHT="50" WIDTH="1294" VPOS="852" HPOS="255"><String CONTENT="Юрси" HEIGHT="50" WIDTH="131" VPOS="852" HPOS="255"/><SP WIDTH="45" VPOS="865" HPOS="387"/><String CONTENT="тылӧп" HEIGHT="35" WIDTH="143" VPOS="857" HPOS="433"/><SP WIDTH="24" VPOS="865" HPOS="577"/><String CONTENT="вылын" HEIGHT="26" WIDTH="151" VPOS="865" HPOS="602"/><SP WIDTH="616" VPOS="884" HPOS="811"/><String CONTENT="27" HEIGHT="34" WIDTH="49" VPOS="862" HPOS="1500"/></TextLine>
-</TextBlock>
-<ComposedBlock ID="BlockId-FCB1F80C-1C2A-4684-8645-B689B24965C9-" HEIGHT="580" WIDTH="1366" VPOS="1684" HPOS="188" TYPE="container">
-<Illustration ID="BlockId-737E2DA2-6B9D-4EB9-8E69-5517B9FCC104-" HEIGHT="104" WIDTH="122" VPOS="1798" HPOS="618"><Shape><Polygon POINTS="618,1798 740,1798 740,1864 738,1864 738,1902 618,1902 618,1798"/></Shape></Illustration>
-<TextBlock ID="BlockId-21460D81-0ACD-4803-B471-B1B4C4785FEE-" HEIGHT="44" WIDTH="104" VPOS="1864" HPOS="738" STYLEREFS="StyleId-F521D588-F8F6-4CEC-9060-0637DAD04A3B- font2">
-<TextLine HEIGHT="40" WIDTH="97" VPOS="1864" HPOS="741"><String STYLE="italics" STYLEREFS="font0" CONTENT="*" HEIGHT="22" WIDTH="17" VPOS="1877" HPOS="741"/><SP WIDTH="60" VPOS="1864" HPOS="759"/><String STYLE="bold" CONTENT="I" HEIGHT="40" WIDTH="18" VPOS="1864" HPOS="820"/></TextLine>
-</TextBlock>
-<Illustration ID="BlockId-10E3636E-B2A1-4518-A845-3C2934258DC3-" HEIGHT="106" WIDTH="220" VPOS="1806" HPOS="824"><Shape><Polygon POINTS="824,1806 1044,1806 1044,1912 842,1912 842,1864 824,1864 824,1806"/></Shape></Illustration>
-<TextBlock ID="BlockId-8204FD84-D45B-494B-BF92-9A3DAA6D8A3F-" HEIGHT="92" WIDTH="486" VPOS="1984" HPOS="190" STYLEREFS="StyleId-532FE7BA-8452-4198-A06B-D16D52DDB9BC- font1">
-<TextLine HEIGHT="36" WIDTH="455" VPOS="1990" HPOS="205"><String CONTENT="Перевод" HEIGHT="34" WIDTH="138" VPOS="1992" HPOS="205"/><SP WIDTH="20" VPOS="1991" HPOS="344"/><String STYLE="italics" CONTENT="Тупициной" HEIGHT="35" WIDTH="189" VPOS="1990" HPOS="365"/><SP WIDTH="20" VPOS="1990" HPOS="555"/><String STYLE="italics" CONTENT="F," HEIGHT="26" WIDTH="23" VPOS="1992" HPOS="576"/><SP WIDTH="22" VPOS="1991" HPOS="597"/><String STYLE="italics" CONTENT="И." HEIGHT="26" WIDTH="40" VPOS="1991" HPOS="620"/></TextLine>
-<TextLine HEIGHT="35" WIDTH="430" VPOS="2036" HPOS="205"><String CONTENT="Редактор" HEIGHT="33" WIDTH="152" VPOS="2037" HPOS="205"/><SP WIDTH="20" VPOS="2036" HPOS="358"/><String STYLE="italics" CONTENT="Спорова" HEIGHT="35" WIDTH="148" VPOS="2036" HPOS="379"/><SP WIDTH="15" VPOS="2036" HPOS="528"/><String STYLE="italics" CONTENT="Н." HEIGHT="27" WIDTH="38" VPOS="2036" HPOS="544"/><SP WIDTH="19" VPOS="2036" HPOS="583"/><String STYLE="italics" CONTENT="А." HEIGHT="27" WIDTH="32" VPOS="2036" HPOS="603"/></TextLine>
-</TextBlock>
-<TextBlock ID="BlockId-0C87FC6F-C835-435F-8605-B3BF80E7E765-" HEIGHT="92" WIDTH="494" VPOS="1982" HPOS="1024" STYLEREFS="StyleId-532FE7BA-8452-4198-A06B-D16D52DDB9BC- font1">
-<TextLine HEIGHT="36" WIDTH="461" VPOS="1990" HPOS="1040"><String CONTENT="Техредактор" HEIGHT="35" WIDTH="211" VPOS="1990" HPOS="1040"/><SP WIDTH="19" VPOS="1990" HPOS="1252"/><String STYLE="italics" CONTENT="Ярком" HEIGHT="36" WIDTH="122" VPOS="1990" HPOS="1272"/><SP WIDTH="22" VPOS="1991" HPOS="1395"/><String STYLE="italics" CONTENT="Ф.С." HEIGHT="29" WIDTH="83" VPOS="1990" HPOS="1418"/></TextLine>
-<TextLine HEIGHT="35" WIDTH="457" VPOS="2035" HPOS="1046"><String CONTENT="Корректор" HEIGHT="35" WIDTH="180" VPOS="2035" HPOS="1046"/><SP WIDTH="32" VPOS="2035" HPOS="1227"/><String STYLE="italics" CONTENT="Попова" HEIGHT="27" WIDTH="127" VPOS="2035" HPOS="1260"/><SP WIDTH="19" VPOS="2036" HPOS="1388"/><String STYLE="italics" CONTENT="Р." HEIGHT="27" WIDTH="32" VPOS="2036" HPOS="1408"/><SP WIDTH="20" VPOS="2036" HPOS="1441"/><String STYLE="italics" CONTENT="И," HEIGHT="27" WIDTH="41" VPOS="2036" HPOS="1462"/></TextLine>
-</TextBlock>
-<TextBlock ID="BlockId-84512893-C6D8-46F2-963A-9D236B8F304E-" HEIGHT="156" WIDTH="1330" VPOS="2108" HPOS="188" STYLEREFS="StyleId-DC710C4A-D207-4F14-9B1B-F397D1FF766A- font1">
-<TextLine HEIGHT="37" WIDTH="1296" VPOS="2116" HPOS="204"><String CONTENT="Сдано" HEIGHT="31" WIDTH="102" VPOS="2117" HPOS="204"/><SP WIDTH="18" VPOS="2125" HPOS="307"/><String CONTENT="в" HEIGHT="18" WIDTH="17" VPOS="2126" HPOS="326"/><SP WIDTH="18" VPOS="2125" HPOS="344"/><String CONTENT="набор" HEIGHT="34" WIDTH="94" VPOS="2117" HPOS="363"/><SP WIDTH="35" VPOS="2116" HPOS="458"/><String CONTENT="27/Х-43" HEIGHT="35" WIDTH="121" VPOS="2116" HPOS="494"/><SP WIDTH="33" VPOS="2117" HPOS="616"/><String CONTENT="г." HEIGHT="19" WIDTH="24" VPOS="2125" HPOS="650"/><SP WIDTH="28" VPOS="2116" HPOS="675"/><String CONTENT="Подписано" HEIGHT="31" WIDTH="178" VPOS="2116" HPOS="704"/><SP WIDTH="31" VPOS="2124" HPOS="883"/><String CONTENT="к" HEIGHT="19" WIDTH="18" VPOS="2124" HPOS="915"/><SP WIDTH="37" VPOS="2124" HPOS="934"/><String CONTENT="печати" HEIGHT="20" WIDTH="114" VPOS="2124" HPOS="972"/><SP WIDTH="34" VPOS="2117" HPOS="1087"/><String CONTENT="15/V-44" HEIGHT="34" WIDTH="123" VPOS="2116" HPOS="1122"/><SP WIDTH="56" VPOS="2117" HPOS="1246"/><String CONTENT="г." HEIGHT="18" WIDTH="23" VPOS="2125" HPOS="1303"/><SP WIDTH="47" VPOS="2118" HPOS="1327"/><String CONTENT="Формат" HEIGHT="35" WIDTH="125" VPOS="2118" HPOS="1375"/></TextLine>
-<TextLine HEIGHT="37" WIDTH="1035" VPOS="2152" HPOS="313"><String CONTENT="бумаги" HEIGHT="35" WIDTH="117" VPOS="2154" HPOS="313"/><SP WIDTH="20" VPOS="2152" HPOS="431"/><String CONTENT="60Х92" HEIGHT="29" WIDTH="95" VPOS="2152" HPOS="452"/><String STYLE="superscript" CONTENT="1" HEIGHT="19" WIDTH="9" VPOS="2153" HPOS="549"/><String CONTENT="/іб-" HEIGHT="36" WIDTH="46" VPOS="2152" HPOS="559"/><SP WIDTH="18" VPOS="2153" HPOS="606"/><String CONTENT="Печатных" HEIGHT="27" WIDTH="163" VPOS="2153" HPOS="625"/><SP WIDTH="17" VPOS="2160" HPOS="789"/><String CONTENT="листов." HEIGHT="20" WIDTH="112" VPOS="2160" HPOS="807"/><SP WIDTH="17" VPOS="2152" HPOS="920"/><String CONTENT="2." HEIGHT="28" WIDTH="26" VPOS="2152" HPOS="938"/><SP WIDTH="27" VPOS="2152" HPOS="965"/><String CONTENT="Уч.-изд." HEIGHT="31" WIDTH="131" VPOS="2152" HPOS="993"/><SP WIDTH="19" VPOS="2161" HPOS="1125"/><String CONTENT="листов" HEIGHT="20" WIDTH="111" VPOS="2160" HPOS="1145"/><SP WIDTH="18" VPOS="2154" HPOS="1257"/><String CONTENT="0,75." HEIGHT="31" WIDTH="72" VPOS="2153" HPOS="1276"/></TextLine>
-<TextLine HEIGHT="28" WIDTH="513" VPOS="2189" HPOS="585"><String CONTENT="В" HEIGHT="26" WIDTH="21" VPOS="2190" HPOS="585"/><SP WIDTH="21" VPOS="2190" HPOS="607"/><String CONTENT="1" HEIGHT="26" WIDTH="11" VPOS="2190" HPOS="629"/><SP WIDTH="21" VPOS="2190" HPOS="641"/><String CONTENT="печ." HEIGHT="20" WIDTH="66" VPOS="2197" HPOS="663"/><SP WIDTH="18" VPOS="2197" HPOS="730"/><String CONTENT="листе" HEIGHT="20" WIDTH="90" VPOS="2196" HPOS="749"/><SP WIDTH="21" VPOS="2190" HPOS="840"/><String CONTENT="19200" HEIGHT="27" WIDTH="86" VPOS="2189" HPOS="862"/><SP WIDTH="18" VPOS="2189" HPOS="949"/><String CONTENT="тип." HEIGHT="19" WIDTH="66" VPOS="2197" HPOS="968"/><SP WIDTH="17" VPOS="2197" HPOS="1035"/><String CONTENT="зн." HEIGHT="19" WIDTH="45" VPOS="2197" HPOS="1053"/></TextLine>
-<TextLine HEIGHT="35" WIDTH="630" VPOS="2225" HPOS="528"><String CONTENT="ЛБ20075-" HEIGHT="28" WIDTH="157" VPOS="2226" HPOS="528"/><SP WIDTH="6" VPOS="2225" HPOS="686"/><String CONTENT="Заказ" HEIGHT="28" WIDTH="96" VPOS="2225" HPOS="693"/><SP WIDTH="17" VPOS="2225" HPOS="790"/><String CONTENT="№" HEIGHT="27" WIDTH="34" VPOS="2225" HPOS="808"/><SP WIDTH="27" VPOS="2225" HPOS="843"/><String CONTENT="203." HEIGHT="26" WIDTH="61" VPOS="2227" HPOS="871"/><SP WIDTH="18" VPOS="2226" HPOS="933"/><String CONTENT="Тираж" HEIGHT="34" WIDTH="108" VPOS="2226" HPOS="952"/><SP WIDTH="20" VPOS="2226" HPOS="1061"/><String CONTENT="1000." HEIGHT="28" WIDTH="76" VPOS="2225" HPOS="1082"/></TextLine>
-</TextBlock></ComposedBlock>
-<TextBlock ID="BlockId-867D603C-C513-4E14-87F0-563326006611-" HEIGHT="83" WIDTH="1161" VPOS="2300" HPOS="274" STYLEREFS="StyleId-DC710C4A-D207-4F14-9B1B-F397D1FF766A- font1">
-<TextLine HEIGHT="37" WIDTH="1150" VPOS="2306" HPOS="280"><String CONTENT="г." HEIGHT="19" WIDTH="24" VPOS="2315" HPOS="280"/><SP WIDTH="18" VPOS="2307" HPOS="305"/><String CONTENT="Кудымкар." HEIGHT="36" WIDTH="177" VPOS="2307" HPOS="324"/><SP WIDTH="17" VPOS="2306" HPOS="502"/><String CONTENT="Типография" HEIGHT="36" WIDTH="200" VPOS="2306" HPOS="520"/><SP WIDTH="18" VPOS="2306" HPOS="721"/><String CONTENT="Молотовского" HEIGHT="28" WIDTH="238" VPOS="2306" HPOS="740"/><SP WIDTH="28" VPOS="2306" HPOS="979"/><String CONTENT="Областного" HEIGHT="28" WIDTH="192" VPOS="2306" HPOS="1008"/><SP WIDTH="29" VPOS="2307" HPOS="1201"/><String CONTENT="Управления" HEIGHT="35" WIDTH="199" VPOS="2307" HPOS="1231"/></TextLine>
-<TextLine HEIGHT="34" WIDTH="466" VPOS="2343" HPOS="611"><String CONTENT="издательств" HEIGHT="24" WIDTH="196" VPOS="2350" HPOS="611"/><SP WIDTH="18" VPOS="2351" HPOS="808"/><String CONTENT="и" HEIGHT="18" WIDTH="18" VPOS="2351" HPOS="827"/><SP WIDTH="28" VPOS="2351" HPOS="846"/><String CONTENT="полиграфин" HEIGHT="34" WIDTH="202" VPOS="2343" HPOS="875"/></TextLine>
-</TextBlock><GraphicalElement ID="BlockId-A852226A-D558-43DA-A3C3-CA6CB1EF3A2F-" HEIGHT="4" WIDTH="213" VPOS="1015" HPOS="691"/><GraphicalElement ID="BlockId-6DEC7CAF-7C53-46F7-BA90-BCBB928C1E99-" HEIGHT="10" WIDTH="161" VPOS="1921" HPOS="1420"/><GraphicalElement ID="BlockId-0DB4629F-BBEC-48B1-9E11-6603EEA3B3A2-" HEIGHT="8" WIDTH="124" VPOS="1946" HPOS="1430"/><GraphicalElement ID="BlockId-B894A9F9-BDEA-4E26-BBF0-EF8B35B0079F-" HEIGHT="5" WIDTH="1285" VPOS="2092" HPOS="210"/><GraphicalElement ID="BlockId-3A7F3B24-EDFE-4207-9C80-25C38FCF12B6-" HEIGHT="5" WIDTH="1293" VPOS="2281" HPOS="207"/><GraphicalElement ID="BlockId-E36E6C46-E015-4D02-9E90-65CDAD56F3E7-" HEIGHT="9" WIDTH="548" VPOS="667" HPOS="874"/><GraphicalElement ID="BlockId-836729C4-CD80-4DE8-8A08-B12AA5BF9410-" HEIGHT="13" WIDTH="712" VPOS="739" HPOS="710"/><GraphicalElement ID="BlockId-0B474FC5-034D-4235-BCE0-E8CC7AD4008B-" HEIGHT="10" WIDTH="767" VPOS="811" HPOS="660"/><GraphicalElement ID="BlockId-E57BE780-C2A8-4D0E-B5BA-0E5F8CD494AF-" HEIGHT="8" WIDTH="616" VPOS="884" HPOS="811"/>
-</PrintSpace>
-</Page>
-</Layout>
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2016-10-18</processingDateTime>
+        <processingSoftware>
+          <softwareCreator>ABBYY</softwareCreator>
+          <softwareName>ABBYY Recognition Server</softwareName>
+          <softwareVersion>4.0</softwareVersion>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="font0" FONTFAMILY="Arial" FONTSIZE="7"/>
+    <TextStyle ID="font1" FONTFAMILY="Arial" FONTSIZE="8"/>
+    <TextStyle ID="font2" FONTFAMILY="Arial" FONTSIZE="11"/>
+    <TextStyle ID="font3" FONTFAMILY="Arial" FONTSIZE="12"/>
+    <TextStyle ID="font4" FONTFAMILY="Arial" FONTSIZE="13"/>
+    <ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+    <ParagraphStyle ID="StyleId-070B5E1C-47F3-4695-9AFA-78DF549E7A74-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+    <ParagraphStyle ID="StyleId-DC710C4A-D207-4F14-9B1B-F397D1FF766A-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="-79" LINESPACE="8"/>
+    <ParagraphStyle ID="StyleId-F521D588-F8F6-4CEC-9060-0637DAD04A3B-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+    <ParagraphStyle ID="StyleId-B62DBC7C-3671-4BBC-93D8-F1900796F580-" ALIGN="Block" LEFT="0" RIGHT="0" FIRSTLINE="0" LINESPACE="17"/>
+    <ParagraphStyle ID="StyleId-532FE7BA-8452-4198-A06B-D16D52DDB9BC-" ALIGN="Block" LEFT="0" RIGHT="0" FIRSTLINE="0" LINESPACE="10"/>
+  </Styles>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1">
+      <PrintSpace HEIGHT="2660" WIDTH="1760" VPOS="0" HPOS="0">
+        <TextBlock ID="BlockId-199910B7-14F9-4663-B08A-B31613846CAC-" HEIGHT="378" WIDTH="1322" VPOS="528" HPOS="240" STYLEREFS="StyleId-B62DBC7C-3671-4BBC-93D8-F1900796F580- font3">
+          <TextLine HEIGHT="33" WIDTH="243" VPOS="536" HPOS="675" STYLEREFS="StyleId-070B5E1C-47F3-4695-9AFA-78DF549E7A74- font4">
+            <String CONTENT="пытшкос" HEIGHT="33" WIDTH="243" VPOS="536" HPOS="675"/>
+          </TextLine>
+          <TextLine HEIGHT="44" WIDTH="1292" VPOS="636" HPOS="257">
+            <String CONTENT="Станица" HEIGHT="44" WIDTH="197" VPOS="636" HPOS="257"/>
+            <SP WIDTH="31" VPOS="636" HPOS="455"/>
+            <String CONTENT="Пятиизбеннӧй" HEIGHT="39" WIDTH="336" VPOS="636" HPOS="487"/>
+            <SP WIDTH="652" VPOS="642" HPOS="874"/>
+            <String CONTENT="О" HEIGHT="35" WIDTH="22" VPOS="642" HPOS="1527"/>
+          </TextLine>
+          <TextLine HEIGHT="50" WIDTH="1294" VPOS="708" HPOS="255">
+            <String CONTENT="Смелой" HEIGHT="40" WIDTH="175" VPOS="708" HPOS="255"/>
+            <SP WIDTH="28" VPOS="712" HPOS="431"/>
+            <String CONTENT="разведка" HEIGHT="38" WIDTH="207" VPOS="720" HPOS="460"/>
+            <SP WIDTH="494" VPOS="739" HPOS="710"/>
+            <String CONTENT="ѵ" HEIGHT="15" WIDTH="14" VPOS="732" HPOS="1247"/>
+            <SP WIDTH="10" VPOS="732" HPOS="1262"/>
+            <String CONTENT="," HEIGHT="11" WIDTH="8" VPOS="742" HPOS="1273"/>
+            <SP WIDTH="21" VPOS="740" HPOS="1282"/>
+            <String CONTENT="." HEIGHT="9" WIDTH="9" VPOS="740" HPOS="1304"/>
+            <SP WIDTH="44" VPOS="740" HPOS="1314"/>
+            <String CONTENT="." HEIGHT="7" WIDTH="9" VPOS="741" HPOS="1359"/>
+            <SP WIDTH="44" VPOS="740" HPOS="1369"/>
+            <String CONTENT="." HEIGHT="8" WIDTH="8" VPOS="740" HPOS="1414"/>
+            <SP WIDTH="80" VPOS="716" HPOS="1423"/>
+            <String CONTENT="13" HEIGHT="34" WIDTH="45" VPOS="716" HPOS="1504"/>
+          </TextLine>
+          <TextLine HEIGHT="49" WIDTH="1295" VPOS="781" HPOS="256">
+            <String CONTENT="Пулемёт" HEIGHT="49" WIDTH="200" VPOS="781" HPOS="256"/>
+            <SP WIDTH="22" VPOS="793" HPOS="457"/>
+            <String CONTENT="дынын" HEIGHT="34" WIDTH="157" VPOS="792" HPOS="480"/>
+            <SP WIDTH="766" VPOS="811" HPOS="661"/>
+            <String CONTENT="20" HEIGHT="35" WIDTH="51" VPOS="789" HPOS="1500"/>
+          </TextLine>
+          <TextLine HEIGHT="50" WIDTH="1294" VPOS="852" HPOS="255">
+            <String CONTENT="Юрси" HEIGHT="50" WIDTH="131" VPOS="852" HPOS="255"/>
+            <SP WIDTH="45" VPOS="865" HPOS="387"/>
+            <String CONTENT="тылӧп" HEIGHT="35" WIDTH="143" VPOS="857" HPOS="433"/>
+            <SP WIDTH="24" VPOS="865" HPOS="577"/>
+            <String CONTENT="вылын" HEIGHT="26" WIDTH="151" VPOS="865" HPOS="602"/>
+            <SP WIDTH="616" VPOS="884" HPOS="811"/>
+            <String CONTENT="27" HEIGHT="34" WIDTH="49" VPOS="862" HPOS="1500"/>
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="BlockId-FCB1F80C-1C2A-4684-8645-B689B24965C9-" HEIGHT="580" WIDTH="1366" VPOS="1684" HPOS="188" TYPE="container">
+          <Illustration ID="BlockId-737E2DA2-6B9D-4EB9-8E69-5517B9FCC104-" HEIGHT="104" WIDTH="122" VPOS="1798" HPOS="618">
+            <Shape>
+              <Polygon POINTS="618,1798 740,1798 740,1864 738,1864 738,1902 618,1902 618,1798"/>
+            </Shape>
+          </Illustration>
+          <TextBlock ID="BlockId-21460D81-0ACD-4803-B471-B1B4C4785FEE-" HEIGHT="44" WIDTH="104" VPOS="1864" HPOS="738" STYLEREFS="StyleId-F521D588-F8F6-4CEC-9060-0637DAD04A3B- font2">
+            <TextLine HEIGHT="40" WIDTH="97" VPOS="1864" HPOS="741">
+              <String STYLE="italics" STYLEREFS="font0" CONTENT="*" HEIGHT="22" WIDTH="17" VPOS="1877" HPOS="741"/>
+              <SP WIDTH="60" VPOS="1864" HPOS="759"/>
+              <String STYLE="bold" CONTENT="I" HEIGHT="40" WIDTH="18" VPOS="1864" HPOS="820"/>
+            </TextLine>
+          </TextBlock>
+          <Illustration ID="BlockId-10E3636E-B2A1-4518-A845-3C2934258DC3-" HEIGHT="106" WIDTH="220" VPOS="1806" HPOS="824">
+            <Shape>
+              <Polygon POINTS="824,1806 1044,1806 1044,1912 842,1912 842,1864 824,1864 824,1806"/>
+            </Shape>
+          </Illustration>
+          <TextBlock ID="BlockId-8204FD84-D45B-494B-BF92-9A3DAA6D8A3F-" HEIGHT="92" WIDTH="486" VPOS="1984" HPOS="190" STYLEREFS="StyleId-532FE7BA-8452-4198-A06B-D16D52DDB9BC- font1">
+            <TextLine HEIGHT="36" WIDTH="455" VPOS="1990" HPOS="205">
+              <String CONTENT="Перевод" HEIGHT="34" WIDTH="138" VPOS="1992" HPOS="205"/>
+              <SP WIDTH="20" VPOS="1991" HPOS="344"/>
+              <String STYLE="italics" CONTENT="Тупициной" HEIGHT="35" WIDTH="189" VPOS="1990" HPOS="365"/>
+              <SP WIDTH="20" VPOS="1990" HPOS="555"/>
+              <String STYLE="italics" CONTENT="F," HEIGHT="26" WIDTH="23" VPOS="1992" HPOS="576"/>
+              <SP WIDTH="22" VPOS="1991" HPOS="597"/>
+              <String STYLE="italics" CONTENT="И." HEIGHT="26" WIDTH="40" VPOS="1991" HPOS="620"/>
+            </TextLine>
+            <TextLine HEIGHT="35" WIDTH="430" VPOS="2036" HPOS="205">
+              <String CONTENT="Редактор" HEIGHT="33" WIDTH="152" VPOS="2037" HPOS="205"/>
+              <SP WIDTH="20" VPOS="2036" HPOS="358"/>
+              <String STYLE="italics" CONTENT="Спорова" HEIGHT="35" WIDTH="148" VPOS="2036" HPOS="379"/>
+              <SP WIDTH="15" VPOS="2036" HPOS="528"/>
+              <String STYLE="italics" CONTENT="Н." HEIGHT="27" WIDTH="38" VPOS="2036" HPOS="544"/>
+              <SP WIDTH="19" VPOS="2036" HPOS="583"/>
+              <String STYLE="italics" CONTENT="А." HEIGHT="27" WIDTH="32" VPOS="2036" HPOS="603"/>
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="BlockId-0C87FC6F-C835-435F-8605-B3BF80E7E765-" HEIGHT="92" WIDTH="494" VPOS="1982" HPOS="1024" STYLEREFS="StyleId-532FE7BA-8452-4198-A06B-D16D52DDB9BC- font1">
+            <TextLine HEIGHT="36" WIDTH="461" VPOS="1990" HPOS="1040">
+              <String CONTENT="Техредактор" HEIGHT="35" WIDTH="211" VPOS="1990" HPOS="1040"/>
+              <SP WIDTH="19" VPOS="1990" HPOS="1252"/>
+              <String STYLE="italics" CONTENT="Ярком" HEIGHT="36" WIDTH="122" VPOS="1990" HPOS="1272"/>
+              <SP WIDTH="22" VPOS="1991" HPOS="1395"/>
+              <String STYLE="italics" CONTENT="Ф.С." HEIGHT="29" WIDTH="83" VPOS="1990" HPOS="1418"/>
+            </TextLine>
+            <TextLine HEIGHT="35" WIDTH="457" VPOS="2035" HPOS="1046">
+              <String CONTENT="Корректор" HEIGHT="35" WIDTH="180" VPOS="2035" HPOS="1046"/>
+              <SP WIDTH="32" VPOS="2035" HPOS="1227"/>
+              <String STYLE="italics" CONTENT="Попова" HEIGHT="27" WIDTH="127" VPOS="2035" HPOS="1260"/>
+              <SP WIDTH="19" VPOS="2036" HPOS="1388"/>
+              <String STYLE="italics" CONTENT="Р." HEIGHT="27" WIDTH="32" VPOS="2036" HPOS="1408"/>
+              <SP WIDTH="20" VPOS="2036" HPOS="1441"/>
+              <String STYLE="italics" CONTENT="И," HEIGHT="27" WIDTH="41" VPOS="2036" HPOS="1462"/>
+            </TextLine>
+          </TextBlock>
+          <TextBlock ID="BlockId-84512893-C6D8-46F2-963A-9D236B8F304E-" HEIGHT="156" WIDTH="1330" VPOS="2108" HPOS="188" STYLEREFS="StyleId-DC710C4A-D207-4F14-9B1B-F397D1FF766A- font1">
+            <TextLine HEIGHT="37" WIDTH="1296" VPOS="2116" HPOS="204">
+              <String CONTENT="Сдано" HEIGHT="31" WIDTH="102" VPOS="2117" HPOS="204"/>
+              <SP WIDTH="18" VPOS="2125" HPOS="307"/>
+              <String CONTENT="в" HEIGHT="18" WIDTH="17" VPOS="2126" HPOS="326"/>
+              <SP WIDTH="18" VPOS="2125" HPOS="344"/>
+              <String CONTENT="набор" HEIGHT="34" WIDTH="94" VPOS="2117" HPOS="363"/>
+              <SP WIDTH="35" VPOS="2116" HPOS="458"/>
+              <String CONTENT="27/Х-43" HEIGHT="35" WIDTH="121" VPOS="2116" HPOS="494"/>
+              <SP WIDTH="33" VPOS="2117" HPOS="616"/>
+              <String CONTENT="г." HEIGHT="19" WIDTH="24" VPOS="2125" HPOS="650"/>
+              <SP WIDTH="28" VPOS="2116" HPOS="675"/>
+              <String CONTENT="Подписано" HEIGHT="31" WIDTH="178" VPOS="2116" HPOS="704"/>
+              <SP WIDTH="31" VPOS="2124" HPOS="883"/>
+              <String CONTENT="к" HEIGHT="19" WIDTH="18" VPOS="2124" HPOS="915"/>
+              <SP WIDTH="37" VPOS="2124" HPOS="934"/>
+              <String CONTENT="печати" HEIGHT="20" WIDTH="114" VPOS="2124" HPOS="972"/>
+              <SP WIDTH="34" VPOS="2117" HPOS="1087"/>
+              <String CONTENT="15/V-44" HEIGHT="34" WIDTH="123" VPOS="2116" HPOS="1122"/>
+              <SP WIDTH="56" VPOS="2117" HPOS="1246"/>
+              <String CONTENT="г." HEIGHT="18" WIDTH="23" VPOS="2125" HPOS="1303"/>
+              <SP WIDTH="47" VPOS="2118" HPOS="1327"/>
+              <String CONTENT="Формат" HEIGHT="35" WIDTH="125" VPOS="2118" HPOS="1375"/>
+            </TextLine>
+            <TextLine HEIGHT="37" WIDTH="1035" VPOS="2152" HPOS="313">
+              <String CONTENT="бумаги" HEIGHT="35" WIDTH="117" VPOS="2154" HPOS="313"/>
+              <SP WIDTH="20" VPOS="2152" HPOS="431"/>
+              <String CONTENT="60Х92" HEIGHT="29" WIDTH="95" VPOS="2152" HPOS="452"/>
+              <String STYLE="superscript" CONTENT="1" HEIGHT="19" WIDTH="9" VPOS="2153" HPOS="549"/>
+              <String CONTENT="/іб-" HEIGHT="36" WIDTH="46" VPOS="2152" HPOS="559"/>
+              <SP WIDTH="18" VPOS="2153" HPOS="606"/>
+              <String CONTENT="Печатных" HEIGHT="27" WIDTH="163" VPOS="2153" HPOS="625"/>
+              <SP WIDTH="17" VPOS="2160" HPOS="789"/>
+              <String CONTENT="листов." HEIGHT="20" WIDTH="112" VPOS="2160" HPOS="807"/>
+              <SP WIDTH="17" VPOS="2152" HPOS="920"/>
+              <String CONTENT="2." HEIGHT="28" WIDTH="26" VPOS="2152" HPOS="938"/>
+              <SP WIDTH="27" VPOS="2152" HPOS="965"/>
+              <String CONTENT="Уч.-изд." HEIGHT="31" WIDTH="131" VPOS="2152" HPOS="993"/>
+              <SP WIDTH="19" VPOS="2161" HPOS="1125"/>
+              <String CONTENT="листов" HEIGHT="20" WIDTH="111" VPOS="2160" HPOS="1145"/>
+              <SP WIDTH="18" VPOS="2154" HPOS="1257"/>
+              <String CONTENT="0,75." HEIGHT="31" WIDTH="72" VPOS="2153" HPOS="1276"/>
+            </TextLine>
+            <TextLine HEIGHT="28" WIDTH="513" VPOS="2189" HPOS="585">
+              <String CONTENT="В" HEIGHT="26" WIDTH="21" VPOS="2190" HPOS="585"/>
+              <SP WIDTH="21" VPOS="2190" HPOS="607"/>
+              <String CONTENT="1" HEIGHT="26" WIDTH="11" VPOS="2190" HPOS="629"/>
+              <SP WIDTH="21" VPOS="2190" HPOS="641"/>
+              <String CONTENT="печ." HEIGHT="20" WIDTH="66" VPOS="2197" HPOS="663"/>
+              <SP WIDTH="18" VPOS="2197" HPOS="730"/>
+              <String CONTENT="листе" HEIGHT="20" WIDTH="90" VPOS="2196" HPOS="749"/>
+              <SP WIDTH="21" VPOS="2190" HPOS="840"/>
+              <String CONTENT="19200" HEIGHT="27" WIDTH="86" VPOS="2189" HPOS="862"/>
+              <SP WIDTH="18" VPOS="2189" HPOS="949"/>
+              <String CONTENT="тип." HEIGHT="19" WIDTH="66" VPOS="2197" HPOS="968"/>
+              <SP WIDTH="17" VPOS="2197" HPOS="1035"/>
+              <String CONTENT="зн." HEIGHT="19" WIDTH="45" VPOS="2197" HPOS="1053"/>
+            </TextLine>
+            <TextLine HEIGHT="35" WIDTH="630" VPOS="2225" HPOS="528">
+              <String CONTENT="ЛБ20075-" HEIGHT="28" WIDTH="157" VPOS="2226" HPOS="528"/>
+              <SP WIDTH="6" VPOS="2225" HPOS="686"/>
+              <String CONTENT="Заказ" HEIGHT="28" WIDTH="96" VPOS="2225" HPOS="693"/>
+              <SP WIDTH="17" VPOS="2225" HPOS="790"/>
+              <String CONTENT="№" HEIGHT="27" WIDTH="34" VPOS="2225" HPOS="808"/>
+              <SP WIDTH="27" VPOS="2225" HPOS="843"/>
+              <String CONTENT="203." HEIGHT="26" WIDTH="61" VPOS="2227" HPOS="871"/>
+              <SP WIDTH="18" VPOS="2226" HPOS="933"/>
+              <String CONTENT="Тираж" HEIGHT="34" WIDTH="108" VPOS="2226" HPOS="952"/>
+              <SP WIDTH="20" VPOS="2226" HPOS="1061"/>
+              <String CONTENT="1000." HEIGHT="28" WIDTH="76" VPOS="2225" HPOS="1082"/>
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <TextBlock ID="BlockId-867D603C-C513-4E14-87F0-563326006611-" HEIGHT="83" WIDTH="1161" VPOS="2300" HPOS="274" STYLEREFS="StyleId-DC710C4A-D207-4F14-9B1B-F397D1FF766A- font1">
+          <TextLine HEIGHT="37" WIDTH="1150" VPOS="2306" HPOS="280">
+            <String CONTENT="г." HEIGHT="19" WIDTH="24" VPOS="2315" HPOS="280"/>
+            <SP WIDTH="18" VPOS="2307" HPOS="305"/>
+            <String CONTENT="Кудымкар." HEIGHT="36" WIDTH="177" VPOS="2307" HPOS="324"/>
+            <SP WIDTH="17" VPOS="2306" HPOS="502"/>
+            <String CONTENT="Типография" HEIGHT="36" WIDTH="200" VPOS="2306" HPOS="520"/>
+            <SP WIDTH="18" VPOS="2306" HPOS="721"/>
+            <String CONTENT="Молотовского" HEIGHT="28" WIDTH="238" VPOS="2306" HPOS="740"/>
+            <SP WIDTH="28" VPOS="2306" HPOS="979"/>
+            <String CONTENT="Областного" HEIGHT="28" WIDTH="192" VPOS="2306" HPOS="1008"/>
+            <SP WIDTH="29" VPOS="2307" HPOS="1201"/>
+            <String CONTENT="Управления" HEIGHT="35" WIDTH="199" VPOS="2307" HPOS="1231"/>
+          </TextLine>
+          <TextLine HEIGHT="34" WIDTH="466" VPOS="2343" HPOS="611">
+            <String CONTENT="издательств" HEIGHT="24" WIDTH="196" VPOS="2350" HPOS="611"/>
+            <SP WIDTH="18" VPOS="2351" HPOS="808"/>
+            <String CONTENT="и" HEIGHT="18" WIDTH="18" VPOS="2351" HPOS="827"/>
+            <SP WIDTH="28" VPOS="2351" HPOS="846"/>
+            <String CONTENT="полиграфин" HEIGHT="34" WIDTH="202" VPOS="2343" HPOS="875"/>
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="BlockId-A852226A-D558-43DA-A3C3-CA6CB1EF3A2F-" HEIGHT="4" WIDTH="213" VPOS="1015" HPOS="691"/>
+        <GraphicalElement ID="BlockId-6DEC7CAF-7C53-46F7-BA90-BCBB928C1E99-" HEIGHT="10" WIDTH="161" VPOS="1921" HPOS="1420"/>
+        <GraphicalElement ID="BlockId-0DB4629F-BBEC-48B1-9E11-6603EEA3B3A2-" HEIGHT="8" WIDTH="124" VPOS="1946" HPOS="1430"/>
+        <GraphicalElement ID="BlockId-B894A9F9-BDEA-4E26-BBF0-EF8B35B0079F-" HEIGHT="5" WIDTH="1285" VPOS="2092" HPOS="210"/>
+        <GraphicalElement ID="BlockId-3A7F3B24-EDFE-4207-9C80-25C38FCF12B6-" HEIGHT="5" WIDTH="1293" VPOS="2281" HPOS="207"/>
+        <GraphicalElement ID="BlockId-E36E6C46-E015-4D02-9E90-65CDAD56F3E7-" HEIGHT="9" WIDTH="548" VPOS="667" HPOS="874"/>
+        <GraphicalElement ID="BlockId-836729C4-CD80-4DE8-8A08-B12AA5BF9410-" HEIGHT="13" WIDTH="712" VPOS="739" HPOS="710"/>
+        <GraphicalElement ID="BlockId-0B474FC5-034D-4235-BCE0-E8CC7AD4008B-" HEIGHT="10" WIDTH="767" VPOS="811" HPOS="660"/>
+        <GraphicalElement ID="BlockId-E57BE780-C2A8-4D0E-B5BA-0E5F8CD494AF-" HEIGHT="8" WIDTH="616" VPOS="884" HPOS="811"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
 </alto>

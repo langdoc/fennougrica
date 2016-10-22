@@ -1,21 +1,47 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
-<Description>
-<MeasurementUnit>pixel</MeasurementUnit>
-<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-10-20</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
-</Description>
-<Styles><TextStyle ID="font0" FONTFAMILY="Arial" FONTSIZE="11"/>
-<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-<ParagraphStyle ID="StyleId-15BF37E2-5489-4C06-82BF-5E7419CDAFF3-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-</Styles>
-<Layout>
-<Page ID="Page1" PHYSICAL_IMG_NR="1">
-<PrintSpace HEIGHT="2421" WIDTH="2019" VPOS="0" HPOS="0">
-<ComposedBlock ID="BlockId-F39552D2-5B34-4C50-A2C6-15BAEE84607E-" HEIGHT="1342" WIDTH="2019" VPOS="0" HPOS="0" TYPE="container"><Illustration ID="BlockId-9F38E0E5-1579-4D4F-AD9F-970216DDF262-" HEIGHT="1342" WIDTH="2019" VPOS="0" HPOS="0"/>
-<TextBlock ID="BlockId-A26D736F-0AA2-494B-B9CA-A4DD086B98C8-" HEIGHT="60" WIDTH="329" VPOS="220" HPOS="333" STYLEREFS="StyleId-15BF37E2-5489-4C06-82BF-5E7419CDAFF3- font0">
-<TextLine HEIGHT="48" WIDTH="316" VPOS="226" HPOS="339"><String CONTENT="Доныс" HEIGHT="41" WIDTH="140" VPOS="233" HPOS="339"/><SP WIDTH="23" VPOS="229" HPOS="480"/><String CONTENT="1" HEIGHT="33" WIDTH="14" VPOS="229" HPOS="504"/><SP WIDTH="28" VPOS="229" HPOS="519"/><String CONTENT="шайт" HEIGHT="34" WIDTH="107" VPOS="226" HPOS="548"/></TextLine>
-</TextBlock></ComposedBlock><Illustration ID="BlockId-4F357755-1B60-4440-AD3F-F01D45C766F3-" HEIGHT="844" WIDTH="2019" VPOS="1577" HPOS="0"/><GraphicalElement ID="BlockId-1C42585D-28A9-4E18-B3A8-3174C9CBC923-" HEIGHT="43" WIDTH="1829" VPOS="0" HPOS="0"/><GraphicalElement ID="BlockId-AACA7670-72F0-4909-AF1E-074D8DEA9826-" HEIGHT="55" WIDTH="2019" VPOS="2366" HPOS="0"/><GraphicalElement ID="BlockId-EAEC0610-56EE-4C3D-A12E-A780C8F0336A-" HEIGHT="554" WIDTH="33" VPOS="335" HPOS="1874"/><GraphicalElement ID="BlockId-96FA592B-2B02-4673-BADB-BED3CE75D13F-" HEIGHT="447" WIDTH="17" VPOS="889" HPOS="1900"/><GraphicalElement ID="BlockId-D5F2AB5A-C4DD-407A-B166-8771CEF3A170-" HEIGHT="248" WIDTH="12" VPOS="1336" HPOS="1912"/><GraphicalElement ID="BlockId-AE8AB836-BB57-4B4A-9830-3CFA72375611-" HEIGHT="550" WIDTH="20" VPOS="1583" HPOS="1917"/><GraphicalElement ID="BlockId-6E7010EF-0C0D-4449-B6B4-4DA9D63B7256-" HEIGHT="234" WIDTH="9" VPOS="2133" HPOS="1933"/>
-</PrintSpace>
-</Page>
-</Layout>
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2016-10-20</processingDateTime>
+        <processingSoftware>
+          <softwareCreator>ABBYY</softwareCreator>
+          <softwareName>ABBYY Recognition Server</softwareName>
+          <softwareVersion>4.0</softwareVersion>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="font0" FONTFAMILY="Arial" FONTSIZE="11"/>
+    <ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+    <ParagraphStyle ID="StyleId-15BF37E2-5489-4C06-82BF-5E7419CDAFF3-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+  </Styles>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1">
+      <PrintSpace HEIGHT="2421" WIDTH="2019" VPOS="0" HPOS="0">
+        <ComposedBlock ID="BlockId-F39552D2-5B34-4C50-A2C6-15BAEE84607E-" HEIGHT="1342" WIDTH="2019" VPOS="0" HPOS="0" TYPE="container">
+          <Illustration ID="BlockId-9F38E0E5-1579-4D4F-AD9F-970216DDF262-" HEIGHT="1342" WIDTH="2019" VPOS="0" HPOS="0"/>
+          <TextBlock ID="BlockId-A26D736F-0AA2-494B-B9CA-A4DD086B98C8-" HEIGHT="60" WIDTH="329" VPOS="220" HPOS="333" STYLEREFS="StyleId-15BF37E2-5489-4C06-82BF-5E7419CDAFF3- font0">
+            <TextLine HEIGHT="48" WIDTH="316" VPOS="226" HPOS="339">
+              <String CONTENT="Доныс" HEIGHT="41" WIDTH="140" VPOS="233" HPOS="339"/>
+              <SP WIDTH="23" VPOS="229" HPOS="480"/>
+              <String CONTENT="1" HEIGHT="33" WIDTH="14" VPOS="229" HPOS="504"/>
+              <SP WIDTH="28" VPOS="229" HPOS="519"/>
+              <String CONTENT="шайт" HEIGHT="34" WIDTH="107" VPOS="226" HPOS="548"/>
+            </TextLine>
+          </TextBlock>
+        </ComposedBlock>
+        <Illustration ID="BlockId-4F357755-1B60-4440-AD3F-F01D45C766F3-" HEIGHT="844" WIDTH="2019" VPOS="1577" HPOS="0"/>
+        <GraphicalElement ID="BlockId-1C42585D-28A9-4E18-B3A8-3174C9CBC923-" HEIGHT="43" WIDTH="1829" VPOS="0" HPOS="0"/>
+        <GraphicalElement ID="BlockId-AACA7670-72F0-4909-AF1E-074D8DEA9826-" HEIGHT="55" WIDTH="2019" VPOS="2366" HPOS="0"/>
+        <GraphicalElement ID="BlockId-EAEC0610-56EE-4C3D-A12E-A780C8F0336A-" HEIGHT="554" WIDTH="33" VPOS="335" HPOS="1874"/>
+        <GraphicalElement ID="BlockId-96FA592B-2B02-4673-BADB-BED3CE75D13F-" HEIGHT="447" WIDTH="17" VPOS="889" HPOS="1900"/>
+        <GraphicalElement ID="BlockId-D5F2AB5A-C4DD-407A-B166-8771CEF3A170-" HEIGHT="248" WIDTH="12" VPOS="1336" HPOS="1912"/>
+        <GraphicalElement ID="BlockId-AE8AB836-BB57-4B4A-9830-3CFA72375611-" HEIGHT="550" WIDTH="20" VPOS="1583" HPOS="1917"/>
+        <GraphicalElement ID="BlockId-6E7010EF-0C0D-4449-B6B4-4DA9D63B7256-" HEIGHT="234" WIDTH="9" VPOS="2133" HPOS="1933"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
 </alto>

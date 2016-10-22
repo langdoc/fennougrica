@@ -1,17 +1,30 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
-<Description>
-<MeasurementUnit>pixel</MeasurementUnit>
-<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-10-20</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
-</Description>
-<Styles>
-<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
-</Styles>
-<Layout>
-<Page ID="Page1" PHYSICAL_IMG_NR="1">
-<PrintSpace HEIGHT="2421" WIDTH="2019" VPOS="0" HPOS="0">
-<ComposedBlock ID="BlockId-5788DA0E-12C8-4E77-A979-DF2645CF6F9C-" HEIGHT="2421" WIDTH="2019" VPOS="0" HPOS="0" TYPE="container"><Illustration ID="BlockId-F54184C2-70B7-4A5A-840B-3BF85C8E6977-" HEIGHT="2421" WIDTH="2019" VPOS="0" HPOS="0"/></ComposedBlock><GraphicalElement ID="BlockId-F5DD4AEE-7145-4C6C-BAD3-C9F6B7785595-" HEIGHT="1473" WIDTH="48" VPOS="0" HPOS="1971"/><GraphicalElement ID="BlockId-79588E19-E8CA-433E-A5BA-DBD646FE10CC-" HEIGHT="153" WIDTH="11" VPOS="1408" HPOS="1974"/>
-</PrintSpace>
-</Page>
-</Layout>
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2016-10-20</processingDateTime>
+        <processingSoftware>
+          <softwareCreator>ABBYY</softwareCreator>
+          <softwareName>ABBYY Recognition Server</softwareName>
+          <softwareVersion>4.0</softwareVersion>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+  </Styles>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1">
+      <PrintSpace HEIGHT="2421" WIDTH="2019" VPOS="0" HPOS="0">
+        <ComposedBlock ID="BlockId-5788DA0E-12C8-4E77-A979-DF2645CF6F9C-" HEIGHT="2421" WIDTH="2019" VPOS="0" HPOS="0" TYPE="container">
+          <Illustration ID="BlockId-F54184C2-70B7-4A5A-840B-3BF85C8E6977-" HEIGHT="2421" WIDTH="2019" VPOS="0" HPOS="0"/>
+        </ComposedBlock>
+        <GraphicalElement ID="BlockId-F5DD4AEE-7145-4C6C-BAD3-C9F6B7785595-" HEIGHT="1473" WIDTH="48" VPOS="0" HPOS="1971"/>
+        <GraphicalElement ID="BlockId-79588E19-E8CA-433E-A5BA-DBD646FE10CC-" HEIGHT="153" WIDTH="11" VPOS="1408" HPOS="1974"/>
+      </PrintSpace>
+    </Page>
+  </Layout>
 </alto>
