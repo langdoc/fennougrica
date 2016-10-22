@@ -1,6 +1,6 @@
 # fennougrica
 
-This repository contains data from [Fenno-Ugrica](http://fennougrica.kansalliskirjasto.fi/) collection of the National Library of Finland. The collection is very large and rich, and everyone is recommended to explore it further. However, many gems hidden into this collection require specific expertice (and a bit of luck) to find and contextualize. Into this repository different researchers, primarily at the moment Niko Partanen and Michael Rießler, have selected by hand some of the most exciting items in the collection, with the idea of providing easy access to this data, especially linguists in mind. 
+This repository contains data from [Fenno-Ugrica](http://fennougrica.kansalliskirjasto.fi/) collection of the National Library of Finland. The collection is very large and rich, and everyone is recommended to explore it further. However, many gems hidden into this collection require specific expertise (and a bit of luck) to be found and contextualized. Into this repository different researchers, primarily at the moment Niko Partanen and Michael Rießler, have selected by hand some of the most particular items in the collection, with the idea of providing easy access to this data, especially linguists in mind. 
 
 Naturally Fenno-Ugrica already provides this access, but there are several tasks with have to be undertaken before the data is truly ready for linguistic analysis.
 
@@ -22,7 +22,7 @@ This book from Sergei Dmitriev has been translated at least to [Erzya](http://ur
 
 ### Four Battles
 
-This book from Lev Vasilyevich Uspenskiy has been translated into numerous languages (Лев Васильевич Успенский), and it seems that our current selection of nine languages is just the tip of the ice berg. Google hints that the title **Tort qaharmanlьq avhal** also exist, extending this to Turkic languages. Let's hope the work on Finno-Ugrica will extend to this direction as well!
+This book from Lev Vasilyevich Uspenskiy has been translated into numerous languages (Лев Васильевич Успенский), and it seems that our current selection of nine languages is just the tip of the iceberg. Google hints that the title **Tort qaharmanlьq avhal** also exists, extending this to the Turkic languages. Let's hope the work on Finno-Ugrica will extend to this direction as well!
 
 Currently there are translations into [Erzya](http://urn.fi/URN:NBN:fi-fe2014082633380), [Moksha](http://urn.fi/URN:NBN:fi-fe2014090944573), [Komi Zyrian](http://urn.fi/URN:NBN:fi-fe2014102045428), [Komi Permyak](http://urn.fi/URN:NBN:fi-fe2014101045137), [Udmurt](http://urn.fi/URN:NBN:fi-fe2014092444879), [Hill Mari](http://urn.fi/URN:NBN:fi-fe2014100345029), [Meadow Mari](http://urn.fi/URN:NBN:fi-fe2014091844781), [Mansi](http://urn.fi/URN:NBN:fi-fe2014090133491) and [Tundra Nenets](http://urn.fi/URN:NBN:fi-fe2014061829330).
 
