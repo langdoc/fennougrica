@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-10-18</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles><TextStyle ID="font0" FONTFAMILY="Times New Roman" FONTSIZE="11"/>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+<ParagraphStyle ID="StyleId-147105C4-D83F-4F88-A1D8-6ABB4EC774AA-" ALIGN="Center" LEFT="0" RIGHT="0" FIRSTLINE="0" LINESPACE="15"/>
+<ParagraphStyle ID="StyleId-C54A08E4-6A99-40DC-A54D-C8D37DCE97C7-" ALIGN="Center" LEFT="0" RIGHT="0" FIRSTLINE="0" LINESPACE="11"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1">
+<PrintSpace HEIGHT="2667" WIDTH="1770" VPOS="0" HPOS="0">
+<TextBlock ID="BlockId-09BC4E4C-F466-449C-B930-41005C0C7D58-" HEIGHT="245" WIDTH="669" VPOS="1017" HPOS="607" STYLEREFS="StyleId-147105C4-D83F-4F88-A1D8-6ABB4EC774AA- font0">
+<TextLine HEIGHT="35" WIDTH="308" VPOS="1023" HPOS="795"><String CONTENT="Л." HEIGHT="35" WIDTH="45" VPOS="1023" HPOS="795"/><SP WIDTH="26" VPOS="1024" HPOS="841"/><String CONTENT="Успенский" HEIGHT="35" WIDTH="235" VPOS="1023" HPOS="868"/></TextLine>
+<TextLine HEIGHT="38" WIDTH="658" VPOS="1085" HPOS="613"><String CONTENT="ЧЕТЫРЕ" HEIGHT="35" WIDTH="198" VPOS="1087" HPOS="613"/><SP WIDTH="24" VPOS="1087" HPOS="812"/><String CONTENT="БОЕВЫХ" HEIGHT="35" WIDTH="204" VPOS="1086" HPOS="837"/><SP WIDTH="25" VPOS="1086" HPOS="1042"/><String CONTENT="СЛУЧАЯ" HEIGHT="38" WIDTH="203" VPOS="1085" HPOS="1068"/></TextLine>
+<TextLine HEIGHT="43" WIDTH="455" VPOS="1178" HPOS="719" STYLEREFS="StyleId-C54A08E4-6A99-40DC-A54D-C8D37DCE97C7- font0"><String STYLE="bold italics" CONTENT="На" HEIGHT="33" WIDTH="62" VPOS="1178" HPOS="719"/><SP WIDTH="24" VPOS="1187" HPOS="782"/><String STYLE="bold italics" CONTENT="коми-пермяцком" HEIGHT="36" WIDTH="367" VPOS="1185" HPOS="807"/></TextLine>
+<TextLine HEIGHT="25" WIDTH="126" VPOS="1231" HPOS="887" STYLEREFS="StyleId-C54A08E4-6A99-40DC-A54D-C8D37DCE97C7- font0"><String STYLE="bold italics" CONTENT="языке" HEIGHT="25" WIDTH="126" VPOS="1231" HPOS="887"/></TextLine>
+</TextBlock><GraphicalElement ID="BlockId-D1BF790E-E5A5-4AB0-BDAB-58CE9F0D73B4-" HEIGHT="5" WIDTH="106" VPOS="1151" HPOS="892"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

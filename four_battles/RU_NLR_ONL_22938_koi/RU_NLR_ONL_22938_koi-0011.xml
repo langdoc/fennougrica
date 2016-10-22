@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-10-18</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1">
+<PrintSpace HEIGHT="2660" WIDTH="1760" VPOS="0" HPOS="0">
+<ComposedBlock ID="BlockId-0C681AA8-48E7-49D7-9B3A-8CAC5B38CCF3-" HEIGHT="2660" WIDTH="1760" VPOS="0" HPOS="0" TYPE="container"><Illustration ID="BlockId-300C5560-62A3-4CD8-BBA3-7FC0510D61E9-" HEIGHT="2660" WIDTH="1760" VPOS="0" HPOS="0"/></ComposedBlock><GraphicalElement ID="BlockId-9D32BF45-4573-49F7-92D0-0B220DE1C6DF-" HEIGHT="41" WIDTH="1723" VPOS="0" HPOS="0"/><GraphicalElement ID="BlockId-51282986-3058-4B8B-9606-F201A25129D1-" HEIGHT="11" WIDTH="148" VPOS="629" HPOS="1069"/><GraphicalElement ID="BlockId-81EE9BD5-87AB-4C83-BE70-E62F57F1460D-" HEIGHT="3" WIDTH="93" VPOS="1119" HPOS="1239"/><GraphicalElement ID="BlockId-8FC34451-48D0-431A-B300-2D2E1D5349D5-" HEIGHT="4" WIDTH="102" VPOS="1134" HPOS="1023"/><GraphicalElement ID="BlockId-5FEF5931-56EB-4E00-ACD1-C4F810B4FD1B-" HEIGHT="7" WIDTH="102" VPOS="1223" HPOS="904"/><GraphicalElement ID="BlockId-5CAE51FB-E6EE-45BB-A507-EDF6796B368B-" HEIGHT="5" WIDTH="89" VPOS="1361" HPOS="660"/><GraphicalElement ID="BlockId-A6E5BBDA-11F5-49D2-96BF-F88C2A1C60A2-" HEIGHT="14" WIDTH="167" VPOS="1367" HPOS="748"/><GraphicalElement ID="BlockId-77101604-110B-4383-946E-2ABD41783AE5-" HEIGHT="7" WIDTH="113" VPOS="2050" HPOS="179"/><GraphicalElement ID="BlockId-F9F2CEA4-8144-41E7-8ED1-5DC9BB56BC01-" HEIGHT="8" WIDTH="145" VPOS="2112" HPOS="227"/><GraphicalElement ID="BlockId-525DF3B9-DDD2-4648-A72E-F5185F47E5D6-" HEIGHT="4" WIDTH="78" VPOS="2337" HPOS="1393"/><GraphicalElement ID="BlockId-38EA2CA6-1CBE-4B35-8070-A7125F3C7605-" HEIGHT="25" WIDTH="1700" VPOS="2635" HPOS="0"/><GraphicalElement ID="BlockId-A68B73EC-4AB5-4C5E-94B5-65C3F34E3C44-" HEIGHT="584" WIDTH="9" VPOS="71" HPOS="32"/><GraphicalElement ID="BlockId-DBE04CE2-CF3D-467A-A58B-FAC4F0A7D294-" HEIGHT="81" WIDTH="5" VPOS="1845" HPOS="248"/><GraphicalElement ID="BlockId-4396123C-508D-4162-AEB7-43BF7CD7D92F-" HEIGHT="181" WIDTH="14" VPOS="1330" HPOS="965"/><GraphicalElement ID="BlockId-AAAF28D2-A878-4C20-8694-1C01DD66B5CF-" HEIGHT="142" WIDTH="7" VPOS="1395" HPOS="1082"/><GraphicalElement ID="BlockId-CB279B7C-7866-464E-B6E5-C94DC19B90F4-" HEIGHT="178" WIDTH="10" VPOS="796" HPOS="1409"/><GraphicalElement ID="BlockId-AFC20DA3-FC8F-41A0-AB37-2930DDBF7359-" HEIGHT="2615" WIDTH="60" VPOS="45" HPOS="1700"/><GraphicalElement ID="BlockId-8B7100C3-7DC2-4613-AC62-C13702C48750-" HEIGHT="84" WIDTH="4" VPOS="1226" HPOS="23"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>
