@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-10-20</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles><TextStyle ID="font0" FONTFAMILY="Times New Roman" FONTSIZE="11"/>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+<ParagraphStyle ID="StyleId-775F226E-9285-4668-A063-373A1895720B-" ALIGN="Right" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+<ParagraphStyle ID="StyleId-13BBB607-951A-4DE5-8113-006BFC2E4889-" ALIGN="Block" LEFT="0" RIGHT="0" FIRSTLINE="0" LINESPACE="18"/>
+<ParagraphStyle ID="StyleId-F80DA3AB-7B15-4444-85A9-E8ADA57AC2D3-" ALIGN="Block" LEFT="0" RIGHT="0" FIRSTLINE="0" LINESPACE="18"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1">
+<PrintSpace HEIGHT="2457" WIDTH="2062" VPOS="0" HPOS="0">
+<TextBlock ID="BlockId-63F1A63D-2997-45CD-8834-E57CBDA6D3FE-" HEIGHT="403" WIDTH="983" VPOS="713" HPOS="261" STYLEREFS="StyleId-775F226E-9285-4668-A063-373A1895720B- font0">
+<TextLine HEIGHT="44" WIDTH="455" VPOS="719" HPOS="783"><String CONTENT="СОДЕРЖАНИЕ" HEIGHT="44" WIDTH="455" VPOS="719" HPOS="783"/></TextLine>
+<TextLine HEIGHT="48" WIDTH="927" VPOS="828" HPOS="278"><String CONTENT="Пятнязбеннӧй" HEIGHT="38" WIDTH="437" VPOS="828" HPOS="278"/><SP WIDTH="26" VPOS="836" HPOS="716"/><String CONTENT="станица" HEIGHT="33" WIDTH="237" VPOS="842" HPOS="743"/><SP WIDTH="189" VPOS="865" HPOS="1016"/></TextLine>
+<TextLine HEIGHT="46" WIDTH="792" VPOS="906" HPOS="272" STYLEREFS="StyleId-13BBB607-951A-4DE5-8113-006BFC2E4889- font0"><String STYLE="bold" CONTENT="Сиелӧй" HEIGHT="36" WIDTH="225" VPOS="906" HPOS="272"/><SP WIDTH="22" VPOS="912" HPOS="498"/><String STYLE="bold" CONTENT="разведка" HEIGHT="32" WIDTH="273" VPOS="920" HPOS="521"/><SP WIDTH="187" VPOS="941" HPOS="831"/><String STYLE="bold" CONTENT="•" HEIGHT="9" WIDTH="9" VPOS="929" HPOS="1055"/></TextLine>
+<TextLine HEIGHT="47" WIDTH="838" VPOS="987" HPOS="272"><String CONTENT="Пулемёт" HEIGHT="42" WIDTH="259" VPOS="987" HPOS="272"/><SP WIDTH="42" VPOS="999" HPOS="532"/><String CONTENT="дорын" HEIGHT="33" WIDTH="180" VPOS="1001" HPOS="575"/><SP WIDTH="354" VPOS="1003" HPOS="756"/></TextLine>
+<TextLine HEIGHT="48" WIDTH="712" VPOS="1065" HPOS="267" STYLEREFS="StyleId-F80DA3AB-7B15-4444-85A9-E8ADA57AC2D3- font0"><String STYLE="bold" CONTENT="Юрсийылын" HEIGHT="44" WIDTH="383" VPOS="1065" HPOS="267"/><SP WIDTH="279" VPOS="1098" HPOS="700"/></TextLine>
+</TextBlock><GraphicalElement ID="BlockId-0F18C2AE-E26A-4AD0-98ED-0FDE97719D42-" HEIGHT="17" WIDTH="635" VPOS="867" HPOS="1063"/><GraphicalElement ID="BlockId-89969270-5739-4189-8FA6-2D1EAFDD2456-" HEIGHT="24" WIDTH="818" VPOS="942" HPOS="876"/><GraphicalElement ID="BlockId-22A9647C-708C-487A-AEB1-11B53E045C54-" HEIGHT="24" WIDTH="813" VPOS="1021" HPOS="878"/><GraphicalElement ID="BlockId-7848BDE2-9355-47FA-8D6B-954149F2215A-" HEIGHT="27" WIDTH="991" VPOS="1098" HPOS="701"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

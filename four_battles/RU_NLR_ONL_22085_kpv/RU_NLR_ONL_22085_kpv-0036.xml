@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-10-20</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1">
+<PrintSpace HEIGHT="2515" WIDTH="2043" VPOS="0" HPOS="0"><Illustration ID="BlockId-3A132621-3848-4390-9933-0AB49C5F1701-" HEIGHT="2515" WIDTH="2039" VPOS="0" HPOS="4"/><GraphicalElement ID="BlockId-17FB198E-C3AE-4A49-A395-BABB4EF6890B-" HEIGHT="40" WIDTH="1916" VPOS="0" HPOS="48"/><GraphicalElement ID="BlockId-63859CFB-6782-43DC-91BD-8B236EC8A143-" HEIGHT="12" WIDTH="268" VPOS="52" HPOS="1232"/><GraphicalElement ID="BlockId-75A3A54D-28C6-44EF-9090-5E4E4263CCC4-" HEIGHT="5" WIDTH="244" VPOS="52" HPOS="1500"/><GraphicalElement ID="BlockId-27254AB9-77C0-4CB0-B31F-6797CDCA7367-" HEIGHT="8" WIDTH="121" VPOS="232" HPOS="1400"/><GraphicalElement ID="BlockId-B4BD942F-B22E-4BAC-80B8-F84A605AAABC-" HEIGHT="7" WIDTH="364" VPOS="509" HPOS="1236"/><GraphicalElement ID="BlockId-B566BCD2-565A-4D0C-B946-7583AED07455-" HEIGHT="22" WIDTH="354" VPOS="2493" HPOS="1408"/><GraphicalElement ID="BlockId-EFD1BF5B-036E-4E9A-849B-1A4F2E25E4EA-" HEIGHT="18" WIDTH="203" VPOS="2497" HPOS="111"/><GraphicalElement ID="BlockId-E69AF9BB-8308-460D-B9E5-9151B03F748D-" HEIGHT="424" WIDTH="8" VPOS="74" HPOS="1213"/><GraphicalElement ID="BlockId-BCC53BBA-F79C-480E-AF65-45FE3BE4D9E6-" HEIGHT="55" WIDTH="5" VPOS="1025" HPOS="1722"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>
