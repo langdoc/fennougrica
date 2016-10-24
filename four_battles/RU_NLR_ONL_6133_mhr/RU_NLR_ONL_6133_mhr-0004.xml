@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-04-06</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1">
+<PrintSpace HEIGHT="2620" WIDTH="2150" VPOS="0" HPOS="0"><Illustration ID="BlockId-BF1CA178-AA72-4E45-AF1F-C8CE9F40624B-" HEIGHT="2620" WIDTH="2150" VPOS="0" HPOS="0"/><GraphicalElement ID="BlockId-40907601-29B6-4AF5-9FCC-203377397D6D-" HEIGHT="43" WIDTH="2110" VPOS="0" HPOS="40"/><GraphicalElement ID="BlockId-FC20323B-0090-47C5-9185-26FF3321580F-" HEIGHT="2499" WIDTH="34" VPOS="44" HPOS="0"/><GraphicalElement ID="BlockId-89279CFB-2DDD-41AB-BC8E-5367FC77C677-" HEIGHT="241" WIDTH="5" VPOS="2289" HPOS="37"/><GraphicalElement ID="BlockId-06C5380A-F251-414E-9C99-EACF2656FB15-" HEIGHT="373" WIDTH="4" VPOS="2199" HPOS="1968"/><GraphicalElement ID="BlockId-C12C832F-FB07-445A-B3FF-A1051DFA1955-" HEIGHT="105" WIDTH="5" VPOS="187" HPOS="2093"/><GraphicalElement ID="BlockId-7B17894A-E27E-4977-B9A7-A8BD1774B1CC-" HEIGHT="39" WIDTH="4" VPOS="2255" HPOS="36"/><GraphicalElement ID="BlockId-E2B30723-0FBB-42EA-84CB-C80D2B623FF4-" HEIGHT="192" WIDTH="4" VPOS="602" HPOS="1960"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

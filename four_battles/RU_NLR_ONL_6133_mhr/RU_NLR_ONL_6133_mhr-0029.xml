@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-04-06</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+<ParagraphStyle ID="StyleId-ABD8DB1A-170F-4617-9579-2F372A94E566-" ALIGN="Block" LEFT="0" RIGHT="0" FIRSTLINE="17" LINESPACE="18"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1">
+<PrintSpace HEIGHT="2626" WIDTH="2157" VPOS="0" HPOS="0">
+<TextBlock ID="BlockId-ABBA4B0D-3C42-4B64-91A7-669B11B48E50-" HEIGHT="362" WIDTH="1545" VPOS="214" HPOS="289" STYLEREFS="StyleId-ABD8DB1A-170F-4617-9579-2F372A94E566-">
+<TextLine HEIGHT="69" WIDTH="1463" VPOS="220" HPOS="364"><String CONTENT="Тудо" HEIGHT="69" WIDTH="149" VPOS="220" HPOS="364"/><SP WIDTH="55" VPOS="236" HPOS="514"/><String CONTENT="пулвуй" HEIGHT="65" WIDTH="213" VPOS="221" HPOS="570"/><SP WIDTH="35" VPOS="221" HPOS="784"/><String CONTENT="гычшо" HEIGHT="38" WIDTH="200" VPOS="231" HPOS="820"/><SP WIDTH="41" VPOS="230" HPOS="1021"/><String CONTENT="ошмам" HEIGHT="37" WIDTH="204" VPOS="230" HPOS="1063"/><SP WIDTH="44" VPOS="221" HPOS="1268"/><String CONTENT="ӱштылале," HEIGHT="61" WIDTH="317" VPOS="221" HPOS="1313"/><SP WIDTH="58" VPOS="232" HPOS="1631"/><String CONTENT="ваче" HEIGHT="36" WIDTH="137" VPOS="230" HPOS="1690"/></TextLine>
+<TextLine HEIGHT="69" WIDTH="1527" VPOS="290" HPOS="295"><String CONTENT="гочшо" HEIGHT="37" WIDTH="190" VPOS="308" HPOS="295"/><SP WIDTH="43" VPOS="308" HPOS="486"/><String CONTENT="карабинжым" HEIGHT="69" WIDTH="385" VPOS="290" HPOS="530"/><SP WIDTH="40" VPOS="307" HPOS="916"/><String CONTENT="пыштыш" HEIGHT="38" WIDTH="269" VPOS="304" HPOS="957"/><SP WIDTH="51" VPOS="304" HPOS="1227"/><String CONTENT="да" HEIGHT="42" WIDTH="64" VPOS="303" HPOS="1279"/><SP WIDTH="42" VPOS="303" HPOS="1344"/><String CONTENT="уэш" HEIGHT="51" WIDTH="121" VPOS="304" HPOS="1387"/><SP WIDTH="42" VPOS="305" HPOS="1509"/><String CONTENT="вагоныш" HEIGHT="38" WIDTH="270" VPOS="302" HPOS="1552"/></TextLine>
+<TextLine HEIGHT="49" WIDTH="220" VPOS="369" HPOS="300"><String CONTENT="кайыш." HEIGHT="49" WIDTH="220" VPOS="369" HPOS="300"/></TextLine>
+<TextLine HEIGHT="78" WIDTH="1458" VPOS="425" HPOS="370"><String CONTENT="—" HEIGHT="5" WIDTH="72" VPOS="468" HPOS="370"/><SP WIDTH="38" VPOS="425" HPOS="443"/><String CONTENT="Йолташ-шамыч," HEIGHT="71" WIDTH="503" VPOS="425" HPOS="482"/><SP WIDTH="46" VPOS="452" HPOS="986"/><String CONTENT="пурыза" HEIGHT="54" WIDTH="215" VPOS="449" HPOS="1033"/><SP WIDTH="57" VPOS="450" HPOS="1249"/><String CONTENT="мый" HEIGHT="49" WIDTH="120" VPOS="436" HPOS="1307"/><SP WIDTH="52" VPOS="436" HPOS="1428"/><String CONTENT="декем!" HEIGHT="59" WIDTH="190" VPOS="433" HPOS="1481"/><SP WIDTH="46" VPOS="431" HPOS="1672"/><String CONTENT="Со" HEIGHT="54" WIDTH="81" VPOS="431" HPOS="1719"/><HYP CONTENT="172"/></TextLine>
+<TextLine HEIGHT="56" WIDTH="847" VPOS="514" HPOS="299"><String CONTENT="вещаний" HEIGHT="56" WIDTH="265" VPOS="514" HPOS="299"/><SP WIDTH="41" VPOS="514" HPOS="565"/><String CONTENT="але" HEIGHT="38" WIDTH="96" VPOS="523" HPOS="607"/><SP WIDTH="30" VPOS="525" HPOS="704"/><String CONTENT="пытен" HEIGHT="37" WIDTH="181" VPOS="524" HPOS="735"/><SP WIDTH="40" VPOS="524" HPOS="917"/><String CONTENT="огыл..." HEIGHT="36" WIDTH="188" VPOS="524" HPOS="958"/></TextLine>
+</TextBlock>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>
