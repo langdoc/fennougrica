@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-10-07</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles><TextStyle ID="font0" FONTFAMILY="Courier New" FONTSIZE="8"/>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+<ParagraphStyle ID="StyleId-BD6FC768-FEC2-49A0-8985-7ADEC9C8F6B0-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1">
+<PrintSpace HEIGHT="2703" WIDTH="2047" VPOS="0" HPOS="0">
+<ComposedBlock ID="BlockId-5AD1F54D-0971-4AC3-BDA8-709171C71662-" HEIGHT="2703" WIDTH="2047" VPOS="0" HPOS="0" TYPE="container"><Illustration ID="BlockId-4BE37AA2-613F-48A1-B6C9-DDD6AC15AD40-" HEIGHT="2703" WIDTH="2047" VPOS="0" HPOS="0"/>
+<TextBlock ID="BlockId-5F4DDF0E-A40A-4189-9DAE-4711650C97F7-" HEIGHT="52" WIDTH="72" VPOS="483" HPOS="347" STYLEREFS="StyleId-BD6FC768-FEC2-49A0-8985-7ADEC9C8F6B0- font0">
+<TextLine HEIGHT="27" WIDTH="72" VPOS="506" HPOS="347"><String STYLE="italics" CONTENT="ш*-" HEIGHT="27" WIDTH="72" VPOS="506" HPOS="347"/></TextLine>
+</TextBlock></ComposedBlock><GraphicalElement ID="BlockId-64A4135B-30C1-4B9C-9D5D-3899BAAA2935-" HEIGHT="20" WIDTH="1793" VPOS="0" HPOS="17"/><GraphicalElement ID="BlockId-D7AAE238-CA71-4FFA-9BB4-8A69CBC6017F-" HEIGHT="15" WIDTH="178" VPOS="12" HPOS="1810"/><GraphicalElement ID="BlockId-94A878FF-FC5F-4018-802D-6934D933F436-" HEIGHT="9" WIDTH="535" VPOS="278" HPOS="332"/><GraphicalElement ID="BlockId-42A81DDC-258D-45CB-A1C8-E4378A2B7F02-" HEIGHT="37" WIDTH="2030" VPOS="2666" HPOS="0"/><GraphicalElement ID="BlockId-EC4B8D0D-4ECC-4117-9A8E-9E16814C8669-" HEIGHT="545" WIDTH="8" VPOS="1471" HPOS="323"/><GraphicalElement ID="BlockId-55FCC1F6-0E5D-4C99-AC7D-F5A45CDC903B-" HEIGHT="608" WIDTH="10" VPOS="863" HPOS="328"/><GraphicalElement ID="BlockId-720EFEA2-1B11-42DC-8E72-92C718A7857D-" HEIGHT="205" WIDTH="6" VPOS="950" HPOS="1725"/><GraphicalElement ID="BlockId-0337D863-A39E-4287-8B92-8E4E111903ED-" HEIGHT="470" WIDTH="8" VPOS="297" HPOS="1729"/><GraphicalElement ID="BlockId-5DDB457E-7060-4227-A9B0-DE1067081A0E-" HEIGHT="1098" WIDTH="23" VPOS="1196" HPOS="2016"/><GraphicalElement ID="BlockId-E422D4B3-3A37-4532-98C5-27CCD2EB325D-" HEIGHT="282" WIDTH="11" VPOS="2294" HPOS="2021"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

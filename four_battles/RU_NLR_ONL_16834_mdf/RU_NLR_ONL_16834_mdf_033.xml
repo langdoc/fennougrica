@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-10-07</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles><TextStyle ID="font0" FONTFAMILY="Times New Roman" FONTSIZE="9"/><TextStyle ID="font1" FONTFAMILY="Times New Roman" FONTSIZE="10"/>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+<ParagraphStyle ID="StyleId-26CD60C5-EB2C-4F00-982F-0C35069BB1BB-" ALIGN="Center" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+<ParagraphStyle ID="StyleId-5D0C7FBA-E0C9-498B-A935-9F2546EFF443-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+<ParagraphStyle ID="StyleId-8E781C1D-1A09-46AC-B49C-79803B4A2C0C-" ALIGN="Block" LEFT="0" RIGHT="0" FIRSTLINE="0" LINESPACE="12"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1">
+<PrintSpace HEIGHT="2695" WIDTH="2037" VPOS="0" HPOS="0">
+<TextBlock ID="BlockId-2AB3F1EF-A993-45B7-BE33-23F1201C84AA-" HEIGHT="56" WIDTH="375" VPOS="790" HPOS="736" STYLEREFS="StyleId-26CD60C5-EB2C-4F00-982F-0C35069BB1BB- font1">
+<TextLine HEIGHT="44" WIDTH="363" VPOS="796" HPOS="742"><String STYLE="bold" CONTENT="СОДЕРЖАНИЯ!!," HEIGHT="44" WIDTH="363" VPOS="796" HPOS="742"/></TextLine>
+</TextBlock>
+<TextBlock ID="BlockId-A5AAE864-57D1-426C-B9EE-7DF5476B4095-" HEIGHT="215" WIDTH="987" VPOS="938" HPOS="434" STYLEREFS="StyleId-8E781C1D-1A09-46AC-B49C-79803B4A2C0C- font0">
+<TextLine HEIGHT="39" WIDTH="974" VPOS="944" HPOS="441"><String CONTENT="ПЯТИИЗБЁННАЙ" HEIGHT="36" WIDTH="311" VPOS="944" HPOS="441"/><SP WIDTH="19" VPOS="944" HPOS="753"/><String CONTENT="СТАНИЦАСЬ" HEIGHT="32" WIDTH="233" VPOS="951" HPOS="773"/><SP WIDTH="331" VPOS="971" HPOS="1033"/><String CONTENT="4" HEIGHT="26" WIDTH="19" VPOS="952" HPOS="1396"/></TextLine>
+<TextLine HEIGHT="40" WIDTH="970" VPOS="998" HPOS="441"><String CONTENT="СМЕЛАЙ" HEIGHT="34" WIDTH="161" VPOS="998" HPOS="441"/><SP WIDTH="18" VPOS="998" HPOS="603"/><String CONTENT="РАЗВЕДКА" HEIGHT="34" WIDTH="196" VPOS="1004" HPOS="622"/><SP WIDTH="512" VPOS="1026" HPOS="851"/><String CONTENT="11" HEIGHT="27" WIDTH="28" VPOS="1005" HPOS="1383"/></TextLine>
+<TextLine HEIGHT="36" WIDTH="974" VPOS="1053" HPOS="441"><String CONTENT="ПУЛЕМЁТ" HEIGHT="33" WIDTH="177" VPOS="1053" HPOS="441"/><SP WIDTH="18" VPOS="1059" HPOS="619"/><String CONTENT="ВАКССА" HEIGHT="28" WIDTH="151" VPOS="1059" HPOS="638"/><SP WIDTH="152" VPOS="1080" HPOS="813"/><String CONTENT="•" HEIGHT="6" WIDTH="6" VPOS="1074" HPOS="1002"/><SP WIDTH="21" VPOS="1074" HPOS="1009"/><String CONTENT="." HEIGHT="6" WIDTH="6" VPOS="1080" HPOS="1031"/><SP WIDTH="28" VPOS="1080" HPOS="1038"/><String CONTENT="." HEIGHT="5" WIDTH="5" VPOS="1082" HPOS="1067"/><SP WIDTH="30" VPOS="1082" HPOS="1073"/><String CONTENT="." HEIGHT="6" WIDTH="5" VPOS="1082" HPOS="1104"/><SP WIDTH="36" VPOS="1074" HPOS="1110"/><String CONTENT="•" HEIGHT="6" WIDTH="6" VPOS="1074" HPOS="1147"/><SP WIDTH="187" VPOS="1081" HPOS="1177"/><String CONTENT="18" HEIGHT="28" WIDTH="33" VPOS="1060" HPOS="1382"/></TextLine>
+<TextLine HEIGHT="35" WIDTH="973" VPOS="1112" HPOS="442"><String CONTENT="ШЯЯРЬНЯНЬ" HEIGHT="31" WIDTH="243" VPOS="1112" HPOS="442"/><SP WIDTH="21" VPOS="1114" HPOS="686"/><String CONTENT="ВЕЛЬДЕ" HEIGHT="33" WIDTH="145" VPOS="1114" HPOS="708"/><SP WIDTH="477" VPOS="1133" HPOS="886"/><String CONTENT="25" HEIGHT="27" WIDTH="36" VPOS="1112" HPOS="1379"/></TextLine>
+</TextBlock><GraphicalElement ID="BlockId-CE987A94-F076-42EB-9230-9E143665316C-" HEIGHT="10" WIDTH="333" VPOS="971" HPOS="1032"/><GraphicalElement ID="BlockId-63981AF9-347B-497F-9898-0AB9FF6D1622-" HEIGHT="8" WIDTH="512" VPOS="1026" HPOS="851"/><GraphicalElement ID="BlockId-130E6039-AB81-450E-A442-29A864DB4B86-" HEIGHT="9" WIDTH="551" VPOS="1080" HPOS="813"/><GraphicalElement ID="BlockId-F0CAB4DC-6EE5-45E8-B176-EA136BF41B7B-" HEIGHT="10" WIDTH="478" VPOS="1132" HPOS="885"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-10-11</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1">
+<PrintSpace HEIGHT="2760" WIDTH="2160" VPOS="0" HPOS="0">
+<ComposedBlock ID="BlockId-E7F3FB2A-B9D2-4CEE-96E6-5216DFD0498B-" HEIGHT="2760" WIDTH="2160" VPOS="0" HPOS="0" TYPE="container"><Illustration ID="BlockId-E2DE0F74-D5EF-4A50-AA46-788EA3D2D38C-" HEIGHT="2760" WIDTH="2160" VPOS="0" HPOS="0"/></ComposedBlock><GraphicalElement ID="BlockId-76F279F9-2A84-441E-815A-6D473D2A58BC-" HEIGHT="44" WIDTH="2106" VPOS="0" HPOS="0"/><GraphicalElement ID="BlockId-3A91CDCB-A841-479C-9C48-B62465BC4E01-" HEIGHT="44" WIDTH="2107" VPOS="2716" HPOS="0"/><GraphicalElement ID="BlockId-3BBC8579-6056-4DBE-B33C-03E0F0077B3B-" HEIGHT="129" WIDTH="6" VPOS="1565" HPOS="2111"/><GraphicalElement ID="BlockId-544E311B-7362-4D21-ADD9-11E5982F74E7-" HEIGHT="96" WIDTH="5" VPOS="619" HPOS="2123"/><GraphicalElement ID="BlockId-F66C9E62-B2BA-4D8D-92C0-CFB8DA18D0F4-" HEIGHT="172" WIDTH="6" VPOS="118" HPOS="2124"/><GraphicalElement ID="BlockId-2C4FA25B-E6F1-4C2D-935C-CDCFD849C240-" HEIGHT="92" WIDTH="5" VPOS="500" HPOS="2125"/><GraphicalElement ID="BlockId-ECEB3D69-DDA1-4347-BFDE-D3C798F83988-" HEIGHT="23" WIDTH="2" VPOS="1395" HPOS="317"/><GraphicalElement ID="BlockId-B890BE20-790A-44F4-8728-64987D3FAADF-" HEIGHT="38" WIDTH="3" VPOS="1524" HPOS="317"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

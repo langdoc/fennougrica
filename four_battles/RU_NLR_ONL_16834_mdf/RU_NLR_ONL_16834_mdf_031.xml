@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-10-07</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1">
+<PrintSpace HEIGHT="2690" WIDTH="2030" VPOS="0" HPOS="0"><Illustration ID="BlockId-28D2B546-1A61-4C15-8DD9-AD23A12E0BFB-" HEIGHT="2690" WIDTH="2030" VPOS="0" HPOS="0"/><GraphicalElement ID="BlockId-C83EA3A2-3C74-40CA-B065-7154C3F3A9DF-" HEIGHT="24" WIDTH="1915" VPOS="0" HPOS="60"/><GraphicalElement ID="BlockId-B55F3711-4C07-4C7A-B5CC-9E37AE939D18-" HEIGHT="5" WIDTH="144" VPOS="248" HPOS="1592"/><GraphicalElement ID="BlockId-F650331B-AE61-4642-B304-B970E2B5E6E3-" HEIGHT="39" WIDTH="1998" VPOS="2651" HPOS="0"/><GraphicalElement ID="BlockId-732ED92B-30FD-4644-9529-90A664E2443C-" HEIGHT="107" WIDTH="4" VPOS="1467" HPOS="242"/><GraphicalElement ID="BlockId-BC65E051-77C7-457D-8BFB-CDA5E6DDEF5E-" HEIGHT="134" WIDTH="7" VPOS="1907" HPOS="242"/><GraphicalElement ID="BlockId-228F9CCF-7819-414B-A871-88AB09272B86-" HEIGHT="301" WIDTH="10" VPOS="1076" HPOS="1746"/><GraphicalElement ID="BlockId-EA58BCE9-6872-4304-BB2E-D7E2B58B8E5D-" HEIGHT="333" WIDTH="8" VPOS="246" HPOS="1747"/><GraphicalElement ID="BlockId-1907482E-9CA1-4F36-8AE7-CFE5BD1DA85F-" HEIGHT="216" WIDTH="4" VPOS="1395" HPOS="1751"/><GraphicalElement ID="BlockId-E32EA52E-5784-45CA-91B5-9B59F9CA8FD5-" HEIGHT="2476" WIDTH="23" VPOS="102" HPOS="2007"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>
