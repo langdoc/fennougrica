@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-04-06</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+<ParagraphStyle ID="StyleId-4A4DCCBA-CF4A-4D1A-B321-3A35A8DD5422-" ALIGN="Right" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+<ParagraphStyle ID="StyleId-E5C4EAC6-456F-46EF-9149-B9333788848A-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0" LINESPACE="12"/>
+<ParagraphStyle ID="StyleId-6E48A39A-3436-45A1-9839-09C3A0ABCB76-" ALIGN="Block" LEFT="0" RIGHT="0" FIRSTLINE="0" LINESPACE="12"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1">
+<PrintSpace HEIGHT="2649" WIDTH="2155" VPOS="0" HPOS="0">
+<ComposedBlock ID="BlockId-A1C8E8E0-68AE-40B6-B726-9A69F3CD8459-" HEIGHT="358" WIDTH="638" VPOS="824" HPOS="515" TYPE="container">
+<TextBlock ID="BlockId-00E95CAD-5AE2-49F0-8CBD-0C80F016B6FF-" HEIGHT="49" WIDTH="291" VPOS="824" HPOS="862" STYLEREFS="StyleId-4A4DCCBA-CF4A-4D1A-B321-3A35A8DD5422-">
+<TextLine HEIGHT="36" WIDTH="279" VPOS="831" HPOS="868"><String CONTENT="ОГЛАВЛЕНИ" HEIGHT="36" WIDTH="279" VPOS="831" HPOS="868"/></TextLine>
+</TextBlock>
+<TextBlock ID="BlockId-65197F43-A771-488A-A884-C55D370D9A07-" HEIGHT="211" WIDTH="540" VPOS="971" HPOS="515" STYLEREFS="StyleId-E5C4EAC6-456F-46EF-9149-B9333788848A-">
+<TextLine HEIGHT="40" WIDTH="528" VPOS="977" HPOS="521"><String CONTENT="ПЯТИИЗБЕННЫЙ" HEIGHT="34" WIDTH="318" VPOS="977" HPOS="521"/><SP WIDTH="20" VPOS="977" HPOS="840"/><String CONTENT="СТАНИЦА" HEIGHT="33" WIDTH="188" VPOS="984" HPOS="861"/></TextLine>
+<TextLine HEIGHT="41" WIDTH="527" VPOS="1030" HPOS="522"><String CONTENT="САІЕЛЫЙ" HEIGHT="33" WIDTH="162" VPOS="1030" HPOS="522"/><SP WIDTH="21" VPOS="1030" HPOS="685"/><String CONTENT="РАЗВЕДКА" HEIGHT="34" WIDTH="195" VPOS="1037" HPOS="707"/><SP WIDTH="28" VPOS="1040" HPOS="903"/><String CONTENT="." HEIGHT="8" WIDTH="9" VPOS="1060" HPOS="932"/><SP WIDTH="26" VPOS="1060" HPOS="942"/><String CONTENT="." HEIGHT="8" WIDTH="8" VPOS="1061" HPOS="969"/><SP WIDTH="26" VPOS="1061" HPOS="978"/><String CONTENT="." HEIGHT="7" WIDTH="8" VPOS="1062" HPOS="1005"/><SP WIDTH="27" VPOS="1062" HPOS="1014"/><String CONTENT="." HEIGHT="7" WIDTH="7" VPOS="1062" HPOS="1042"/></TextLine>
+<TextLine HEIGHT="34" WIDTH="526" VPOS="1091" HPOS="522"><String CONTENT="ПУЛЕМЕТ" HEIGHT="28" WIDTH="177" VPOS="1091" HPOS="522"/><SP WIDTH="18" VPOS="1092" HPOS="700"/><String CONTENT="ДОНЫ" HEIGHT="30" WIDTH="114" VPOS="1093" HPOS="719"/><SP WIDTH="189" VPOS="1117" HPOS="859"/></TextLine>
+<TextLine HEIGHT="39" WIDTH="524" VPOS="1141" HPOS="522" STYLEREFS="StyleId-6E48A39A-3436-45A1-9839-09C3A0ABCB76-"><String CONTENT="ШӸРТӸ" HEIGHT="33" WIDTH="145" VPOS="1141" HPOS="522"/><SP WIDTH="20" VPOS="1143" HPOS="668"/><String CONTENT="мычны" HEIGHT="28" WIDTH="150" VPOS="1147" HPOS="689"/><SP WIDTH="189" VPOS="1171" HPOS="857"/></TextLine>
+</TextBlock></ComposedBlock><GraphicalElement ID="BlockId-7892252A-F959-4675-AAB7-AE691C6D1279-" HEIGHT="11" WIDTH="370" VPOS="1008" HPOS="1079"/><GraphicalElement ID="BlockId-FE20C0CD-43C6-4663-A4EE-D067C0B17B5E-" HEIGHT="11" WIDTH="480" VPOS="1061" HPOS="969"/><GraphicalElement ID="BlockId-CB180AB1-E6E1-4576-9604-D90DA074D825-" HEIGHT="10" WIDTH="589" VPOS="1117" HPOS="859"/><GraphicalElement ID="BlockId-1A1706F0-E7F6-4347-8145-27E56FD835A1-" HEIGHT="14" WIDTH="591" VPOS="1171" HPOS="857"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

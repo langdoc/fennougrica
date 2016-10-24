@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2016-04-06</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY Recognition Server</softwareName><softwareVersion>4.0</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0" RIGHT="0" FIRSTLINE="0"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1">
+<PrintSpace HEIGHT="2620" WIDTH="2120" VPOS="0" HPOS="0"><Illustration ID="BlockId-A04E00F1-0D6F-4C5B-AA87-E4671DF9859A-" HEIGHT="2620" WIDTH="2120" VPOS="0" HPOS="0"/><GraphicalElement ID="BlockId-78EE5506-A493-420F-9CB2-64CD5FB976F3-" HEIGHT="37" WIDTH="2058" VPOS="0" HPOS="62"/><GraphicalElement ID="BlockId-285F8B51-8336-42A4-A8E8-C23C99A1E060-" HEIGHT="147" WIDTH="4" VPOS="2414" HPOS="2057"/><GraphicalElement ID="BlockId-6DBE9C86-3338-4AA4-8EEE-83C440A2EBBA-" HEIGHT="104" WIDTH="2" VPOS="1424" HPOS="37"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>
