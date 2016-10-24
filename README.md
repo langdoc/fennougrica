@@ -26,6 +26,10 @@ This book from Lev Vasilyevich Uspenskiy has been translated into numerous langu
 
 Currently there are translations into [Erzya](http://urn.fi/URN:NBN:fi-fe2014082633380), [Moksha](http://urn.fi/URN:NBN:fi-fe2014090944573), [Komi Zyrian](http://urn.fi/URN:NBN:fi-fe2014102045428), [Komi Permyak](http://urn.fi/URN:NBN:fi-fe2014101045137), [Udmurt](http://urn.fi/URN:NBN:fi-fe2014092444879), [Hill Mari](http://urn.fi/URN:NBN:fi-fe2014100345029), [Meadow Mari](http://urn.fi/URN:NBN:fi-fe2014091844781), [Mansi](http://urn.fi/URN:NBN:fi-fe2014090133491) and [Tundra Nenets](http://urn.fi/URN:NBN:fi-fe2014061829330).
 
+## Principles
+
+- Fix it when you see it!
+
 ## Contributors
 
 - Niko Partanen
