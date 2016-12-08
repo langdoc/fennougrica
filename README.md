@@ -1,6 +1,6 @@
 # fennougrica
 
-This repository contains data from [Fenno-Ugrica](http://fennougrica.kansalliskirjasto.fi/) collection of the National Library of Finland. The collection is very large and rich, and everyone is recommended to explore it further. However, many gems hidden into this collection require specific expertise (and a bit of luck) to be found and contextualized. Into this repository different researchers, primarily at the moment Niko Partanen and Michael Rießler, have selected by hand some of the most particular items in the collection, with the idea of providing easy access to this data, especially linguists in mind. 
+This repository contains data from [Fenno-Ugrica](http://fennougrica.kansalliskirjasto.fi/) collection of the National Library of Finland. The collection is very large and rich, and everyone is recommended to explore it further. The content of this repository very largely builds on the work of others, 
 
 Naturally Fenno-Ugrica already provides this access, but there are several tasks with have to be undertaken before the data is truly ready for linguistic analysis.
 
