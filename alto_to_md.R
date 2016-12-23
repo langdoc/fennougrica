@@ -2,11 +2,13 @@ alto_to_md <- function(path = "four_battles/RU_NLR_ONL_22085_kpv/", clear = T){
 
         library(plyr)
         
+        source("read_alto.R")
+        
         `%>%` <- dplyr::`%>%`
 
         xml_files <- list.files(path, pattern = "xml", full.names = T)
 
-        alto_table <- plyr::ldply(xml_files, fennougrica::read_alto)
+        alto_table <- plyr::ldply(xml_files, read_alto)
         alto_table %>% dplyr::tbl_df() %>%
                 dplyr::mutate(line_id = paste(page, line_height, line_width, line_vpos, line_hpos, sep = "-")) %>%
                 dplyr::left_join(dplyr::distinct(., line_id) %>% dplyr::mutate(line_number = seq_along(line_id))) %>%
@@ -19,20 +21,18 @@ alto_to_md <- function(path = "four_battles/RU_NLR_ONL_22085_kpv/", clear = T){
                 dplyr::filter(! grepl("\\d+", whole_string)) %>%
                 dplyr::mutate(par_break = ifelse(test = (line_width - 10) > line_width_average, yes = T, no = F)) -> alto_lines
 
-#        header <- paste0("## ", language, "\n")
-
+        # The line 20 above tries to detect paragraph breaks
+        
         path_pattern <- "(.+)/.+(.{3})/$"
         language <- gsub(path_pattern, "\\1", path)
         corpus_name <- gsub(path_pattern, "\\2", path)
         
-        file_to_write = paste0("docs/", language, "-", corpus_name, ".md")
+        file_to_write = paste0("docs/", corpus_name, "-", language, ".md")
 
         if (clear == T && file.exists(file_to_write)){
         system(paste0("rm ", file_to_write))
         }
 
-#        readr::write_file(header, file_to_write, append = T)
-#        write("", file_to_write, append = T)
         plyr::d_ply(alto_lines, .(line_number), function(x){
                 if (x$par_break == TRUE){
                 readr::write_file(x$whole_string, file_to_write, append = T)
