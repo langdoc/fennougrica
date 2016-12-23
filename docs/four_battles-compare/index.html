@@ -1,0 +1,20 @@
+<script>
+
+    $(function() {
+        $('#colorselector').change(function(){
+            $('.colors').hide();
+            $('#' + $(this).val()).show();
+        });
+    });
+
+</script>
+
+<Select id="colorselector">
+   <option value="red">Red</option>
+   <option value="yellow">Yellow</option>
+   <option value="blue">Blue</option>
+</Select>
+<div id="red" class="colors" style="display:none"> red... </div>
+<div id="yellow" class="colors" style="display:none"> yellow.. </div>
+<div id="blue" class="colors" style="display:none"> blue.. </div>
+
