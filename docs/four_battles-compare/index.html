@@ -4,30 +4,129 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
+<style type="text/css">
+ #root {
+   background-color: #eee;
+ }
+
+#left_side {
+float: left;
+background:pink;
+width: 48%;
+ }
+
+#right_side {
+float: right;
+background:lightblue;
+width: 48%;
+}
+
+
+</style>
+
 </head>
 
-<body>
+<div data-role="header" data-position="fixed">
         
-<Select id="colorselector">
-   <option value="red">Red</option>
-   <option value="yellow">Yellow</option>
-   <option value="blue">Blue</option>
-</Select>
-<div id="red" class="colors" style="display:none"> red... </div>
-<div id="yellow" class="colors" style="display:none"> yellow.. </div>
-<div id="blue" class="colors" style="display:none"> blue.. </div>
+                    <p>Select language on left:</p>
+                <Select id="leftselector">
+                   <option value="kpv1">Komi Zyrian</option>
+                   <option value="koi1">Komi Permyak</option>
+                   <option value="udm1">Udmurt</option>
+                   <option value="yrk1">Tundra Nenets</option>
+                   <option value="myv1">Erzya</option>
+                   <option value="mdf1">Moksha</option>
+                   <option value="mhr1">Meadow Mari</option>
+                   <option value="mrj1">Hill Mari</option>
+                   <option value="mns1">Mansi</option>
+                   <option value="rus1">Russian/option>
+                </Select>
+                
+                   <p>Select language on right:</p>
+                <Select id="rightselector">
+                   <option value="kpv2">Komi Zyrian</option>
+                   <option value="koi2">Komi Permyak</option>
+                   <option value="udm2">Udmurt</option>
+                   <option value="yrk2">Tundra Nenets</option>
+                   <option value="myv2">Erzya</option>
+                   <option value="mdf2">Moksha</option>
+                   <option value="mhr2">Meadow Mari</option>
+                   <option value="mrj2">Hill Mari</option>
+                   <option value="mns2">Mansi</option>
+                   <option value="rus2">Russian/option>
+                </Select>
+                
+</div>
+
+<body>
+
+
+<div id="root">
+    <div id="left_side">
+            <div id="kpv1" class="selector1" style="display:none"></div>
+            <div id="koi1" class="selector1" style="display:none"></div>
+            <div id="udm1" class="selector1" style="display:none"></div>
+            <div id="yrk1" class="selector1" style="display:none"></div>
+            <div id="myv1" class="selector1" style="display:none"></div>
+            <div id="mdf1" class="selector1" style="display:none"></div>
+            <div id="mhr1" class="selector1" style="display:none"></div>
+            <div id="mrj1" class="selector1" style="display:none"></div>
+            <div id="mns1" class="selector1" style="display:none"></div>
+            <div id="rus1" class="selector1" style="display:none"></div>
+    </div>
+    <div id="right_side">
+            <div id="kpv2" class="selector2" style="display:none"></div>
+            <div id="koi2" class="selector2" style="display:none"></div>
+            <div id="udm2" class="selector2" style="display:none"></div>
+            <div id="yrk2" class="selector2" style="display:none"></div>
+            <div id="myv2" class="selector2" style="display:none"></div>
+            <div id="mdf2" class="selector2" style="display:none"></div>
+            <div id="mhr2" class="selector2" style="display:none"></div>
+            <div id="mrj2" class="selector2" style="display:none"></div>
+            <div id="mns2" class="selector2" style="display:none"></div>
+            <div id="rus2" class="selector2" style="display:none"></div>
+    </div>
+</div>
 
 <script>
 
     $(function() {
-        $('#colorselector').change(function(){
-            $('.colors').hide();
+        $('#leftselector').change(function(){
+            $('.selector1').hide();
             $('#' + $(this).val()).show();
         });
     });
+    
+    $(function() {
+        $('#rightselector').change(function(){
+            $('.selector2').hide();
+            $('#' + $(this).val()).show();
+        });
+    });
+   
+   $('#kpv1').load('https://langdoc.github.io/fennougrica/four_battles-kpv/ .container');
+   $('#koi1').load('https://langdoc.github.io/fennougrica/four_battles-koi/ .container');
+   $('#udm1').load('https://langdoc.github.io/fennougrica/four_battles-udm/ .container');
+   $('#yrk1').load('https://langdoc.github.io/fennougrica/four_battles-yrk/ .container');
+   $('#myv1').load('https://langdoc.github.io/fennougrica/four_battles-myv/ .container');
+   $('#mdf1').load('https://langdoc.github.io/fennougrica/four_battles-mdf/ .container');
+   $('#mhr1').load('https://langdoc.github.io/fennougrica/four_battles-mhr/ .container');
+   $('#mrj1').load('https://langdoc.github.io/fennougrica/four_battles-mrj/ .container');
+   $('#mns1').load('https://langdoc.github.io/fennougrica/four_battles-mns/ .container');
+   $('#rus1').load('https://langdoc.github.io/fennougrica/four_battles-rus/ .container');
+    
+   $('#kpv2').load('https://langdoc.github.io/fennougrica/four_battles-kpv/ .container');
+   $('#koi2').load('https://langdoc.github.io/fennougrica/four_battles-koi/ .container');
+   $('#udm2').load('https://langdoc.github.io/fennougrica/four_battles-udm/ .container');
+   $('#yrk2').load('https://langdoc.github.io/fennougrica/four_battles-yrk/ .container');
+   $('#myv2').load('https://langdoc.github.io/fennougrica/four_battles-myv/ .container');
+   $('#mdf2').load('https://langdoc.github.io/fennougrica/four_battles-mdf/ .container');
+   $('#mhr2').load('https://langdoc.github.io/fennougrica/four_battles-mhr/ .container');
+   $('#mrj2').load('https://langdoc.github.io/fennougrica/four_battles-mrj/ .container');
+   $('#mns2').load('https://langdoc.github.io/fennougrica/four_battles-mns/ .container');
+   $('#rus2').load('https://langdoc.github.io/fennougrica/four_battles-rus/ .container');
 
 </script>
-
 
 </body>
 
