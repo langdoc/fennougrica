@@ -19,6 +19,8 @@ description: These texts have been automatically processed from the XML files in
 navbar-links:
 #  About Me: "aboutme"
   Four Battles:
+    - Introduction: "four_battles-intro"
+    - Compare: "four_battles-compare"
     - Komi-Zyrian: "four_battles-kpv"
     - Komi-Permyak: "four_battles-koi"
     - Tundra Nenets: "four_battles-yrk"
