@@ -8,7 +8,7 @@ url: "http://langdoc.github.io/fennougrica"
 baseurl: "/fennougrica"
 
 # Name of website
-title: Parallel texts from [Fenno-Ugrica collection](http://fennougrica.kansalliskirjasto.fi/)
+title: Fenno-Ugrica parallel texts
 
 # Short description of your site
 description: These texts have been automatically processed from the XML files in Fenno-Ugrica collection, please see GitHub for documentation
