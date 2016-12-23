@@ -48,7 +48,13 @@ alto_to_md <- function(path = "four_battles/RU_NLR_ONL_22085_kpv/", clear = T){
 
 }
 
-alto_to_md()
+alto_to_md(path = "four_battles/RU_NLR_ONL_22085_kpv/")
 alto_to_md(path = "four_battles/RU_NLR_ONL_11390_udm/")
 alto_to_md(path = "four_battles/RU_NLR_ONL_13092_myv/")
+alto_to_md(path = "four_battles/RU_NLR_ONL_16834_mdf/")
 alto_to_md(path = "four_battles/RU_NLR_ONL_22938_koi/")
+alto_to_md(path = "four_battles/RU_NLR_ONL2_4271_yrk/")
+alto_to_md(path = "four_battles/RU_NLR_ONL_6133_mhr/")
+alto_to_md(path = "four_battles/RU_NLR_ONL_812_mns/")
+alto_to_md(path = "four_battles/RU_NLR_ONL_9057_mrj/")
+alto_to_md(path = "four_battles/RU_NLR_ONL2_4271_rus/")
