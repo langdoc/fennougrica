@@ -1,4 +1,4 @@
-alto_to_md <- function(path = "four_battles/RU_NLR_ONL_22085_kpv/", corpus_name = "four_battles", language = "Komi Zyrian", clear = T){
+alto_to_md <- function(path = "four_battles/RU_NLR_ONL_22085_kpv/", clear = T){
 
         library(plyr)
         
@@ -16,11 +16,16 @@ alto_to_md <- function(path = "four_battles/RU_NLR_ONL_22085_kpv/", corpus_name 
                 dplyr::group_by(page) %>%
                 dplyr::mutate(line_width_average = mean(line_width)) %>%
                 dplyr::ungroup() %>%
+                dplyr::filter(! grepl("\\d+", whole_string)) %>%
                 dplyr::mutate(par_break = ifelse(test = (line_width - 10) > line_width_average, yes = T, no = F)) -> alto_lines
 
 #        header <- paste0("## ", language, "\n")
 
-        file_to_write = paste0("docs/kpv-", corpus_name, ".md")
+        path_pattern <- "(.+)/.+(.{3})/$"
+        language <- gsub(path_pattern, "\\1", path)
+        corpus_name <- gsub(path_pattern, "\\2", path)
+        
+        file_to_write = paste0("docs/", language, "-", corpus_name, ".md")
 
         if (clear == T && file.exists(file_to_write)){
         system(paste0("rm ", file_to_write))
@@ -44,3 +49,6 @@ alto_to_md <- function(path = "four_battles/RU_NLR_ONL_22085_kpv/", corpus_name 
 }
 
 alto_to_md()
+alto_to_md(path = "four_battles/RU_NLR_ONL_11390_udm/")
+alto_to_md(path = "four_battles/RU_NLR_ONL_13092_myv/")
+alto_to_md(path = "four_battles/RU_NLR_ONL_22938_koi/")
