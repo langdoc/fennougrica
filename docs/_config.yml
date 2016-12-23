@@ -23,12 +23,19 @@ navbar-links:
     - Compare: "four_battles-compare"
     - Komi-Zyrian: "four_battles-kpv"
     - Komi-Permyak: "four_battles-koi"
+    - Udmurt: "four_battles-udm"
     - Tundra Nenets: "four_battles-yrk"
+    - Erzya: "four_battles-myv"
+    - Moksha: "four_battles-mdf"
+    - Meadow Mari: "four_battles-mhr"
+    - Hill Mari: "four_battles-mrj"
+    - Northern Mansi: "four_battles-mns" 
+    - Russian: "four_battles-rus"
   In Search of the Mammoth:
-    - Erzya: "isotm-myv"
-    - Moksha: "isotm-2"
-    - Meadow Mari: "isotm-3"
-    - Hill Mari: "isotm-4"
+    - Erzya - forthcoming: "isotm-myv"
+    - Moksha - forthcoming: "isotm-2"
+    - Meadow Mari - forthcoming: "isotm-3"
+    - Hill Mari - forthcoming: "isotm-4"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
