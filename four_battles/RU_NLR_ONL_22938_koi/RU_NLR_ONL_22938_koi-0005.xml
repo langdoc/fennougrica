@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
@@ -26,30 +26,22 @@
           <ComposedBlock ID="BlockId-74B03679-6DD0-4EDD-860A-ADB0B56B42D6-" HEIGHT="2201" WIDTH="1719" VPOS="0" HPOS="13" TYPE="container">
             <Illustration ID="BlockId-57C06954-2DF6-4720-88F9-03581BF763A1-" HEIGHT="2201" WIDTH="1719" VPOS="0" HPOS="13"/>
             <TextBlock ID="BlockId-7C513FF7-D3F8-42E7-AFEF-74C5A2AC80F1-" HEIGHT="56" WIDTH="162" VPOS="1" HPOS="1310" STYLEREFS="StyleId-2E9F2A1A-7097-4FFA-A433-733C28BFD85B- font0">
-              <TextLine HEIGHT="26" WIDTH="160" VPOS="7" HPOS="1311">
-                <String STYLE="bold" CONTENT="**&quot;Д—" HEIGHT="26" WIDTH="160" VPOS="7" HPOS="1311"/>
-              </TextLine>
+              <TextLine HEIGHT="26" WIDTH="160" VPOS="7" HPOS="1311"/>
             </TextBlock>
           </ComposedBlock>
           <ComposedBlock ID="BlockId-0BDDE114-6450-4100-9BFB-214F9CAC27F5-" HEIGHT="451" WIDTH="1761" VPOS="2218" HPOS="0" TYPE="container">
             <TextBlock ID="BlockId-B56EFCE7-E8D1-41FF-9D0F-C076F3F48CC7-" HEIGHT="121" WIDTH="1001" VPOS="2218" HPOS="360" STYLEREFS="StyleId-1D48BF86-F774-433C-916C-B4B9339ADD0A- font0">
               <TextLine HEIGHT="55" WIDTH="988" VPOS="2224" HPOS="366">
-                <String CONTENT="Ерттэз" HEIGHT="50" WIDTH="138" VPOS="2224" HPOS="366"/>
-                <SP WIDTH="27" VPOS="2224" HPOS="505"/>
-                <String CONTENT="Сталин" HEIGHT="41" WIDTH="148" VPOS="2224" HPOS="533"/>
-                <SP WIDTH="27" VPOS="2238" HPOS="682"/>
-                <String CONTENT="да" HEIGHT="31" WIDTH="48" VPOS="2238" HPOS="710"/>
-                <SP WIDTH="28" VPOS="2228" HPOS="759"/>
-                <String CONTENT="Ворошилов" HEIGHT="49" WIDTH="234" VPOS="2228" HPOS="788"/>
-                <SP WIDTH="31" VPOS="2229" HPOS="1023"/>
-                <String CONTENT="фронт" HEIGHT="50" WIDTH="128" VPOS="2229" HPOS="1055"/>
-                <SP WIDTH="29" VPOS="2241" HPOS="1184"/>
-                <String CONTENT="выльш" HEIGHT="30" WIDTH="140" VPOS="2240" HPOS="1214"/>
+                <String CONTENT="Ерттэз" CHANGED="false" HPOS="366" VPOS="2224" WIDTH="138" HEIGHT="50"/>
+                <String CONTENT="Сталин" CHANGED="false" HPOS="533" VPOS="2224" WIDTH="148" HEIGHT="41"/>
+                <String CONTENT="да" CHANGED="false" HPOS="710" VPOS="2238" WIDTH="48" HEIGHT="31"/>
+                <String CONTENT="Ворошилов" CHANGED="false" HPOS="788" VPOS="2228" WIDTH="234" HEIGHT="49"/>
+                <String CONTENT="фронт" CHANGED="false" HPOS="1055" VPOS="2229" WIDTH="128" HEIGHT="50"/>
+                <String CONTENT="выльын" CHANGED="true" HPOS="1214" VPOS="2240" WIDTH="140" HEIGHT="30"/>
               </TextLine>
               <TextLine HEIGHT="52" WIDTH="359" VPOS="2281" HPOS="682">
-                <String CONTENT="Царицын" HEIGHT="50" WIDTH="187" VPOS="2281" HPOS="682"/>
-                <SP WIDTH="29" VPOS="2294" HPOS="870"/>
-                <String CONTENT="узтын." HEIGHT="39" WIDTH="141" VPOS="2294" HPOS="900"/>
+                <String CONTENT="Царицын" CHANGED="false" HPOS="682" VPOS="2281" WIDTH="187" HEIGHT="50"/>
+                <String CONTENT="увтын." CHANGED="true" HPOS="900" VPOS="2294" WIDTH="141" HEIGHT="39"/>
               </TextLine>
             </TextBlock>
             <Illustration ID="BlockId-AA65F49E-FE35-4021-8081-7B2206ED2BA1-" HEIGHT="331" WIDTH="1761" VPOS="2338" HPOS="0"/>
