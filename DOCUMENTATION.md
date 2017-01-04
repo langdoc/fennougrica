@@ -1,8 +1,8 @@
 ## Workflow
 
-The files have been downloaded as ZIP packages from Fenno-Ugrica collection. They've been unzipped and set to the wanted locations. The XML files have been pretty printed with following command:
+The files have been downloaded as ZIP packages from Fenno-Ugrica collection. They've been unzipped and set to the wanted locations. The XML files have been pretty printed with following command (please notice that when downloading from Revizor the files don't have encoding declared, adding it in this point is maybe a good idea):
 
-    find . -name "*.xml" -type f -exec xmllint --output '{}' --format '{}' \;
+    find . -name "*.xml" -type f -exec xmllint --output '{}' --format '{}' --encode UTF-8 \;
 
 In some point one could add more automatization to pretty printing and XML validity checking.
 
