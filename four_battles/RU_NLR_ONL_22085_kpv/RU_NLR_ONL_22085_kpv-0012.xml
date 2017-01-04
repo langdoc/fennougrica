@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
@@ -26,580 +26,347 @@
       <PrintSpace HEIGHT="2421" WIDTH="2019" VPOS="0" HPOS="0">
         <TextBlock ID="BlockId-872DB0FE-E51B-4E14-9E52-192A52BE141A-" HEIGHT="1942" WIDTH="1620" VPOS="213" HPOS="168" STYLEREFS="StyleId-7BBA79C4-D2B0-47B9-B235-BA055C1DC595- font1">
           <TextLine HEIGHT="51" WIDTH="1167" VPOS="220" HPOS="258" STYLEREFS="StyleId-6500C6FA-9DCA-45B1-8E40-9F172A7DAF3B- font1">
-            <String STYLE="bold" CONTENT="Шоферыс," HEIGHT="51" WIDTH="246" VPOS="220" HPOS="258"/>
-            <SP WIDTH="29" VPOS="231" HPOS="505"/>
-            <String STYLE="bold" CONTENT="том" HEIGHT="28" WIDTH="83" VPOS="230" HPOS="535"/>
-            <SP WIDTH="27" VPOS="230" HPOS="619"/>
-            <String STYLE="bold" CONTENT="зонка" HEIGHT="28" WIDTH="125" VPOS="230" HPOS="647"/>
-            <SP WIDTH="29" VPOS="231" HPOS="773"/>
-            <String STYLE="bold" CONTENT="на," HEIGHT="32" WIDTH="60" VPOS="231" HPOS="803"/>
-            <SP WIDTH="28" VPOS="231" HPOS="864"/>
-            <String STYLE="bold" CONTENT="дзикбдз" HEIGHT="42" WIDTH="184" VPOS="221" HPOS="893"/>
-            <SP WIDTH="27" VPOS="230" HPOS="1078"/>
-            <String STYLE="bold" CONTENT="растеряйгчис." HEIGHT="49" WIDTH="319" VPOS="221" HPOS="1106"/>
+            <String CONTENT="Шоферыс," CHANGED="false" HPOS="258" VPOS="220" WIDTH="246" HEIGHT="51"/>
+            <String CONTENT="том" CHANGED="false" HPOS="535" VPOS="230" WIDTH="83" HEIGHT="28"/>
+            <String CONTENT="зонка" CHANGED="false" HPOS="647" VPOS="230" WIDTH="125" HEIGHT="28"/>
+            <String CONTENT="на," CHANGED="false" HPOS="803" VPOS="231" WIDTH="60" HEIGHT="32"/>
+            <String CONTENT="дзикӧдз" CHANGED="true" HPOS="893" VPOS="221" WIDTH="186.2" HEIGHT="49"/>
+            <String CONTENT="растеряйтчис." CHANGED="true" HPOS="1079" VPOS="221" WIDTH="345.8" HEIGHT="49"/>
           </TextLine>
           <TextLine HEIGHT="56" WIDTH="1514" VPOS="269" HPOS="257" STYLEREFS="StyleId-6500C6FA-9DCA-45B1-8E40-9F172A7DAF3B- font1">
-            <String STYLE="bold" CONTENT="—" HEIGHT="6" WIDTH="43" VPOS="297" HPOS="257"/>
-            <SP WIDTH="37" VPOS="273" HPOS="301"/>
-            <String STYLE="bold" CONTENT="Мый" HEIGHT="39" WIDTH="106" VPOS="273" HPOS="339"/>
-            <SP WIDTH="29" VPOS="274" HPOS="446"/>
-            <String STYLE="bold" CONTENT="вбчны?" HEIGHT="42" WIDTH="171" VPOS="270" HPOS="476"/>
-            <SP WIDTH="24" VPOS="270" HPOS="648"/>
-            <String STYLE="bold" CONTENT="Командир" HEIGHT="53" WIDTH="231" VPOS="271" HPOS="673"/>
-            <SP WIDTH="15" VPOS="276" HPOS="905"/>
-            <String STYLE="bold" CONTENT="ёрт?" HEIGHT="54" WIDTH="102" VPOS="271" HPOS="921"/>
-            <SP WIDTH="16" VPOS="271" HPOS="1024"/>
-            <String STYLE="bold" CONTENT="Кыдз" HEIGHT="44" WIDTH="118" VPOS="272" HPOS="1041"/>
-            <SP WIDTH="17" VPOS="284" HPOS="1160"/>
-            <String STYLE="bold" CONTENT="лоны?" HEIGHT="41" WIDTH="143" VPOS="270" HPOS="1178"/>
-            <SP WIDTH="27" VPOS="269" HPOS="1322"/>
-            <String STYLE="bold" CONTENT="Вошим" HEIGHT="42" WIDTH="160" VPOS="269" HPOS="1350"/>
-            <SP WIDTH="19" VPOS="284" HPOS="1511"/>
-            <String STYLE="bold" CONTENT="ми,—-шбп-" HEIGHT="42" WIDTH="240" VPOS="276" HPOS="1531"/>
+            <String CONTENT="—" CHANGED="false" HPOS="257" VPOS="297" WIDTH="43" HEIGHT="6"/>
+            <String CONTENT="Мый" CHANGED="false" HPOS="339" VPOS="273" WIDTH="106" HEIGHT="39"/>
+            <String CONTENT="вӧчны?" CHANGED="true" HPOS="476" VPOS="270" WIDTH="171" HEIGHT="42"/>
+            <String CONTENT="Командир" CHANGED="false" HPOS="673" VPOS="271" WIDTH="231" HEIGHT="53"/>
+            <String CONTENT="ёрт?" CHANGED="false" HPOS="921" VPOS="271" WIDTH="102" HEIGHT="54"/>
+            <String CONTENT="Кыдз" CHANGED="false" HPOS="1041" VPOS="272" WIDTH="118" HEIGHT="44"/>
+            <String CONTENT="лоны?" CHANGED="false" HPOS="1178" VPOS="270" WIDTH="143" HEIGHT="41"/>
+            <String CONTENT="Вошим" CHANGED="false" HPOS="1350" VPOS="269" WIDTH="160" HEIGHT="42"/>
+            <String CONTENT="ми,—" CHANGED="true" HPOS="1531" VPOS="276" WIDTH="240" HEIGHT="42"/>
           </TextLine>
           <TextLine HEIGHT="45" WIDTH="263" VPOS="327" HPOS="174" STYLEREFS="StyleId-6500C6FA-9DCA-45B1-8E40-9F172A7DAF3B- font1">
-            <String STYLE="bold" CONTENT="«бдіс" HEIGHT="42" WIDTH="120" VPOS="330" HPOS="174"/>
-            <SP WIDTH="37" VPOS="338" HPOS="295"/>
-            <String STYLE="bold" CONTENT="сійб." HEIGHT="40" WIDTH="104" VPOS="327" HPOS="333"/>
+            <String CONTENT="шӧп-" CHANGED="true" HPOS="174" VPOS="327" WIDTH="75.14285714285714" HEIGHT="45"/>
+            <String CONTENT="кӧдіс" CHANGED="true" HPOS="249" VPOS="327" WIDTH="93.92857142857143" HEIGHT="45"/>
+            <String CONTENT="сійӧ." CHANGED="true" HPOS="343" VPOS="327" WIDTH="93.92857142857143" HEIGHT="45"/>
           </TextLine>
           <TextLine HEIGHT="54" WIDTH="1340" VPOS="377" HPOS="257" STYLEREFS="StyleId-6500C6FA-9DCA-45B1-8E40-9F172A7DAF3B- font1">
-            <String STYLE="bold" CONTENT="Чорыд" HEIGHT="51" WIDTH="154" VPOS="380" HPOS="257"/>
-            <SP WIDTH="26" VPOS="391" HPOS="412"/>
-            <String STYLE="bold" CONTENT="киыс" HEIGHT="29" WIDTH="111" VPOS="389" HPOS="439"/>
-            <SP WIDTH="24" VPOS="377" HPOS="551"/>
-            <String STYLE="bold" CONTENT="Ворошиловлбн" HEIGHT="52" WIDTH="350" VPOS="377" HPOS="576"/>
-            <SP WIDTH="26" VPOS="390" HPOS="927"/>
-            <String STYLE="bold" CONTENT="усис" HEIGHT="40" WIDTH="100" VPOS="390" HPOS="954"/>
-            <SP WIDTH="32" VPOS="389" HPOS="1055"/>
-            <String STYLE="bold" CONTENT="сылы" HEIGHT="27" WIDTH="115" VPOS="389" HPOS="1088"/>
-            <SP WIDTH="29" VPOS="389" HPOS="1204"/>
-            <String STYLE="bold" CONTENT="пельпом" HEIGHT="28" WIDTH="185" VPOS="388" HPOS="1234"/>
-            <SP WIDTH="33" VPOS="389" HPOS="1420"/>
-            <String STYLE="bold" CONTENT="вылас." HEIGHT="28" WIDTH="143" VPOS="390" HPOS="1454"/>
+            <String CONTENT="Чорыд" CHANGED="false" HPOS="257" VPOS="380" WIDTH="154" HEIGHT="51"/>
+            <String CONTENT="киыс" CHANGED="false" HPOS="439" VPOS="389" WIDTH="111" HEIGHT="29"/>
+            <String CONTENT="Ворошиловлӧн" CHANGED="true" HPOS="576" VPOS="377" WIDTH="350" HEIGHT="52"/>
+            <String CONTENT="усис" CHANGED="false" HPOS="954" VPOS="390" WIDTH="100" HEIGHT="40"/>
+            <String CONTENT="сылы" CHANGED="false" HPOS="1088" VPOS="389" WIDTH="115" HEIGHT="27"/>
+            <String CONTENT="пельпом" CHANGED="false" HPOS="1234" VPOS="388" WIDTH="185" HEIGHT="28"/>
+            <String CONTENT="вылас." CHANGED="false" HPOS="1454" VPOS="390" WIDTH="143" HEIGHT="28"/>
           </TextLine>
           <TextLine HEIGHT="53" WIDTH="1509" VPOS="430" HPOS="260" STYLEREFS="StyleId-6500C6FA-9DCA-45B1-8E40-9F172A7DAF3B- font1">
-            <String STYLE="bold" CONTENT="—" HEIGHT="8" WIDTH="41" VPOS="456" HPOS="260"/>
-            <SP WIDTH="33" VPOS="432" HPOS="302"/>
-            <String STYLE="bold" CONTENT="Да" HEIGHT="46" WIDTH="61" VPOS="432" HPOS="336"/>
-            <SP WIDTH="29" VPOS="444" HPOS="398"/>
-            <String STYLE="bold" CONTENT="мый" HEIGHT="36" WIDTH="91" VPOS="435" HPOS="428"/>
-            <SP WIDTH="20" VPOS="435" HPOS="520"/>
-            <String STYLE="bold" CONTENT="тэ," HEIGHT="34" WIDTH="60" VPOS="443" HPOS="541"/>
-            <SP WIDTH="28" VPOS="444" HPOS="602"/>
-            <String STYLE="bold" CONTENT="лруг," HEIGHT="40" WIDTH="114" VPOS="443" HPOS="631"/>
-            <SP WIDTH="17" VPOS="446" HPOS="746"/>
-            <String STYLE="bold" CONTENT="мый" HEIGHT="35" WIDTH="90" VPOS="436" HPOS="764"/>
-            <SP WIDTH="30" VPOS="436" HPOS="855"/>
-            <String STYLE="bold" CONTENT="тэ!" HEIGHT="38" WIDTH="62" VPOS="433" HPOS="886"/>
-            <SP WIDTH="17" VPOS="432" HPOS="949"/>
-            <String STYLE="bold" CONTENT="Мыйысь" HEIGHT="38" WIDTH="190" VPOS="432" HPOS="967"/>
-            <SP WIDTH="22" VPOS="443" HPOS="1158"/>
-            <String STYLE="bold" CONTENT="повзин." HEIGHT="27" WIDTH="170" VPOS="442" HPOS="1181"/>
-            <SP WIDTH="20" VPOS="430" HPOS="1352"/>
-            <String STYLE="bold" CONTENT="Кутчысь" HEIGHT="52" WIDTH="194" VPOS="430" HPOS="1373"/>
-            <SP WIDTH="44" VPOS="444" HPOS="1568"/>
-            <String STYLE="bold" CONTENT="чорыд-" HEIGHT="38" WIDTH="156" VPOS="443" HPOS="1613"/>
+            <String CONTENT="—" CHANGED="false" HPOS="260" VPOS="456" WIDTH="41" HEIGHT="8"/>
+            <String CONTENT="Да" CHANGED="false" HPOS="336" VPOS="432" WIDTH="61" HEIGHT="46"/>
+            <String CONTENT="мый" CHANGED="false" HPOS="428" VPOS="435" WIDTH="91" HEIGHT="36"/>
+            <String CONTENT="тэ," CHANGED="false" HPOS="541" VPOS="443" WIDTH="60" HEIGHT="34"/>
+            <String CONTENT="друг," CHANGED="true" HPOS="631" VPOS="443" WIDTH="114" HEIGHT="40"/>
+            <String CONTENT="мый" CHANGED="false" HPOS="764" VPOS="436" WIDTH="90" HEIGHT="35"/>
+            <String CONTENT="тэ!" CHANGED="false" HPOS="886" VPOS="433" WIDTH="62" HEIGHT="38"/>
+            <String CONTENT="Мыйысь" CHANGED="false" HPOS="967" VPOS="432" WIDTH="190" HEIGHT="38"/>
+            <String CONTENT="повзин." CHANGED="false" HPOS="1181" VPOS="442" WIDTH="170" HEIGHT="27"/>
+            <String CONTENT="Кутчысь" CHANGED="false" HPOS="1373" VPOS="430" WIDTH="194" HEIGHT="52"/>
+            <String CONTENT="чорыд-" CHANGED="false" HPOS="1613" VPOS="443" WIDTH="156" HEIGHT="38"/>
           </TextLine>
           <TextLine HEIGHT="56" WIDTH="1596" VPOS="483" HPOS="175" STYLEREFS="StyleId-6500C6FA-9DCA-45B1-8E40-9F172A7DAF3B- font1">
-            <String STYLE="bold" CONTENT="джыка." HEIGHT="32" WIDTH="163" VPOS="499" HPOS="175"/>
-            <SP WIDTH="31" VPOS="485" HPOS="339"/>
-            <String STYLE="bold" CONTENT="Видлы," HEIGHT="45" WIDTH="157" VPOS="485" HPOS="371"/>
-            <SP WIDTH="29" VPOS="497" HPOS="529"/>
-            <String STYLE="bold" CONTENT="вермас" HEIGHT="38" WIDTH="153" VPOS="496" HPOS="559"/>
-            <SP WIDTH="29" VPOS="497" HPOS="713"/>
-            <String STYLE="bold" CONTENT="лоны," HEIGHT="32" WIDTH="127" VPOS="497" HPOS="743"/>
-            <SP WIDTH="31" VPOS="497" HPOS="871"/>
-            <String STYLE="bold" CONTENT="кбть" HEIGHT="37" WIDTH="100" VPOS="487" HPOS="903"/>
-            <SP WIDTH="31" VPOS="497" HPOS="1004"/>
-            <String STYLE="bold" CONTENT="неуна" HEIGHT="38" WIDTH="124" VPOS="497" HPOS="1036"/>
-            <SP WIDTH="30" VPOS="497" HPOS="1161"/>
-            <String STYLE="bold" CONTENT="машинаыс" HEIGHT="27" WIDTH="229" VPOS="495" HPOS="1192"/>
-            <SP WIDTH="29" VPOS="483" HPOS="1422"/>
-            <String STYLE="bold" CONTENT="босьтас" HEIGHT="42" WIDTH="176" VPOS="483" HPOS="1452"/>
-            <SP WIDTH="41" VPOS="484" HPOS="1629"/>
-            <String STYLE="bold" CONTENT="бор-" HEIGHT="55" WIDTH="100" VPOS="484" HPOS="1671"/>
+            <String CONTENT="джыка." CHANGED="false" HPOS="175" VPOS="499" WIDTH="163" HEIGHT="32"/>
+            <String CONTENT="Видлы," CHANGED="false" HPOS="371" VPOS="485" WIDTH="157" HEIGHT="45"/>
+            <String CONTENT="вермас" CHANGED="false" HPOS="559" VPOS="496" WIDTH="153" HEIGHT="38"/>
+            <String CONTENT="лоны," CHANGED="false" HPOS="743" VPOS="497" WIDTH="127" HEIGHT="32"/>
+            <String CONTENT="кӧть" CHANGED="true" HPOS="903" VPOS="487" WIDTH="100" HEIGHT="37"/>
+            <String CONTENT="неуна" CHANGED="false" HPOS="1036" VPOS="497" WIDTH="124" HEIGHT="38"/>
+            <String CONTENT="машинаыс" CHANGED="false" HPOS="1192" VPOS="495" WIDTH="229" HEIGHT="27"/>
+            <String CONTENT="босьтас" CHANGED="false" HPOS="1452" VPOS="483" WIDTH="176" HEIGHT="42"/>
+            <String CONTENT="бӧр-" CHANGED="true" HPOS="1671" VPOS="484" WIDTH="100" HEIGHT="55"/>
           </TextLine>
           <TextLine HEIGHT="53" WIDTH="1598" VPOS="536" HPOS="178" STYLEREFS="StyleId-6500C6FA-9DCA-45B1-8E40-9F172A7DAF3B- font1">
-            <String STYLE="bold" CONTENT="лань?" HEIGHT="39" WIDTH="129" VPOS="541" HPOS="178"/>
-            <SP WIDTH="27" VPOS="538" HPOS="308"/>
-            <String STYLE="bold" CONTENT="Давай," HEIGHT="46" WIDTH="153" VPOS="538" HPOS="336"/>
-            <SP WIDTH="28" VPOS="550" HPOS="490"/>
-            <String STYLE="bold" CONTENT="давай," HEIGHT="41" WIDTH="141" VPOS="542" HPOS="519"/>
-            <SP WIDTH="29" VPOS="538" HPOS="661"/>
-            <String STYLE="bold" CONTENT="бергӧдчы" HEIGHT="51" WIDTH="216" VPOS="538" HPOS="691"/>
-            <SP WIDTH="31" VPOS="550" HPOS="908"/>
-            <String STYLE="bold" CONTENT="ньбжйбникбн..." HEIGHT="37" WIDTH="352" VPOS="540" HPOS="940"/>
-            <SP WIDTH="47" VPOS="536" HPOS="1293"/>
-            <String STYLE="bold" CONTENT="Да" HEIGHT="46" WIDTH="60" VPOS="536" HPOS="1341"/>
-            <SP WIDTH="30" VPOS="549" HPOS="1402"/>
-            <String STYLE="bold" CONTENT="эн" HEIGHT="27" WIDTH="48" VPOS="549" HPOS="1433"/>
-            <SP WIDTH="26" VPOS="549" HPOS="1482"/>
-            <String STYLE="bold" CONTENT="пов," HEIGHT="33" WIDTH="90" VPOS="550" HPOS="1509"/>
-            <SP WIDTH="30" VPOS="549" HPOS="1600"/>
-            <String STYLE="bold" CONTENT="нинбм" HEIGHT="36" WIDTH="145" VPOS="544" HPOS="1631"/>
+            <String CONTENT="лань?" CHANGED="false" HPOS="178" VPOS="541" WIDTH="129" HEIGHT="39"/>
+            <String CONTENT="Давай," CHANGED="false" HPOS="336" VPOS="538" WIDTH="153" HEIGHT="46"/>
+            <String CONTENT="давай," CHANGED="false" HPOS="519" VPOS="542" WIDTH="141" HEIGHT="41"/>
+            <String CONTENT="бергӧдчы" CHANGED="false" HPOS="691" VPOS="538" WIDTH="216" HEIGHT="51"/>
+            <String CONTENT="ньӧжйӧникӧн..." CHANGED="true" HPOS="940" VPOS="540" WIDTH="352" HEIGHT="37"/>
+            <String CONTENT="Да" CHANGED="false" HPOS="1341" VPOS="536" WIDTH="60" HEIGHT="46"/>
+            <String CONTENT="эн" CHANGED="false" HPOS="1433" VPOS="549" WIDTH="48" HEIGHT="27"/>
+            <String CONTENT="пов," CHANGED="false" HPOS="1509" VPOS="550" WIDTH="90" HEIGHT="33"/>
+            <String CONTENT="нинӧм" CHANGED="true" HPOS="1631" VPOS="544" WIDTH="145" HEIGHT="36"/>
           </TextLine>
           <TextLine HEIGHT="53" WIDTH="1222" VPOS="590" HPOS="178" STYLEREFS="StyleId-6500C6FA-9DCA-45B1-8E40-9F172A7DAF3B- font1">
-            <String CONTENT="на" HEIGHT="27" WIDTH="48" VPOS="607" HPOS="178"/>
-            <SP WIDTH="29" VPOS="606" HPOS="227"/>
-            <String STYLE="bold" CONTENT="страшнбйыс" HEIGHT="48" WIDTH="281" VPOS="595" HPOS="257"/>
-            <SP WIDTH="27" VPOS="602" HPOS="539"/>
-            <String STYLE="bold" CONTENT="абу!" HEIGHT="52" WIDTH="93" VPOS="591" HPOS="567"/>
-            <SP WIDTH="26" VPOS="590" HPOS="661"/>
-            <String STYLE="bold" CONTENT="Лыйлам," HEIGHT="45" WIDTH="189" VPOS="590" HPOS="688"/>
-            <SP WIDTH="30" VPOS="604" HPOS="878"/>
-            <String STYLE="bold" CONTENT="чеччыштам!" HEIGHT="38" WIDTH="267" VPOS="592" HPOS="909"/>
-            <SP WIDTH="23" VPOS="592" HPOS="1177"/>
-            <String CONTENT="Пыр" HEIGHT="49" WIDTH="95" VPOS="592" HPOS="1201"/>
-            <SP WIDTH="23" VPOS="602" HPOS="1297"/>
-            <String CONTENT="жб!" HEIGHT="38" WIDTH="79" VPOS="592" HPOS="1321"/>
+            <String CONTENT="на" CHANGED="false" HPOS="178" VPOS="607" WIDTH="48" HEIGHT="27"/>
+            <String CONTENT="страшнӧйыс" CHANGED="true" HPOS="257" VPOS="595" WIDTH="281" HEIGHT="48"/>
+            <String CONTENT="абу!" CHANGED="false" HPOS="567" VPOS="591" WIDTH="93" HEIGHT="52"/>
+            <String CONTENT="Лыйлам," CHANGED="false" HPOS="688" VPOS="590" WIDTH="189" HEIGHT="45"/>
+            <String CONTENT="чеччыштам!" CHANGED="false" HPOS="909" VPOS="592" WIDTH="267" HEIGHT="38"/>
+            <String CONTENT="Пыр" CHANGED="false" HPOS="1201" VPOS="592" WIDTH="95" HEIGHT="49"/>
+            <String CONTENT="жӧ!" CHANGED="true" HPOS="1321" VPOS="592" WIDTH="79" HEIGHT="38"/>
           </TextLine>
           <TextLine HEIGHT="51" WIDTH="1523" VPOS="644" HPOS="258">
-            <String CONTENT="Быдбн" HEIGHT="43" WIDTH="145" VPOS="647" HPOS="258"/>
-            <SP WIDTH="28" VPOS="657" HPOS="404"/>
-            <String CONTENT="тіян" HEIGHT="35" WIDTH="87" VPOS="648" HPOS="433"/>
-            <SP WIDTH="29" VPOS="657" HPOS="521"/>
-            <String CONTENT="пиысь" HEIGHT="27" WIDTH="136" VPOS="656" HPOS="551"/>
-            <SP WIDTH="31" VPOS="655" HPOS="688"/>
-            <String CONTENT="аддзыліс," HEIGHT="41" WIDTH="206" VPOS="647" HPOS="720"/>
-            <SP WIDTH="22" VPOS="656" HPOS="927"/>
-            <String CONTENT="кыдзи" HEIGHT="30" WIDTH="134" VPOS="656" HPOS="950"/>
-            <SP WIDTH="20" VPOS="644" HPOS="1085"/>
-            <String CONTENT="бергбдчб" HEIGHT="51" WIDTH="208" VPOS="644" HPOS="1106"/>
-            <SP WIDTH="28" VPOS="647" HPOS="1315"/>
-            <String CONTENT="векни" HEIGHT="28" WIDTH="130" VPOS="656" HPOS="1344"/>
-            <SP WIDTH="28" VPOS="656" HPOS="1475"/>
-            <String CONTENT="переулокьш" HEIGHT="40" WIDTH="277" VPOS="655" HPOS="1504"/>
+            <String CONTENT="Быдӧн" CHANGED="true" HPOS="258" VPOS="647" WIDTH="145" HEIGHT="43"/>
+            <String CONTENT="тіян" CHANGED="false" HPOS="433" VPOS="648" WIDTH="87" HEIGHT="35"/>
+            <String CONTENT="пиысь" CHANGED="false" HPOS="551" VPOS="656" WIDTH="136" HEIGHT="27"/>
+            <String CONTENT="аддзыліс," CHANGED="false" HPOS="720" VPOS="647" WIDTH="206" HEIGHT="41"/>
+            <String CONTENT="кыдзи" CHANGED="false" HPOS="950" VPOS="656" WIDTH="134" HEIGHT="30"/>
+            <String CONTENT="бергӧдчӧ" CHANGED="true" HPOS="1106" VPOS="644" WIDTH="208" HEIGHT="51"/>
+            <String CONTENT="векни" CHANGED="false" HPOS="1344" VPOS="656" WIDTH="130" HEIGHT="28"/>
+            <String CONTENT="переулокын" CHANGED="true" HPOS="1504" VPOS="655" WIDTH="277" HEIGHT="40"/>
           </TextLine>
           <TextLine HEIGHT="52" WIDTH="1597" VPOS="697" HPOS="177">
-            <String CONTENT="либб" HEIGHT="40" WIDTH="108" VPOS="699" HPOS="177"/>
-            <SP WIDTH="28" VPOS="702" HPOS="286"/>
-            <String CONTENT="бшинь" HEIGHT="36" WIDTH="147" VPOS="702" HPOS="315"/>
-            <SP WIDTH="26" VPOS="710" HPOS="463"/>
-            <String CONTENT="улын" HEIGHT="38" WIDTH="114" VPOS="710" HPOS="490"/>
-            <SP WIDTH="29" VPOS="709" HPOS="605"/>
-            <String CONTENT="сьбкыд" HEIGHT="41" WIDTH="165" VPOS="699" HPOS="635"/>
-            <SP WIDTH="30" VPOS="709" HPOS="801"/>
-            <String CONTENT="грузовик." HEIGHT="41" WIDTH="218" VPOS="708" HPOS="832"/>
-            <SP WIDTH="41" VPOS="697" HPOS="1051"/>
-            <String CONTENT="Таысь" HEIGHT="40" WIDTH="137" VPOS="697" HPOS="1093"/>
-            <SP WIDTH="37" VPOS="700" HPOS="1231"/>
-            <String CONTENT="ӧчйӧ" HEIGHT="37" WIDTH="109" VPOS="700" HPOS="1269"/>
-            <SP WIDTH="30" VPOS="701" HPOS="1379"/>
-            <String CONTENT="некыдз" HEIGHT="31" WIDTH="161" VPOS="710" HPOS="1410"/>
-            <SP WIDTH="28" VPOS="710" HPOS="1572"/>
-            <String CONTENT="он" HEIGHT="27" WIDTH="50" VPOS="711" HPOS="1601"/>
-            <SP WIDTH="30" VPOS="711" HPOS="1652"/>
-            <String CONTENT="вбч." HEIGHT="39" WIDTH="91" VPOS="702" HPOS="1683"/>
+            <String CONTENT="либӧ" CHANGED="true" HPOS="177" VPOS="699" WIDTH="126.66666666666666" HEIGHT="40"/>
+            <String CONTENT="ӧшинь" CHANGED="true" HPOS="303" VPOS="699" WIDTH="158.33333333333334" HEIGHT="40"/>
+            <String CONTENT="улын" CHANGED="false" HPOS="490" VPOS="710" WIDTH="114" HEIGHT="38"/>
+            <String CONTENT="сьӧкыд" CHANGED="true" HPOS="635" VPOS="699" WIDTH="165" HEIGHT="41"/>
+            <String CONTENT="грузовик." CHANGED="false" HPOS="832" VPOS="708" WIDTH="218" HEIGHT="41"/>
+            <String CONTENT="Таысь" CHANGED="false" HPOS="1093" VPOS="697" WIDTH="137" HEIGHT="40"/>
+            <String CONTENT="ӧдйӧ" CHANGED="true" HPOS="1269" VPOS="700" WIDTH="109" HEIGHT="37"/>
+            <String CONTENT="некыдз" CHANGED="false" HPOS="1410" VPOS="710" WIDTH="161" HEIGHT="31"/>
+            <String CONTENT="он" CHANGED="false" HPOS="1601" VPOS="711" WIDTH="50" HEIGHT="27"/>
+            <String CONTENT="вӧч." CHANGED="true" HPOS="1683" VPOS="702" WIDTH="91" HEIGHT="39"/>
           </TextLine>
           <TextLine HEIGHT="52" WIDTH="1599" VPOS="750" HPOS="176">
-            <String CONTENT="Воськов" HEIGHT="38" WIDTH="193" VPOS="754" HPOS="176"/>
-            <SP WIDTH="19" VPOS="765" HPOS="370"/>
-            <String CONTENT="водзб," HEIGHT="43" WIDTH="141" VPOS="753" HPOS="390"/>
-            <SP WIDTH="16" VPOS="764" HPOS="532"/>
-            <String CONTENT="воськов" HEIGHT="27" WIDTH="182" VPOS="762" HPOS="549"/>
-            <SP WIDTH="16" VPOS="750" HPOS="732"/>
-            <String CONTENT="ббрб..." HEIGHT="51" WIDTH="147" VPOS="750" HPOS="749"/>
-            <SP WIDTH="18" VPOS="750" HPOS="897"/>
-            <String CONTENT="Неуна" HEIGHT="51" WIDTH="135" VPOS="750" HPOS="916"/>
-            <SP WIDTH="28" VPOS="763" HPOS="1052"/>
-            <String CONTENT="шуйгавылб," HEIGHT="46" WIDTH="264" VPOS="755" HPOS="1081"/>
-            <SP WIDTH="20" VPOS="764" HPOS="1346"/>
-            <String CONTENT="неуна" HEIGHT="39" WIDTH="125" VPOS="763" HPOS="1367"/>
-            <SP WIDTH="16" VPOS="764" HPOS="1493"/>
-            <String CONTENT="веськыдвы-" HEIGHT="33" WIDTH="265" VPOS="763" HPOS="1510"/>
+            <String CONTENT="Воськов" CHANGED="false" HPOS="176" VPOS="754" WIDTH="193" HEIGHT="38"/>
+            <String CONTENT="водзӧ," CHANGED="true" HPOS="390" VPOS="753" WIDTH="141" HEIGHT="43"/>
+            <String CONTENT="воськов" CHANGED="false" HPOS="549" VPOS="762" WIDTH="182" HEIGHT="27"/>
+            <String CONTENT="бӧрӧ..." CHANGED="true" HPOS="749" VPOS="750" WIDTH="147" HEIGHT="51"/>
+            <String CONTENT="Неуна" CHANGED="false" HPOS="916" VPOS="750" WIDTH="135" HEIGHT="51"/>
+            <String CONTENT="шуйгавылӧ," CHANGED="true" HPOS="1081" VPOS="755" WIDTH="264" HEIGHT="46"/>
+            <String CONTENT="неуна" CHANGED="false" HPOS="1367" VPOS="763" WIDTH="125" HEIGHT="39"/>
+            <String CONTENT="веськыдвы-" CHANGED="false" HPOS="1510" VPOS="763" WIDTH="265" HEIGHT="33"/>
           </TextLine>
           <TextLine HEIGHT="51" WIDTH="1598" VPOS="804" HPOS="178">
-            <String CONTENT="лб..." HEIGHT="36" WIDTH="92" VPOS="809" HPOS="178"/>
-            <SP WIDTH="29" VPOS="806" HPOS="271"/>
-            <String CONTENT="Кык" HEIGHT="38" WIDTH="95" VPOS="806" HPOS="301"/>
-            <SP WIDTH="27" VPOS="817" HPOS="397"/>
-            <String CONTENT="метр" HEIGHT="39" WIDTH="105" VPOS="816" HPOS="425"/>
-            <SP WIDTH="28" VPOS="816" HPOS="531"/>
-            <String CONTENT="водзлань," HEIGHT="30" WIDTH="218" VPOS="816" HPOS="560"/>
-            <SP WIDTH="47" VPOS="816" HPOS="779"/>
-            <String CONTENT="кык" HEIGHT="26" WIDTH="88" VPOS="816" HPOS="827"/>
-            <SP WIDTH="28" VPOS="804" HPOS="916"/>
-            <String CONTENT="ббрлань" HEIGHT="49" WIDTH="182" VPOS="804" HPOS="945"/>
-            <SP WIDTH="32" VPOS="817" HPOS="1128"/>
-            <String CONTENT="и" HEIGHT="25" WIDTH="23" VPOS="818" HPOS="1161"/>
-            <SP WIDTH="47" VPOS="805" HPOS="1185"/>
-            <String CONTENT="бара" HEIGHT="50" WIDTH="99" VPOS="805" HPOS="1233"/>
-            <SP WIDTH="53" VPOS="817" HPOS="1333"/>
-            <String CONTENT="метрджын" HEIGHT="39" WIDTH="233" VPOS="816" HPOS="1387"/>
-            <SP WIDTH="39" VPOS="817" HPOS="1621"/>
-            <String CONTENT="весь-" HEIGHT="28" WIDTH="115" VPOS="818" HPOS="1661"/>
+            <String CONTENT="лӧ..." CHANGED="true" HPOS="178" VPOS="809" WIDTH="92" HEIGHT="36"/>
+            <String CONTENT="Кык" CHANGED="false" HPOS="301" VPOS="806" WIDTH="95" HEIGHT="38"/>
+            <String CONTENT="метр" CHANGED="false" HPOS="425" VPOS="816" WIDTH="105" HEIGHT="39"/>
+            <String CONTENT="водзлань," CHANGED="false" HPOS="560" VPOS="816" WIDTH="218" HEIGHT="30"/>
+            <String CONTENT="кык" CHANGED="false" HPOS="827" VPOS="816" WIDTH="88" HEIGHT="26"/>
+            <String CONTENT="бӧрлань" CHANGED="true" HPOS="945" VPOS="804" WIDTH="182" HEIGHT="49"/>
+            <String CONTENT="и" CHANGED="false" HPOS="1161" VPOS="818" WIDTH="23" HEIGHT="25"/>
+            <String CONTENT="бара" CHANGED="false" HPOS="1233" VPOS="805" WIDTH="99" HEIGHT="50"/>
+            <String CONTENT="метрджын" CHANGED="false" HPOS="1387" VPOS="816" WIDTH="233" HEIGHT="39"/>
+            <String CONTENT="весь-" CHANGED="false" HPOS="1661" VPOS="818" WIDTH="115" HEIGHT="28"/>
           </TextLine>
           <TextLine HEIGHT="50" WIDTH="826" VPOS="858" HPOS="179">
-            <String CONTENT="кыдвылб.." HEIGHT="41" WIDTH="231" VPOS="861" HPOS="179"/>
-            <SP WIDTH="42" VPOS="858" HPOS="411"/>
-            <String CONTENT="Минута," HEIGHT="50" WIDTH="186" VPOS="858" HPOS="454"/>
-            <SP WIDTH="30" VPOS="870" HPOS="641"/>
-            <String CONTENT="мод," HEIGHT="31" WIDTH="95" VPOS="869" HPOS="672"/>
-            <SP WIDTH="32" VPOS="869" HPOS="768"/>
-            <String CONTENT="коймбд..." HEIGHT="40" WIDTH="204" VPOS="860" HPOS="801"/>
+            <String CONTENT="кыдвылӧ.." CHANGED="true" HPOS="179" VPOS="861" WIDTH="231" HEIGHT="41"/>
+            <String CONTENT="Минута," CHANGED="false" HPOS="454" VPOS="858" WIDTH="186" HEIGHT="50"/>
+            <String CONTENT="мӧд," CHANGED="true" HPOS="672" VPOS="860" WIDTH="102.46153846153847" HEIGHT="40"/>
+            <String CONTENT="коймӧд..." CHANGED="true" HPOS="774" VPOS="860" WIDTH="230.53846153846152" HEIGHT="40"/>
           </TextLine>
           <TextLine HEIGHT="42" WIDTH="383" VPOS="912" HPOS="258">
-            <String CONTENT="Тадз" HEIGHT="42" WIDTH="104" VPOS="912" HPOS="258"/>
-            <SP WIDTH="28" VPOS="923" HPOS="363"/>
-            <String CONTENT="вблі" HEIGHT="37" WIDTH="90" VPOS="912" HPOS="392"/>
-            <SP WIDTH="30" VPOS="914" HPOS="483"/>
-            <String CONTENT="и" HEIGHT="25" WIDTH="23" VPOS="923" HPOS="514"/>
-            <SP WIDTH="22" VPOS="913" HPOS="538"/>
-            <String CONTENT="бні." HEIGHT="36" WIDTH="80" VPOS="913" HPOS="561"/>
+            <String CONTENT="Тадз" CHANGED="false" HPOS="258" VPOS="912" WIDTH="104" HEIGHT="42"/>
+            <String CONTENT="вӧлі" CHANGED="true" HPOS="392" VPOS="912" WIDTH="110.66666666666666" HEIGHT="37"/>
+            <String CONTENT="и" CHANGED="true" HPOS="502" VPOS="912" WIDTH="27.666666666666664" HEIGHT="37"/>
+            <String CONTENT="ӧні." CHANGED="true" HPOS="530" VPOS="912" WIDTH="110.66666666666666" HEIGHT="37"/>
           </TextLine>
           <TextLine HEIGHT="52" WIDTH="1513" VPOS="964" HPOS="261">
-            <String CONTENT="А" HEIGHT="39" WIDTH="35" VPOS="965" HPOS="261"/>
-            <SP WIDTH="28" VPOS="965" HPOS="297"/>
-            <String CONTENT="пуляясыс" HEIGHT="41" WIDTH="212" VPOS="975" HPOS="326"/>
-            <SP WIDTH="29" VPOS="976" HPOS="539"/>
-            <String CONTENT="тайӧ" HEIGHT="37" WIDTH="101" VPOS="965" HPOS="569"/>
-            <SP WIDTH="50" VPOS="965" HPOS="671"/>
-            <String CONTENT="минутаясас" HEIGHT="39" WIDTH="255" VPOS="975" HPOS="722"/>
-            <SP WIDTH="38" VPOS="976" HPOS="978"/>
-            <String CONTENT="зэрӧн" HEIGHT="48" WIDTH="127" VPOS="966" HPOS="1017"/>
-            <SP WIDTH="42" VPOS="976" HPOS="1145"/>
-            <String CONTENT="киссис," HEIGHT="33" WIDTH="163" VPOS="976" HPOS="1188"/>
-            <SP WIDTH="32" VPOS="976" HPOS="1352"/>
-            <String CONTENT="сплошнбя." HEIGHT="36" WIDTH="233" VPOS="967" HPOS="1385"/>
-            <SP WIDTH="21" VPOS="964" HPOS="1619"/>
-            <String CONTENT="А" HEIGHT="39" WIDTH="35" VPOS="964" HPOS="1641"/>
-            <SP WIDTH="29" VPOS="964" HPOS="1677"/>
-            <String CONTENT="ка-" HEIGHT="27" WIDTH="67" VPOS="978" HPOS="1707"/>
+            <String CONTENT="А" CHANGED="false" HPOS="261" VPOS="965" WIDTH="35" HEIGHT="39"/>
+            <String CONTENT="пуляясыс" CHANGED="false" HPOS="326" VPOS="975" WIDTH="212" HEIGHT="41"/>
+            <String CONTENT="тайӧ" CHANGED="false" HPOS="569" VPOS="965" WIDTH="101" HEIGHT="37"/>
+            <String CONTENT="минутаясас" CHANGED="false" HPOS="722" VPOS="975" WIDTH="255" HEIGHT="39"/>
+            <String CONTENT="зэрӧн" CHANGED="false" HPOS="1017" VPOS="966" WIDTH="127" HEIGHT="48"/>
+            <String CONTENT="киссис," CHANGED="false" HPOS="1188" VPOS="976" WIDTH="163" HEIGHT="33"/>
+            <String CONTENT="сплошнӧя." CHANGED="true" HPOS="1385" VPOS="967" WIDTH="233" HEIGHT="36"/>
+            <String CONTENT="А" CHANGED="false" HPOS="1641" VPOS="964" WIDTH="35" HEIGHT="39"/>
+            <String CONTENT="ка-" CHANGED="false" HPOS="1707" VPOS="978" WIDTH="67" HEIGHT="27"/>
           </TextLine>
           <TextLine HEIGHT="48" WIDTH="1597" VPOS="1020" HPOS="180">
-            <String CONTENT="закъяс" HEIGHT="28" WIDTH="153" VPOS="1030" HPOS="180"/>
-            <SP WIDTH="29" VPOS="1030" HPOS="334"/>
-            <String CONTENT="турун" HEIGHT="39" WIDTH="134" VPOS="1029" HPOS="364"/>
-            <SP WIDTH="20" VPOS="1029" HPOS="499"/>
-            <String CONTENT="пбвстті" HEIGHT="36" WIDTH="164" VPOS="1020" HPOS="520"/>
-            <SP WIDTH="20" VPOS="1020" HPOS="685"/>
-            <String CONTENT="кыссисны" HEIGHT="27" WIDTH="219" VPOS="1028" HPOS="706"/>
-            <SP WIDTH="21" VPOS="1029" HPOS="926"/>
-            <String CONTENT="нин" HEIGHT="25" WIDTH="79" VPOS="1030" HPOS="948"/>
-            <SP WIDTH="20" VPOS="1030" HPOS="1028"/>
-            <String CONTENT="куимӧн-куимӧн," HEIGHT="48" WIDTH="365" VPOS="1020" HPOS="1049"/>
-            <SP WIDTH="17" VPOS="1031" HPOS="1415"/>
-            <String CONTENT="нёльӧн-нёльӧн," HEIGHT="42" WIDTH="344" VPOS="1021" HPOS="1433"/>
+            <String CONTENT="закъяс" CHANGED="false" HPOS="180" VPOS="1030" WIDTH="153" HEIGHT="28"/>
+            <String CONTENT="турун" CHANGED="false" HPOS="364" VPOS="1029" WIDTH="134" HEIGHT="39"/>
+            <String CONTENT="пӧвстті" CHANGED="true" HPOS="520" VPOS="1020" WIDTH="164" HEIGHT="36"/>
+            <String CONTENT="кыссисны" CHANGED="false" HPOS="706" VPOS="1028" WIDTH="219" HEIGHT="27"/>
+            <String CONTENT="нин" CHANGED="false" HPOS="948" VPOS="1030" WIDTH="79" HEIGHT="25"/>
+            <String CONTENT="куимӧн-куимӧн," CHANGED="false" HPOS="1049" VPOS="1020" WIDTH="365" HEIGHT="48"/>
+            <String CONTENT="нёльӧн-нёльӧн," CHANGED="false" HPOS="1433" VPOS="1021" WIDTH="344" HEIGHT="42"/>
           </TextLine>
           <TextLine HEIGHT="46" WIDTH="1593" VPOS="1070" HPOS="184">
-            <String CONTENT="ӧткӧн-ӧткӧн" HEIGHT="37" WIDTH="287" VPOS="1074" HPOS="184"/>
-            <SP WIDTH="43" VPOS="1070" HPOS="472"/>
-            <String CONTENT="Найб" HEIGHT="39" WIDTH="118" VPOS="1070" HPOS="516"/>
-            <SP WIDTH="28" VPOS="1073" HPOS="635"/>
-            <String CONTENT="то" HEIGHT="26" WIDTH="49" VPOS="1083" HPOS="664"/>
-            <SP WIDTH="30" VPOS="1083" HPOS="714"/>
-            <String CONTENT="водавлісны," HEIGHT="39" WIDTH="267" VPOS="1075" HPOS="745"/>
-            <SP WIDTH="39" VPOS="1084" HPOS="1013"/>
-            <String CONTENT="то" HEIGHT="25" WIDTH="49" VPOS="1084" HPOS="1053"/>
-            <SP WIDTH="32" VPOS="1084" HPOS="1103"/>
-            <String CONTENT="чеччывлісны," HEIGHT="40" WIDTH="295" VPOS="1076" HPOS="1136"/>
-            <SP WIDTH="22" VPOS="1084" HPOS="1432"/>
-            <String CONTENT="найӧ" HEIGHT="35" WIDTH="105" VPOS="1075" HPOS="1455"/>
-            <SP WIDTH="29" VPOS="1075" HPOS="1561"/>
-            <String CONTENT="асьнысӧ" HEIGHT="36" WIDTH="186" VPOS="1075" HPOS="1591"/>
+            <String CONTENT="ӧткӧн-ӧткӧн" CHANGED="false" HPOS="184" VPOS="1074" WIDTH="287" HEIGHT="37"/>
+            <String CONTENT="Найӧ" CHANGED="true" HPOS="516" VPOS="1070" WIDTH="118" HEIGHT="39"/>
+            <String CONTENT="то" CHANGED="false" HPOS="664" VPOS="1083" WIDTH="49" HEIGHT="26"/>
+            <String CONTENT="водавлісны," CHANGED="false" HPOS="745" VPOS="1075" WIDTH="267" HEIGHT="39"/>
+            <String CONTENT="то" CHANGED="false" HPOS="1053" VPOS="1084" WIDTH="49" HEIGHT="25"/>
+            <String CONTENT="чеччывлісны," CHANGED="false" HPOS="1136" VPOS="1076" WIDTH="295" HEIGHT="40"/>
+            <String CONTENT="найӧ" CHANGED="false" HPOS="1455" VPOS="1075" WIDTH="105" HEIGHT="35"/>
+            <String CONTENT="асьнысӧ" CHANGED="false" HPOS="1591" VPOS="1075" WIDTH="186" HEIGHT="36"/>
           </TextLine>
           <TextLine HEIGHT="50" WIDTH="1598" VPOS="1125" HPOS="181">
-            <String CONTENT="ярмбдісны" HEIGHT="47" WIDTH="238" VPOS="1128" HPOS="181"/>
-            <SP WIDTH="29" VPOS="1136" HPOS="420"/>
-            <String CONTENT="горзӧмъясӧн," HEIGHT="48" WIDTH="306" VPOS="1126" HPOS="450"/>
-            <SP WIDTH="30" VPOS="1135" HPOS="757"/>
-            <String CONTENT="омлялӧмӧн," HEIGHT="40" WIDTH="255" VPOS="1126" HPOS="788"/>
-            <SP WIDTH="20" VPOS="1137" HPOS="1044"/>
-            <String CONTENT="да" HEIGHT="30" WIDTH="47" VPOS="1137" HPOS="1065"/>
-            <SP WIDTH="19" VPOS="1137" HPOS="1113"/>
-            <String CONTENT="дугдывтӧг" HEIGHT="48" WIDTH="237" VPOS="1127" HPOS="1133"/>
-            <SP WIDTH="18" VPOS="1137" HPOS="1371"/>
-            <String CONTENT="лыйлісны." HEIGHT="34" WIDTH="221" VPOS="1129" HPOS="1390"/>
-            <SP WIDTH="22" VPOS="1125" HPOS="1612"/>
-            <String CONTENT="И" HEIGHT="38" WIDTH="35" VPOS="1125" HPOS="1635"/>
-            <SP WIDTH="17" VPOS="1125" HPOS="1671"/>
-            <String CONTENT="быд" HEIGHT="44" WIDTH="90" VPOS="1125" HPOS="1689"/>
+            <String CONTENT="ярмӧдісны" CHANGED="true" HPOS="181" VPOS="1128" WIDTH="238" HEIGHT="47"/>
+            <String CONTENT="горзӧмъясӧн," CHANGED="false" HPOS="450" VPOS="1126" WIDTH="306" HEIGHT="48"/>
+            <String CONTENT="омлялӧмӧн," CHANGED="false" HPOS="788" VPOS="1126" WIDTH="255" HEIGHT="40"/>
+            <String CONTENT="да" CHANGED="false" HPOS="1065" VPOS="1137" WIDTH="47" HEIGHT="30"/>
+            <String CONTENT="дугдывтӧг" CHANGED="false" HPOS="1133" VPOS="1127" WIDTH="237" HEIGHT="48"/>
+            <String CONTENT="лыйлісны." CHANGED="false" HPOS="1390" VPOS="1129" WIDTH="221" HEIGHT="34"/>
+            <String CONTENT="И" CHANGED="false" HPOS="1635" VPOS="1125" WIDTH="35" HEIGHT="38"/>
+            <String CONTENT="быд" CHANGED="false" HPOS="1689" VPOS="1125" WIDTH="90" HEIGHT="44"/>
           </TextLine>
           <TextLine HEIGHT="50" WIDTH="1008" VPOS="1180" HPOS="179">
-            <String CONTENT="здукӧн" HEIGHT="49" WIDTH="158" VPOS="1181" HPOS="179"/>
-            <SP WIDTH="29" VPOS="1190" HPOS="338"/>
-            <String CONTENT="найӧ" HEIGHT="36" WIDTH="104" VPOS="1180" HPOS="368"/>
-            <SP WIDTH="29" VPOS="1180" HPOS="473"/>
-            <String CONTENT="матыстчисны" HEIGHT="27" WIDTH="298" VPOS="1189" HPOS="503"/>
-            <SP WIDTH="30" VPOS="1189" HPOS="802"/>
-            <String CONTENT="век" HEIGHT="26" WIDTH="73" VPOS="1189" HPOS="833"/>
-            <SP WIDTH="34" VPOS="1190" HPOS="907"/>
-            <String CONTENT="матӧджык." HEIGHT="37" WIDTH="245" VPOS="1181" HPOS="942"/>
+            <String CONTENT="здукӧн" CHANGED="false" HPOS="179" VPOS="1181" WIDTH="158" HEIGHT="49"/>
+            <String CONTENT="найӧ" CHANGED="false" HPOS="368" VPOS="1180" WIDTH="104" HEIGHT="36"/>
+            <String CONTENT="матыстчисны" CHANGED="false" HPOS="503" VPOS="1189" WIDTH="298" HEIGHT="27"/>
+            <String CONTENT="век" CHANGED="false" HPOS="833" VPOS="1189" WIDTH="73" HEIGHT="26"/>
+            <String CONTENT="матӧджык." CHANGED="false" HPOS="942" VPOS="1181" WIDTH="245" HEIGHT="37"/>
           </TextLine>
           <TextLine HEIGHT="52" WIDTH="1500" VPOS="1230" HPOS="277">
-            <String CONTENT="—" HEIGHT="4" WIDTH="29" VPOS="1255" HPOS="277"/>
-            <SP WIDTH="34" VPOS="1230" HPOS="307"/>
-            <String CONTENT="Эх," HEIGHT="45" WIDTH="73" VPOS="1230" HPOS="342"/>
-            <SP WIDTH="16" VPOS="1243" HPOS="416"/>
-            <String CONTENT="сӧмын" HEIGHT="36" WIDTH="142" VPOS="1233" HPOS="433"/>
-            <SP WIDTH="20" VPOS="1242" HPOS="576"/>
-            <String CONTENT="мед" HEIGHT="31" WIDTH="79" VPOS="1242" HPOS="597"/>
-            <SP WIDTH="18" VPOS="1242" HPOS="677"/>
-            <String CONTENT="эз" HEIGHT="26" WIDTH="44" VPOS="1243" HPOS="696"/>
-            <SP WIDTH="15" VPOS="1243" HPOS="741"/>
-            <String CONTENT="гӧгӧрвоны" HEIGHT="47" WIDTH="241" VPOS="1233" HPOS="757"/>
-            <SP WIDTH="21" VPOS="1243" HPOS="999"/>
-            <String CONTENT="котӧртны" HEIGHT="47" WIDTH="221" VPOS="1234" HPOS="1021"/>
-            <SP WIDTH="29" VPOS="1244" HPOS="1243"/>
-            <String CONTENT="мӧдар" HEIGHT="48" WIDTH="133" VPOS="1234" HPOS="1273"/>
-            <SP WIDTH="15" VPOS="1232" HPOS="1407"/>
-            <String CONTENT="боксяньыс." HEIGHT="39" WIDTH="253" VPOS="1232" HPOS="1423"/>
-            <SP WIDTH="16" VPOS="1230" HPOS="1677"/>
-            <String CONTENT="Сӧ-" HEIGHT="40" WIDTH="83" VPOS="1230" HPOS="1694"/>
+            <String CONTENT="—" CHANGED="false" HPOS="277" VPOS="1255" WIDTH="29" HEIGHT="4"/>
+            <String CONTENT="Эх," CHANGED="false" HPOS="342" VPOS="1230" WIDTH="73" HEIGHT="45"/>
+            <String CONTENT="сӧмын" CHANGED="false" HPOS="433" VPOS="1233" WIDTH="142" HEIGHT="36"/>
+            <String CONTENT="мед" CHANGED="false" HPOS="597" VPOS="1242" WIDTH="79" HEIGHT="31"/>
+            <String CONTENT="эз" CHANGED="false" HPOS="696" VPOS="1243" WIDTH="44" HEIGHT="26"/>
+            <String CONTENT="гӧгӧрвоны" CHANGED="false" HPOS="757" VPOS="1233" WIDTH="241" HEIGHT="47"/>
+            <String CONTENT="котӧртны" CHANGED="false" HPOS="1021" VPOS="1234" WIDTH="221" HEIGHT="47"/>
+            <String CONTENT="мӧдар" CHANGED="false" HPOS="1273" VPOS="1234" WIDTH="133" HEIGHT="48"/>
+            <String CONTENT="боксяньыс." CHANGED="false" HPOS="1423" VPOS="1232" WIDTH="253" HEIGHT="39"/>
+            <String CONTENT="Сӧ-" CHANGED="false" HPOS="1694" VPOS="1230" WIDTH="83" HEIGHT="40"/>
           </TextLine>
           <TextLine HEIGHT="52" WIDTH="1592" VPOS="1284" HPOS="182">
-            <String CONTENT="мын" HEIGHT="27" WIDTH="92" VPOS="1297" HPOS="182"/>
-            <SP WIDTH="29" VPOS="1297" HPOS="275"/>
-            <String CONTENT="эськӧ" HEIGHT="37" WIDTH="126" VPOS="1287" HPOS="305"/>
-            <SP WIDTH="30" VPOS="1287" HPOS="432"/>
-            <String CONTENT="мед" HEIGHT="31" WIDTH="79" VPOS="1295" HPOS="463"/>
-            <SP WIDTH="27" VPOS="1294" HPOS="543"/>
-            <String CONTENT="эз" HEIGHT="28" WIDTH="43" VPOS="1294" HPOS="571"/>
-            <SP WIDTH="26" VPOS="1295" HPOS="615"/>
-            <String CONTENT="думыштны" HEIGHT="38" WIDTH="244" VPOS="1296" HPOS="642"/>
-            <SP WIDTH="31" VPOS="1296" HPOS="887"/>
-            <String CONTENT="орӧдны" HEIGHT="46" WIDTH="170" VPOS="1288" HPOS="919"/>
-            <SP WIDTH="29" VPOS="1297" HPOS="1090"/>
-            <String CONTENT="туйсӧ." HEIGHT="48" WIDTH="141" VPOS="1288" HPOS="1120"/>
-            <SP WIDTH="29" VPOS="1284" HPOS="1262"/>
-            <String CONTENT="Кодйыны" HEIGHT="44" WIDTH="213" VPOS="1284" HPOS="1292"/>
-            <SP WIDTH="29" VPOS="1297" HPOS="1506"/>
-            <String CONTENT="туй" HEIGHT="47" WIDTH="77" VPOS="1288" HPOS="1536"/>
-            <SP WIDTH="30" VPOS="1288" HPOS="1614"/>
-            <String CONTENT="вомӧ-" HEIGHT="36" WIDTH="129" VPOS="1287" HPOS="1645"/>
+            <String CONTENT="мын" CHANGED="false" HPOS="182" VPOS="1297" WIDTH="92" HEIGHT="27"/>
+            <String CONTENT="эськӧ" CHANGED="false" HPOS="305" VPOS="1287" WIDTH="126" HEIGHT="37"/>
+            <String CONTENT="мед" CHANGED="false" HPOS="463" VPOS="1295" WIDTH="79" HEIGHT="31"/>
+            <String CONTENT="эз" CHANGED="false" HPOS="571" VPOS="1294" WIDTH="43" HEIGHT="28"/>
+            <String CONTENT="думыштны" CHANGED="false" HPOS="642" VPOS="1296" WIDTH="244" HEIGHT="38"/>
+            <String CONTENT="орӧдны" CHANGED="false" HPOS="919" VPOS="1288" WIDTH="170" HEIGHT="46"/>
+            <String CONTENT="туйсӧ." CHANGED="false" HPOS="1120" VPOS="1288" WIDTH="141" HEIGHT="48"/>
+            <String CONTENT="Кодйыны" CHANGED="false" HPOS="1292" VPOS="1284" WIDTH="213" HEIGHT="44"/>
+            <String CONTENT="туй" CHANGED="false" HPOS="1536" VPOS="1288" WIDTH="77" HEIGHT="47"/>
+            <String CONTENT="вомӧ-" CHANGED="false" HPOS="1645" VPOS="1287" WIDTH="129" HEIGHT="36"/>
           </TextLine>
           <TextLine HEIGHT="51" WIDTH="1598" VPOS="1336" HPOS="184">
-            <String CONTENT="ныс" HEIGHT="27" WIDTH="81" VPOS="1350" HPOS="184"/>
-            <SP WIDTH="45" VPOS="1350" HPOS="266"/>
-            <String CONTENT="канава" HEIGHT="27" WIDTH="149" VPOS="1349" HPOS="312"/>
-            <SP WIDTH="42" VPOS="1350" HPOS="462"/>
-            <String CONTENT="либӧ" HEIGHT="39" WIDTH="109" VPOS="1336" HPOS="505"/>
-            <SP WIDTH="34" VPOS="1340" HPOS="615"/>
-            <String CONTENT="тыртны" HEIGHT="38" WIDTH="172" VPOS="1349" HPOS="650"/>
-            <SP WIDTH="46" VPOS="1349" HPOS="823"/>
-            <String CONTENT="сійбс" HEIGHT="36" WIDTH="114" VPOS="1341" HPOS="870"/>
-            <SP WIDTH="48" VPOS="1350" HPOS="985"/>
-            <String CONTENT="керъясӧн..." HEIGHT="45" WIDTH="254" VPOS="1341" HPOS="1034"/>
-            <SP WIDTH="22" VPOS="1337" HPOS="1289"/>
-            <String CONTENT="Сэки" HEIGHT="40" WIDTH="114" VPOS="1337" HPOS="1312"/>
-            <SP WIDTH="30" VPOS="1350" HPOS="1427"/>
-            <String CONTENT="ставыс" HEIGHT="28" WIDTH="155" VPOS="1349" HPOS="1458"/>
-            <SP WIDTH="27" VPOS="1349" HPOS="1614"/>
-            <String CONTENT="вошӧ!" HEIGHT="38" WIDTH="140" VPOS="1338" HPOS="1642"/>
+            <String CONTENT="ныс" CHANGED="false" HPOS="184" VPOS="1350" WIDTH="81" HEIGHT="27"/>
+            <String CONTENT="канава" CHANGED="false" HPOS="312" VPOS="1349" WIDTH="149" HEIGHT="27"/>
+            <String CONTENT="либӧ" CHANGED="false" HPOS="505" VPOS="1336" WIDTH="109" HEIGHT="39"/>
+            <String CONTENT="тыртны" CHANGED="false" HPOS="650" VPOS="1349" WIDTH="172" HEIGHT="38"/>
+            <String CONTENT="сійӧс" CHANGED="true" HPOS="870" VPOS="1341" WIDTH="114" HEIGHT="36"/>
+            <String CONTENT="керъясӧн..." CHANGED="false" HPOS="1034" VPOS="1341" WIDTH="254" HEIGHT="45"/>
+            <String CONTENT="Сэки" CHANGED="false" HPOS="1312" VPOS="1337" WIDTH="114" HEIGHT="40"/>
+            <String CONTENT="ставыс" CHANGED="false" HPOS="1458" VPOS="1349" WIDTH="155" HEIGHT="28"/>
+            <String CONTENT="вошӧ!" CHANGED="false" HPOS="1642" VPOS="1338" WIDTH="140" HEIGHT="38"/>
           </TextLine>
           <TextLine HEIGHT="50" WIDTH="1216" VPOS="1391" HPOS="183">
-            <String CONTENT="Ещӧ" HEIGHT="41" WIDTH="101" VPOS="1392" HPOS="183"/>
-            <SP WIDTH="31" VPOS="1394" HPOS="285"/>
-            <String CONTENT="кӧ" HEIGHT="35" WIDTH="52" VPOS="1394" HPOS="317"/>
-            <SP WIDTH="34" VPOS="1394" HPOS="370"/>
-            <String CONTENT="куим" HEIGHT="38" WIDTH="110" VPOS="1403" HPOS="405"/>
-            <SP WIDTH="30" VPOS="1403" HPOS="516"/>
-            <String CONTENT="минута..." HEIGHT="38" WIDTH="201" VPOS="1402" HPOS="547"/>
-            <SP WIDTH="32" VPOS="1391" HPOS="749"/>
-            <String CONTENT="Ещӧ" HEIGHT="42" WIDTH="99" VPOS="1391" HPOS="782"/>
-            <SP WIDTH="29" VPOS="1393" HPOS="882"/>
-            <String CONTENT="кӧ" HEIGHT="36" WIDTH="52" VPOS="1394" HPOS="912"/>
-            <SP WIDTH="30" VPOS="1394" HPOS="965"/>
-            <String CONTENT="кык..." HEIGHT="26" WIDTH="124" VPOS="1404" HPOS="996"/>
-            <SP WIDTH="30" VPOS="1392" HPOS="1121"/>
-            <String CONTENT="Ешӧ" HEIGHT="39" WIDTH="100" VPOS="1392" HPOS="1152"/>
-            <SP WIDTH="28" VPOS="1394" HPOS="1253"/>
-            <String CONTENT="ӧти..." HEIGHT="36" WIDTH="117" VPOS="1394" HPOS="1282"/>
+            <String CONTENT="Ещӧ" CHANGED="false" HPOS="183" VPOS="1392" WIDTH="101" HEIGHT="41"/>
+            <String CONTENT="кӧ" CHANGED="false" HPOS="317" VPOS="1394" WIDTH="52" HEIGHT="35"/>
+            <String CONTENT="куим" CHANGED="false" HPOS="405" VPOS="1403" WIDTH="110" HEIGHT="38"/>
+            <String CONTENT="минута..." CHANGED="false" HPOS="547" VPOS="1402" WIDTH="201" HEIGHT="38"/>
+            <String CONTENT="Ещӧ" CHANGED="false" HPOS="782" VPOS="1391" WIDTH="99" HEIGHT="42"/>
+            <String CONTENT="кӧ" CHANGED="false" HPOS="912" VPOS="1394" WIDTH="52" HEIGHT="36"/>
+            <String CONTENT="кык..." CHANGED="false" HPOS="996" VPOS="1404" WIDTH="124" HEIGHT="26"/>
+            <String CONTENT="Ешӧ" CHANGED="false" HPOS="1152" VPOS="1392" WIDTH="100" HEIGHT="39"/>
+            <String CONTENT="ӧти..." CHANGED="false" HPOS="1282" VPOS="1394" WIDTH="117" HEIGHT="36"/>
           </TextLine>
           <TextLine HEIGHT="52" WIDTH="1521" VPOS="1443" HPOS="257">
-            <String CONTENT="Пулемёт" HEIGHT="51" WIDTH="191" VPOS="1444" HPOS="257"/>
-            <SP WIDTH="27" VPOS="1456" HPOS="449"/>
-            <String CONTENT="шыблаліс" HEIGHT="39" WIDTH="213" VPOS="1443" HPOS="477"/>
-            <SP WIDTH="28" VPOS="1456" HPOS="691"/>
-            <String CONTENT="нин" HEIGHT="26" WIDTH="79" VPOS="1456" HPOS="720"/>
-            <SP WIDTH="47" VPOS="1456" HPOS="800"/>
-            <String CONTENT="медбӧръя" HEIGHT="50" WIDTH="221" VPOS="1445" HPOS="848"/>
-            <SP WIDTH="38" VPOS="1457" HPOS="1070"/>
-            <String CONTENT="очередъяс." HEIGHT="39" WIDTH="241" VPOS="1456" HPOS="1109"/>
-            <SP WIDTH="38" VPOS="1444" HPOS="1351"/>
-            <String CONTENT="Сійб" HEIGHT="40" WIDTH="106" VPOS="1444" HPOS="1390"/>
-            <SP WIDTH="37" VPOS="1447" HPOS="1497"/>
-            <String CONTENT="мытшасис." HEIGHT="28" WIDTH="243" VPOS="1455" HPOS="1535"/>
+            <String CONTENT="Пулемёт" CHANGED="false" HPOS="257" VPOS="1444" WIDTH="191" HEIGHT="51"/>
+            <String CONTENT="шыблаліс" CHANGED="false" HPOS="477" VPOS="1443" WIDTH="213" HEIGHT="39"/>
+            <String CONTENT="нин" CHANGED="false" HPOS="720" VPOS="1456" WIDTH="79" HEIGHT="26"/>
+            <String CONTENT="медбӧръя" CHANGED="false" HPOS="848" VPOS="1445" WIDTH="221" HEIGHT="50"/>
+            <String CONTENT="очередъяс." CHANGED="false" HPOS="1109" VPOS="1456" WIDTH="241" HEIGHT="39"/>
+            <String CONTENT="Сійӧ" CHANGED="true" HPOS="1390" VPOS="1444" WIDTH="106" HEIGHT="40"/>
+            <String CONTENT="мытшасис." CHANGED="false" HPOS="1535" VPOS="1455" WIDTH="243" HEIGHT="28"/>
           </TextLine>
           <TextLine HEIGHT="51" WIDTH="1595" VPOS="1497" HPOS="185">
-            <String CONTENT="Патронъяс" HEIGHT="50" WIDTH="250" VPOS="1498" HPOS="185"/>
-            <SP WIDTH="29" VPOS="1498" HPOS="436"/>
-            <String CONTENT="бырӧны" HEIGHT="49" WIDTH="180" VPOS="1498" HPOS="466"/>
-            <SP WIDTH="29" VPOS="1509" HPOS="647"/>
-            <String CONTENT="нин." HEIGHT="26" WIDTH="92" VPOS="1510" HPOS="677"/>
-            <SP WIDTH="37" VPOS="1497" HPOS="770"/>
-            <String CONTENT="Броневикын" HEIGHT="50" WIDTH="279" VPOS="1497" HPOS="808"/>
-            <SP WIDTH="20" VPOS="1511" HPOS="1088"/>
-            <String CONTENT="лои" HEIGHT="27" WIDTH="77" VPOS="1510" HPOS="1109"/>
-            <SP WIDTH="21" VPOS="1511" HPOS="1187"/>
-            <String CONTENT="терпитны" HEIGHT="38" WIDTH="215" VPOS="1510" HPOS="1209"/>
-            <SP WIDTH="39" VPOS="1510" HPOS="1425"/>
-            <String CONTENT="позьтӧм" HEIGHT="36" WIDTH="183" VPOS="1500" HPOS="1465"/>
-            <SP WIDTH="28" VPOS="1509" HPOS="1649"/>
-            <String CONTENT="жар." HEIGHT="37" WIDTH="102" VPOS="1508" HPOS="1678"/>
+            <String CONTENT="Патронъяс" CHANGED="false" HPOS="185" VPOS="1498" WIDTH="250" HEIGHT="50"/>
+            <String CONTENT="бырӧны" CHANGED="false" HPOS="466" VPOS="1498" WIDTH="180" HEIGHT="49"/>
+            <String CONTENT="нин." CHANGED="false" HPOS="677" VPOS="1510" WIDTH="92" HEIGHT="26"/>
+            <String CONTENT="Броневикын" CHANGED="false" HPOS="808" VPOS="1497" WIDTH="279" HEIGHT="50"/>
+            <String CONTENT="лои" CHANGED="false" HPOS="1109" VPOS="1510" WIDTH="77" HEIGHT="27"/>
+            <String CONTENT="терпитны" CHANGED="false" HPOS="1209" VPOS="1510" WIDTH="215" HEIGHT="38"/>
+            <String CONTENT="позьтӧм" CHANGED="false" HPOS="1465" VPOS="1500" WIDTH="183" HEIGHT="36"/>
+            <String CONTENT="жар." CHANGED="false" HPOS="1678" VPOS="1508" WIDTH="102" HEIGHT="37"/>
           </TextLine>
           <TextLine HEIGHT="51" WIDTH="1599" VPOS="1551" HPOS="180">
-            <String CONTENT="Ворошилов" HEIGHT="50" WIDTH="266" VPOS="1551" HPOS="180"/>
-            <SP WIDTH="28" VPOS="1563" HPOS="447"/>
-            <String CONTENT="лыйліс" HEIGHT="34" WIDTH="149" VPOS="1555" HPOS="476"/>
-            <SP WIDTH="29" VPOS="1563" HPOS="626"/>
-            <String CONTENT="маузерысь" HEIGHT="39" WIDTH="237" VPOS="1563" HPOS="656"/>
-            <SP WIDTH="39" VPOS="1564" HPOS="894"/>
-            <String CONTENT="векньыдик" HEIGHT="30" WIDTH="243" VPOS="1564" HPOS="934"/>
-            <SP WIDTH="42" VPOS="1551" HPOS="1178"/>
-            <String CONTENT="биевӧй" HEIGHT="39" WIDTH="158" VPOS="1551" HPOS="1221"/>
-            <SP WIDTH="39" VPOS="1555" HPOS="1380"/>
-            <String CONTENT="щельяс" HEIGHT="31" WIDTH="157" VPOS="1562" HPOS="1420"/>
-            <SP WIDTH="29" VPOS="1562" HPOS="1578"/>
-            <String CONTENT="костӧд," HEIGHT="41" WIDTH="171" VPOS="1552" HPOS="1608"/>
+            <String CONTENT="Ворошилов" CHANGED="false" HPOS="180" VPOS="1551" WIDTH="266" HEIGHT="50"/>
+            <String CONTENT="лыйліс" CHANGED="false" HPOS="476" VPOS="1555" WIDTH="149" HEIGHT="34"/>
+            <String CONTENT="маузерысь" CHANGED="false" HPOS="656" VPOS="1563" WIDTH="237" HEIGHT="39"/>
+            <String CONTENT="векньыдик" CHANGED="false" HPOS="934" VPOS="1564" WIDTH="243" HEIGHT="30"/>
+            <String CONTENT="боевӧй" CHANGED="true" HPOS="1221" VPOS="1551" WIDTH="158" HEIGHT="39"/>
+            <String CONTENT="щельяс" CHANGED="false" HPOS="1420" VPOS="1562" WIDTH="157" HEIGHT="31"/>
+            <String CONTENT="костӧд," CHANGED="false" HPOS="1608" VPOS="1552" WIDTH="171" HEIGHT="41"/>
           </TextLine>
           <TextLine HEIGHT="58" WIDTH="1486" VPOS="1598" HPOS="182">
-            <String CONTENT="выбор" HEIGHT="51" WIDTH="143" VPOS="1604" HPOS="182"/>
-            <SP WIDTH="19" VPOS="1616" HPOS="326"/>
-            <String CONTENT="вылӧ," HEIGHT="42" WIDTH="128" VPOS="1607" HPOS="346"/>
-            <SP WIDTH="30" VPOS="1608" HPOS="475"/>
-            <String CONTENT="ӧтикӧн:" HEIGHT="37" WIDTH="180" VPOS="1607" HPOS="506"/>
-            <SP WIDTH="27" VPOS="1617" HPOS="687"/>
-            <String CONTENT="тайӧс" HEIGHT="36" WIDTH="124" VPOS="1608" HPOS="715"/>
-            <SP WIDTH="29" VPOS="1618" HPOS="840"/>
-            <String CONTENT="забор" HEIGHT="50" WIDTH="129" VPOS="1606" HPOS="870"/>
-            <SP WIDTH="28" VPOS="1618" HPOS="1000"/>
-            <String CONTENT="дінсьыс..." HEIGHT="39" WIDTH="211" VPOS="1609" HPOS="1029"/>
-            <SP WIDTH="16" VPOS="1598" HPOS="1241"/>
-            <String CONTENT="Оні—мӧдӧс!" HEIGHT="49" WIDTH="287" VPOS="1598" HPOS="1258"/>
-            <SP WIDTH="26" VPOS="1604" HPOS="1546"/>
-            <String CONTENT="Уси!" HEIGHT="38" WIDTH="95" VPOS="1604" HPOS="1573"/>
+            <String CONTENT="выбор" CHANGED="false" HPOS="182" VPOS="1604" WIDTH="143" HEIGHT="51"/>
+            <String CONTENT="вылӧ," CHANGED="false" HPOS="346" VPOS="1607" WIDTH="128" HEIGHT="42"/>
+            <String CONTENT="ӧтикӧн:" CHANGED="false" HPOS="506" VPOS="1607" WIDTH="180" HEIGHT="37"/>
+            <String CONTENT="тайӧс" CHANGED="false" HPOS="715" VPOS="1608" WIDTH="124" HEIGHT="36"/>
+            <String CONTENT="забор" CHANGED="false" HPOS="870" VPOS="1606" WIDTH="129" HEIGHT="50"/>
+            <String CONTENT="дінсьыс..." CHANGED="false" HPOS="1029" VPOS="1609" WIDTH="211" HEIGHT="39"/>
+            <String CONTENT="Ӧні—мӧдӧс!" CHANGED="true" HPOS="1258" VPOS="1598" WIDTH="287" HEIGHT="49"/>
+            <String CONTENT="Уси!" CHANGED="false" HPOS="1573" VPOS="1604" WIDTH="95" HEIGHT="38"/>
           </TextLine>
           <TextLine HEIGHT="53" WIDTH="1514" VPOS="1656" HPOS="264">
-            <String CONTENT="—" HEIGHT="5" WIDTH="47" VPOS="1681" HPOS="264"/>
-            <SP WIDTH="31" VPOS="1657" HPOS="312"/>
-            <String CONTENT="Сӧмын" HEIGHT="40" WIDTH="155" VPOS="1657" HPOS="344"/>
-            <SP WIDTH="30" VPOS="1670" HPOS="500"/>
-            <String CONTENT="эськӧ" HEIGHT="36" WIDTH="126" VPOS="1661" HPOS="531"/>
-            <SP WIDTH="20" VPOS="1661" HPOS="658"/>
-            <String CONTENT="патрон" HEIGHT="38" WIDTH="155" VPOS="1670" HPOS="679"/>
-            <SP WIDTH="21" VPOS="1671" HPOS="835"/>
-            <String CONTENT="мед" HEIGHT="30" WIDTH="79" VPOS="1671" HPOS="857"/>
-            <SP WIDTH="18" VPOS="1671" HPOS="937"/>
-            <String CONTENT="тырмис," HEIGHT="39" WIDTH="180" VPOS="1670" HPOS="956"/>
-            <SP WIDTH="29" VPOS="1672" HPOS="1137"/>
-            <String CONTENT="мед" HEIGHT="31" WIDTH="80" VPOS="1671" HPOS="1167"/>
-            <SP WIDTH="19" VPOS="1670" HPOS="1248"/>
-            <String CONTENT="сӧмын" HEIGHT="36" WIDTH="141" VPOS="1661" HPOS="1268"/>
-            <SP WIDTH="18" VPOS="1670" HPOS="1410"/>
-            <String CONTENT="удитны..." HEIGHT="39" WIDTH="206" VPOS="1669" HPOS="1429"/>
-            <SP WIDTH="21" VPOS="1656" HPOS="1636"/>
-            <String CONTENT="А" HEIGHT="39" WIDTH="35" VPOS="1656" HPOS="1658"/>
-            <SP WIDTH="17" VPOS="1656" HPOS="1694"/>
-            <String CONTENT="ну," HEIGHT="39" WIDTH="66" VPOS="1667" HPOS="1712"/>
+            <String CONTENT="—" CHANGED="false" HPOS="264" VPOS="1681" WIDTH="47" HEIGHT="5"/>
+            <String CONTENT="Сӧмын" CHANGED="false" HPOS="344" VPOS="1657" WIDTH="155" HEIGHT="40"/>
+            <String CONTENT="эськӧ" CHANGED="false" HPOS="531" VPOS="1661" WIDTH="126" HEIGHT="36"/>
+            <String CONTENT="патрон" CHANGED="false" HPOS="679" VPOS="1670" WIDTH="155" HEIGHT="38"/>
+            <String CONTENT="мед" CHANGED="false" HPOS="857" VPOS="1671" WIDTH="79" HEIGHT="30"/>
+            <String CONTENT="тырмис," CHANGED="false" HPOS="956" VPOS="1670" WIDTH="180" HEIGHT="39"/>
+            <String CONTENT="мед" CHANGED="false" HPOS="1167" VPOS="1671" WIDTH="80" HEIGHT="31"/>
+            <String CONTENT="сӧмын" CHANGED="false" HPOS="1268" VPOS="1661" WIDTH="141" HEIGHT="36"/>
+            <String CONTENT="удитны..." CHANGED="false" HPOS="1429" VPOS="1669" WIDTH="206" HEIGHT="39"/>
+            <String CONTENT="А" CHANGED="false" HPOS="1658" VPOS="1656" WIDTH="35" HEIGHT="39"/>
+            <String CONTENT="ну," CHANGED="false" HPOS="1712" VPOS="1667" WIDTH="66" HEIGHT="39"/>
           </TextLine>
           <TextLine HEIGHT="52" WIDTH="1592" VPOS="1710" HPOS="184">
-            <String CONTENT="ну," HEIGHT="38" WIDTH="64" VPOS="1723" HPOS="184"/>
-            <SP WIDTH="29" VPOS="1724" HPOS="249"/>
-            <String CONTENT="ерт!" HEIGHT="49" WIDTH="85" VPOS="1712" HPOS="279"/>
-            <SP WIDTH="29" VPOS="1711" HPOS="365"/>
-            <String CONTENT="Вай" HEIGHT="39" WIDTH="82" VPOS="1711" HPOS="395"/>
-            <SP WIDTH="29" VPOS="1715" HPOS="478"/>
-            <String CONTENT="жӧ," HEIGHT="43" WIDTH="76" VPOS="1715" HPOS="508"/>
-            <SP WIDTH="30" VPOS="1724" HPOS="585"/>
-            <String CONTENT="вай" HEIGHT="35" WIDTH="74" VPOS="1715" HPOS="616"/>
-            <SP WIDTH="29" VPOS="1715" HPOS="691"/>
-            <String CONTENT="ещб" HEIGHT="40" WIDTH="91" VPOS="1714" HPOS="721"/>
-            <SP WIDTH="33" VPOS="1714" HPOS="813"/>
-            <String CONTENT="неуна!" HEIGHT="48" WIDTH="140" VPOS="1714" HPOS="847"/>
-            <SP WIDTH="28" VPOS="1711" HPOS="988"/>
-            <String CONTENT="Спокойнойджыка!" HEIGHT="44" WIDTH="425" VPOS="1711" HPOS="1017"/>
-            <SP WIDTH="27" VPOS="1710" HPOS="1443"/>
-            <String CONTENT="Ещб" HEIGHT="42" WIDTH="101" VPOS="1710" HPOS="1471"/>
-            <SP WIDTH="26" VPOS="1712" HPOS="1573"/>
-            <String CONTENT="бтчыд..." HEIGHT="39" WIDTH="176" VPOS="1712" HPOS="1600"/>
+            <String CONTENT="ну," CHANGED="false" HPOS="184" VPOS="1723" WIDTH="64" HEIGHT="38"/>
+            <String CONTENT="ерт!" CHANGED="false" HPOS="279" VPOS="1712" WIDTH="85" HEIGHT="49"/>
+            <String CONTENT="Вай" CHANGED="false" HPOS="395" VPOS="1711" WIDTH="82" HEIGHT="39"/>
+            <String CONTENT="жӧ," CHANGED="false" HPOS="508" VPOS="1715" WIDTH="76" HEIGHT="43"/>
+            <String CONTENT="вай" CHANGED="false" HPOS="616" VPOS="1715" WIDTH="74" HEIGHT="35"/>
+            <String CONTENT="ещӧ" CHANGED="true" HPOS="721" VPOS="1714" WIDTH="91" HEIGHT="40"/>
+            <String CONTENT="неуна!" CHANGED="false" HPOS="847" VPOS="1714" WIDTH="140" HEIGHT="48"/>
+            <String CONTENT="Спокойнойджыка!" CHANGED="false" HPOS="1017" VPOS="1711" WIDTH="425" HEIGHT="44"/>
+            <String CONTENT="Ещӧ" CHANGED="true" HPOS="1471" VPOS="1710" WIDTH="83.18181818181817" HEIGHT="42"/>
+            <String CONTENT="ӧтчыд..." CHANGED="true" HPOS="1554" VPOS="1710" WIDTH="221.8181818181818" HEIGHT="42"/>
           </TextLine>
           <TextLine HEIGHT="51" WIDTH="213" VPOS="1765" HPOS="181">
-            <String CONTENT="Ну..." HEIGHT="51" WIDTH="103" VPOS="1765" HPOS="181"/>
-            <SP WIDTH="29" VPOS="1765" HPOS="285"/>
-            <String CONTENT="Ну!" HEIGHT="49" WIDTH="79" VPOS="1765" HPOS="315"/>
+            <String CONTENT="Ну..." CHANGED="false" HPOS="181" VPOS="1765" WIDTH="103" HEIGHT="51"/>
+            <String CONTENT="Ну!" CHANGED="false" HPOS="315" VPOS="1765" WIDTH="79" HEIGHT="49"/>
           </TextLine>
           <TextLine HEIGHT="51" WIDTH="1514" VPOS="1818" HPOS="266">
-            <String CONTENT="И" HEIGHT="38" WIDTH="36" VPOS="1818" HPOS="266"/>
-            <SP WIDTH="29" VPOS="1818" HPOS="303"/>
-            <String CONTENT="со," HEIGHT="31" WIDTH="60" VPOS="1830" HPOS="333"/>
-            <SP WIDTH="29" VPOS="1831" HPOS="394"/>
-            <String CONTENT="медббрын" HEIGHT="50" WIDTH="226" VPOS="1818" HPOS="424"/>
-            <SP WIDTH="15" VPOS="1831" HPOS="651"/>
-            <String CONTENT="машинаыс" HEIGHT="28" WIDTH="230" VPOS="1830" HPOS="667"/>
-            <SP WIDTH="28" VPOS="1818" HPOS="898"/>
-            <String CONTENT="бергбдчис." HEIGHT="50" WIDTH="246" VPOS="1818" HPOS="927"/>
-            <SP WIDTH="22" VPOS="1818" HPOS="1174"/>
-            <String CONTENT="Осторожно," HEIGHT="51" WIDTH="275" VPOS="1818" HPOS="1197"/>
-            <SP WIDTH="30" VPOS="1829" HPOS="1473"/>
-            <String CONTENT="дзик" HEIGHT="31" WIDTH="103" VPOS="1828" HPOS="1504"/>
-            <SP WIDTH="19" VPOS="1827" HPOS="1608"/>
-            <String CONTENT="канава" HEIGHT="27" WIDTH="152" VPOS="1826" HPOS="1628"/>
+            <String CONTENT="И" CHANGED="false" HPOS="266" VPOS="1818" WIDTH="36" HEIGHT="38"/>
+            <String CONTENT="со," CHANGED="false" HPOS="333" VPOS="1830" WIDTH="60" HEIGHT="31"/>
+            <String CONTENT="медбӧрын" CHANGED="true" HPOS="424" VPOS="1818" WIDTH="232.88888888888889" HEIGHT="51"/>
+            <String CONTENT="машинаыс" CHANGED="true" HPOS="656" VPOS="1818" WIDTH="232.88888888888889" HEIGHT="51"/>
+            <String CONTENT="бергӧдчис." CHANGED="true" HPOS="889" VPOS="1818" WIDTH="291.11111111111114" HEIGHT="51"/>
+            <String CONTENT="Осторожнӧ," CHANGED="true" HPOS="1180" VPOS="1818" WIDTH="291.11111111111114" HEIGHT="51"/>
+            <String CONTENT="дзик" CHANGED="false" HPOS="1504" VPOS="1828" WIDTH="103" HEIGHT="31"/>
+            <String CONTENT="канава" CHANGED="false" HPOS="1628" VPOS="1826" WIDTH="152" HEIGHT="27"/>
           </TextLine>
           <TextLine HEIGHT="56" WIDTH="1591" VPOS="1867" HPOS="187">
-            <String CONTENT="весьтас" HEIGHT="27" WIDTH="169" VPOS="1883" HPOS="187"/>
-            <SP WIDTH="29" VPOS="1874" HPOS="357"/>
-            <String CONTENT="ӧшӧдчӧмӧн," HEIGHT="42" WIDTH="275" VPOS="1873" HPOS="387"/>
-            <SP WIDTH="31" VPOS="1885" HPOS="663"/>
-            <String CONTENT="сійб" HEIGHT="37" WIDTH="90" VPOS="1874" HPOS="695"/>
-            <SP WIDTH="30" VPOS="1874" HPOS="786"/>
-            <String CONTENT="муртса" HEIGHT="39" WIDTH="154" VPOS="1883" HPOS="817"/>
-            <SP WIDTH="22" VPOS="1884" HPOS="972"/>
-            <String CONTENT="крукасьыштіс" HEIGHT="47" WIDTH="316" VPOS="1876" HPOS="995"/>
-            <SP WIDTH="29" VPOS="1884" HPOS="1312"/>
-            <String CONTENT="кос" HEIGHT="28" WIDTH="77" VPOS="1882" HPOS="1342"/>
-            <SP WIDTH="28" VPOS="1881" HPOS="1420"/>
-            <String CONTENT="сёя" HEIGHT="36" WIDTH="70" VPOS="1872" HPOS="1449"/>
-            <SP WIDTH="29" VPOS="1881" HPOS="1520"/>
-            <String CONTENT="туй" HEIGHT="48" WIDTH="77" VPOS="1872" HPOS="1550"/>
-            <SP WIDTH="20" VPOS="1867" HPOS="1628"/>
-            <String CONTENT="бокас" HEIGHT="40" WIDTH="129" VPOS="1867" HPOS="1649"/>
+            <String CONTENT="весьтас" CHANGED="false" HPOS="187" VPOS="1883" WIDTH="169" HEIGHT="27"/>
+            <String CONTENT="ӧшӧдчӧмӧн," CHANGED="false" HPOS="387" VPOS="1873" WIDTH="275" HEIGHT="42"/>
+            <String CONTENT="сійӧ" CHANGED="true" HPOS="695" VPOS="1874" WIDTH="90" HEIGHT="37"/>
+            <String CONTENT="муртса" CHANGED="false" HPOS="817" VPOS="1883" WIDTH="154" HEIGHT="39"/>
+            <String CONTENT="крукасьыштіс" CHANGED="false" HPOS="995" VPOS="1876" WIDTH="316" HEIGHT="47"/>
+            <String CONTENT="кос" CHANGED="false" HPOS="1342" VPOS="1882" WIDTH="77" HEIGHT="28"/>
+            <String CONTENT="сёя" CHANGED="false" HPOS="1449" VPOS="1872" WIDTH="70" HEIGHT="36"/>
+            <String CONTENT="туй" CHANGED="false" HPOS="1550" VPOS="1872" WIDTH="77" HEIGHT="48"/>
+            <String CONTENT="бокас" CHANGED="false" HPOS="1649" VPOS="1867" WIDTH="129" HEIGHT="40"/>
           </TextLine>
           <TextLine HEIGHT="53" WIDTH="1314" VPOS="1923" HPOS="186">
-            <String CONTENT="шуйга" HEIGHT="47" WIDTH="139" VPOS="1929" HPOS="186"/>
-            <SP WIDTH="30" VPOS="1937" HPOS="326"/>
-            <String CONTENT="кблесанас..." HEIGHT="37" WIDTH="263" VPOS="1927" HPOS="357"/>
-            <SP WIDTH="17" VPOS="1924" HPOS="621"/>
-            <String CONTENT="И" HEIGHT="39" WIDTH="35" VPOS="1924" HPOS="639"/>
-            <SP WIDTH="56" VPOS="1924" HPOS="675"/>
-            <String CONTENT="мбдіс!" HEIGHT="42" WIDTH="136" VPOS="1926" HPOS="732"/>
-            <SP WIDTH="28" VPOS="1926" HPOS="869"/>
-            <String CONTENT="Да," HEIGHT="45" WIDTH="70" VPOS="1926" HPOS="898"/>
-            <SP WIDTH="30" VPOS="1929" HPOS="969"/>
-            <String CONTENT="ёртъяс." HEIGHT="46" WIDTH="165" VPOS="1929" HPOS="1000"/>
-            <SP WIDTH="36" VPOS="1939" HPOS="1166"/>
-            <String CONTENT="мбдіс," HEIGHT="40" WIDTH="128" VPOS="1929" HPOS="1203"/>
-            <SP WIDTH="30" VPOS="1937" HPOS="1332"/>
-            <String CONTENT="мбдіс!" HEIGHT="44" WIDTH="137" VPOS="1923" HPOS="1363"/>
+            <String CONTENT="шуйга" CHANGED="false" HPOS="186" VPOS="1929" WIDTH="139" HEIGHT="47"/>
+            <String CONTENT="кӧлесанас..." CHANGED="true" HPOS="357" VPOS="1924" WIDTH="322.7368421052631" HEIGHT="44"/>
+            <String CONTENT="И" CHANGED="true" HPOS="679" VPOS="1924" WIDTH="26.89473684210526" HEIGHT="44"/>
+            <String CONTENT="мӧдіс!" CHANGED="true" HPOS="706" VPOS="1924" WIDTH="161.36842105263156" HEIGHT="44"/>
+            <String CONTENT="Да," CHANGED="false" HPOS="898" VPOS="1926" WIDTH="70" HEIGHT="45"/>
+            <String CONTENT="ёртъяс." CHANGED="false" HPOS="1000" VPOS="1929" WIDTH="165" HEIGHT="46"/>
+            <String CONTENT="мӧдіс," CHANGED="true" HPOS="1203" VPOS="1923" WIDTH="148.5" HEIGHT="46"/>
+            <String CONTENT="мӧдіс!" CHANGED="true" HPOS="1351" VPOS="1923" WIDTH="148.5" HEIGHT="46"/>
           </TextLine>
           <TextLine HEIGHT="52" WIDTH="1541" VPOS="1977" HPOS="239">
-            <String CONTENT="Боевой" HEIGHT="39" WIDTH="165" VPOS="1978" HPOS="239"/>
-            <SP WIDTH="20" VPOS="1978" HPOS="405"/>
-            <String CONTENT="башняыс" HEIGHT="39" WIDTH="200" VPOS="1978" HPOS="426"/>
-            <SP WIDTH="20" VPOS="1977" HPOS="627"/>
-            <String CONTENT="броневик" HEIGHT="52" WIDTH="214" VPOS="1977" HPOS="648"/>
-            <SP WIDTH="16" VPOS="1991" HPOS="863"/>
-            <String CONTENT="выліас," HEIGHT="41" WIDTH="158" VPOS="1982" HPOS="880"/>
-            <SP WIDTH="18" VPOS="1991" HPOS="1039"/>
-            <String CONTENT="дзик" HEIGHT="31" WIDTH="104" VPOS="1991" HPOS="1058"/>
-            <SP WIDTH="20" VPOS="1991" HPOS="1163"/>
-            <String CONTENT="шлёма" HEIGHT="35" WIDTH="141" VPOS="1982" HPOS="1184"/>
-            <SP WIDTH="15" VPOS="1978" HPOS="1326"/>
-            <String CONTENT="богатырь" HEIGHT="49" WIDTH="212" VPOS="1978" HPOS="1342"/>
-            <SP WIDTH="16" VPOS="1988" HPOS="1555"/>
-            <String CONTENT="юр" HEIGHT="38" WIDTH="66" VPOS="1987" HPOS="1572"/>
-            <SP WIDTH="24" VPOS="1987" HPOS="1639"/>
-            <String CONTENT="кодь," HEIGHT="32" WIDTH="116" VPOS="1986" HPOS="1664"/>
+            <String CONTENT="Боевӧй" CHANGED="true" HPOS="239" VPOS="1978" WIDTH="165" HEIGHT="39"/>
+            <String CONTENT="башняыс" CHANGED="false" HPOS="426" VPOS="1978" WIDTH="200" HEIGHT="39"/>
+            <String CONTENT="броневик" CHANGED="false" HPOS="648" VPOS="1977" WIDTH="214" HEIGHT="52"/>
+            <String CONTENT="выліас," CHANGED="false" HPOS="880" VPOS="1982" WIDTH="158" HEIGHT="41"/>
+            <String CONTENT="дзик" CHANGED="false" HPOS="1058" VPOS="1991" WIDTH="104" HEIGHT="31"/>
+            <String CONTENT="шлёма" CHANGED="false" HPOS="1184" VPOS="1982" WIDTH="141" HEIGHT="35"/>
+            <String CONTENT="богатырь" CHANGED="false" HPOS="1342" VPOS="1978" WIDTH="212" HEIGHT="49"/>
+            <String CONTENT="юр" CHANGED="false" HPOS="1572" VPOS="1987" WIDTH="66" HEIGHT="38"/>
+            <String CONTENT="кодь," CHANGED="false" HPOS="1664" VPOS="1986" WIDTH="116" HEIGHT="32"/>
           </TextLine>
           <TextLine HEIGHT="53" WIDTH="610" VPOS="2030" HPOS="185">
-            <String CONTENT="скора" HEIGHT="39" WIDTH="128" VPOS="2043" HPOS="185"/>
-            <SP WIDTH="21" VPOS="2032" HPOS="314"/>
-            <String CONTENT="бергбдчис" HEIGHT="49" WIDTH="231" VPOS="2032" HPOS="336"/>
-            <SP WIDTH="30" VPOS="2030" HPOS="568"/>
-            <String CONTENT="ббрлань." HEIGHT="53" WIDTH="196" VPOS="2030" HPOS="599"/>
+            <String CONTENT="скӧра" CHANGED="true" HPOS="185" VPOS="2030" WIDTH="138.63636363636363" HEIGHT="53"/>
+            <String CONTENT="бергӧдчис" CHANGED="true" HPOS="323" VPOS="2030" WIDTH="249.54545454545456" HEIGHT="53"/>
+            <String CONTENT="бӧрлань." CHANGED="true" HPOS="573" VPOS="2030" WIDTH="221.8181818181818" HEIGHT="53"/>
           </TextLine>
           <TextLine HEIGHT="28" WIDTH="23" VPOS="2120" HPOS="180" STYLEREFS="StyleId-29E7D0AF-F364-4EBC-A651-F58D8026E86F- font0">
-            <String STYLE="bold" CONTENT="6" HEIGHT="28" WIDTH="23" VPOS="2120" HPOS="180"/>
+            <String CONTENT="6" CHANGED="false" HPOS="180" VPOS="2120" WIDTH="23" HEIGHT="28"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>
