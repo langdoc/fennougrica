@@ -33,4 +33,3 @@ I have to find out how file corrections could be done in interaction with Revizo
 ## Contributors
 
 - Niko Partanen
-- Michael Rießler
