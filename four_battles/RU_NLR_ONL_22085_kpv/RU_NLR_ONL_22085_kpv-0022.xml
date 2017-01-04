@@ -285,9 +285,9 @@
             <String CONTENT="без-" CHANGED="true" HPOS="1729" VPOS="1584" WIDTH="71" HEIGHT="40"/>
           </TextLine>
           <TextLine HEIGHT="50" WIDTH="1590" VPOS="1638" HPOS="229">
-            <String CONTENT="защитной" CHANGED="false" HPOS="229" VPOS="1641" WIDTH="222" HEIGHT="39"/>
+            <String CONTENT="защитнӧй" CHANGED="true" HPOS="229" VPOS="1641" WIDTH="222" HEIGHT="39"/>
             <String CONTENT="станцияӧ" CHANGED="false" HPOS="480" VPOS="1641" WIDTH="206" HEIGHT="39"/>
-            <String CONTENT="вблі" CHANGED="false" HPOS="743" VPOS="1641" WIDTH="93" HEIGHT="35"/>
+            <String CONTENT="вӧлі" CHANGED="true" HPOS="743" VPOS="1641" WIDTH="93" HEIGHT="35"/>
             <String CONTENT="восьса." CHANGED="false" HPOS="867" VPOS="1649" WIDTH="161" HEIGHT="27"/>
             <String CONTENT="Нӧшта" CHANGED="false" HPOS="1061" VPOS="1638" WIDTH="152" HEIGHT="39"/>
             <String CONTENT="минута" CHANGED="true" HPOS="1272" VPOS="1650" WIDTH="180" HEIGHT="38"/>
@@ -319,7 +319,7 @@
             <String CONTENT="стальнӧй," CHANGED="false" HPOS="1603" VPOS="1801" WIDTH="215" HEIGHT="42"/>
           </TextLine>
           <TextLine HEIGHT="52" WIDTH="1590" VPOS="1851" HPOS="229">
-            <String CONTENT="свинцовой" CHANGED="false" HPOS="229" VPOS="1855" WIDTH="241" HEIGHT="39"/>
+            <String CONTENT="свинцовӧй" CHANGED="true" HPOS="229" VPOS="1855" WIDTH="241" HEIGHT="39"/>
             <String CONTENT="веерӧн" CHANGED="false" HPOS="502" VPOS="1854" WIDTH="157" HEIGHT="47"/>
             <String CONTENT="пырисны" CHANGED="false" HPOS="700" VPOS="1863" WIDTH="200" HEIGHT="38"/>
             <String CONTENT="мунысь" CHANGED="false" HPOS="945" VPOS="1863" WIDTH="167" HEIGHT="38"/>
